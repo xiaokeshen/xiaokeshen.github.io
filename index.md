@@ -15,4 +15,4 @@ My main research interests are in machine learning, computer vision and data vis
 
 
 ---
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=EEVFBXcFKfQfWbpeH9C8ohW0CKpgcc9T3XAYX7Zs8-s&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=EEVFBXcFKfQfWbpeH9C8ohW0CKpgcc9T3XAYX7Zs8-s"></script>
