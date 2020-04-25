@@ -29,7 +29,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 ### Dynamic Programming
 
--[Are you ready for solving the traveling salesman problem?](https://medium.com/analytics-vidhya/are-you-read-for-solving-the-traveling-salesman-problem-80e3c4ea45fc?source=friends_link&sk=b28ea8888460935401ae02f800d6ccd8)
+- [Are you ready for solving the traveling salesman problem?](https://medium.com/analytics-vidhya/are-you-read-for-solving-the-traveling-salesman-problem-80e3c4ea45fc?source=friends_link&sk=b28ea8888460935401ae02f800d6ccd8)
 
 ## Machine Learning
 
