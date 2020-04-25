@@ -1,0 +1,58 @@
+# Site wide configuration
+
+title:            jimmy shen
+locale:           en_US
+url:              https://xiaokeshen.github.io
+
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+
+# Site owner
+owner:
+  name: Jimmy Shen
+  avatar: jimmy.png
+  bio: "Ph.D. student in machine learning and computer vision."
+  email: jim.morris.shen@gmail.com
+  disqus-shortname: 
+  twitter: #
+  facebook: #
+  google:
+    plus:
+    analytics: 
+    scholar: #  # not supported by jekyll?
+    verify: 
+    ad-client: 
+    ad-slot: 
+  bing-verify: 
+  github: liketheflower
+  stackoverflow: #http://stackoverflow.com/users/123456/username
+  linkedin: #
+  instagram: #
+  lastfm: #
+  tumblr: #
+  pinterest: #
+  foursquare: #
+  steam: #
+  dribbble: #
+  youtube: #
+  soundcloud: #
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
