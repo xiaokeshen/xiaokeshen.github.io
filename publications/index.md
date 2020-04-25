@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-excerpt: "Publications"
+excerpt: "publications"
 image:
   feature: sample-image-2.jpg
 ---
