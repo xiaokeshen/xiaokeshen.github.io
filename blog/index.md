@@ -34,6 +34,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [summary](coding/dp/summary.md)
 
 #### Classical
+- [longest Increasing subsequence](coding/dp/classical/lis.md)
 - [longest common subsequence](coding/dp/classical/lcs.md)
 
 
