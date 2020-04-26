@@ -18,7 +18,7 @@ image:
 
 
 
-## Coding
+## Algorithm
 My 'Serious' coding got started since I became a student as a Computer Science Major at the CUNY. Thanks for [Siyu Liao](https://liaocs2008.github.io/)'s help during my earlier programming life. Thanks for professor [Liang Huang](http://web.engr.oregonstate.edu/~huanlian/) to guide me to the Python world. I am actively participate in the Leetcode weekly contest and you can find my profile [here](https://leetcode.com/liketheflower/).
 
 ### Graph Algorithm
@@ -32,13 +32,18 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [LeetCode 55 Jump Game](https://medium.com/@jim.morris.shen/jump-game-20b4e598b743?source=friends_link&sk=b867cea63ad9418a79f957af8f56b532)
 - [A DP problem](https://medium.com/@jim.morris.shen/a-dp-problem-a85ed7df44?source=friends_link&sk=508284b99db5bcc448f1e462db752395)
 
+#### 2D DP
+- [2d dp](https://medium.com/@jim.morris.shen/2d-dp-c9f563e542ee?source=friends_link&sk=9f94661dc8be068fdc1881bf9c618ba6)
+#### 3D DP
+- [3d dp](https://medium.com/@jim.morris.shen/3d-dp-c5488ba77f9a?source=friends_link&sk=91a4aaccdf4d1c63025bb7186e3c54c5)
+- [Dijkstra and Floyd Warshall](https://medium.com/analytics-vidhya/dijkstra-and-floyd-warshall-floyd-war-1937d8ac95f0)
 #### TSP
-
 - [Are you ready for solving the traveling salesman problem?](https://medium.com/analytics-vidhya/are-you-read-for-solving-the-traveling-salesman-problem-80e3c4ea45fc?source=friends_link&sk=b28ea8888460935401ae02f800d6ccd8)
 
 ## Data Structure
 - [Min Stack or Max Stack](https://medium.com/@jim.morris.shen/min-stack-or-max-stack-a5be2165cad8?source=friends_link&sk=8dd800652072ae9f16105bb4bda9f414)
-## Machine Learning
+
+## Machine Learning 
 
 ## Graph Neural Networks
 
