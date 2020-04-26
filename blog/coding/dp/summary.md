@@ -1,5 +1,4 @@
 ## Summary of Dynamic Problems
----
 | Problem       | State         | Transitions                                                                     | Time        | Space|
 | --- |---| ---|---|---|
 | [LIS](classical/lis.md)       | (i)        | all j<i    |O(n^2)      | O(n)|
