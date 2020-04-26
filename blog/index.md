@@ -29,6 +29,10 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 #### MST
 
 ### Dynamic Programming
+#### Classical
+- [lcs](coding/dp/classical/lcs.md)
+
+
 #### 1D DP  
 - [LeetCode 55 Jump Game](https://medium.com/@jim.morris.shen/jump-game-20b4e598b743?source=friends_link&sk=b867cea63ad9418a79f957af8f56b532)
 - [A DP problem](https://medium.com/@jim.morris.shen/a-dp-problem-a85ed7df44?source=friends_link&sk=508284b99db5bcc448f1e462db752395)
