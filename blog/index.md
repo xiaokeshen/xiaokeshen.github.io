@@ -31,11 +31,11 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ### Dynamic Programming
 
 #### Summary 
-- [summary](coding/dp/summary.md)
+- [Summary](coding/dp/summary.md)
 
 #### Classical
-- [longest Increasing subsequence](coding/dp/classical/lis.md)
-- [longest common subsequence](coding/dp/classical/lcs.md)
+- [Longest Increasing subsequence](coding/dp/classical/lis.md)
+- [Longest common subsequence](coding/dp/classical/lcs.md)
 
 
 #### 1D DP  
