@@ -1,11 +1,15 @@
-# Longest Common Subsequence
-## Problem
+## Longest Common Subsequence
+
+## Problem 
+
 [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 
-## Solution 
+## Solution  
+
 - dynamic programming. DP[i][j] represents the longest common subsequence of text1[0 ... i] & text2[0 ... j].
 
-## Code
+## Code 
+
 ```python
 # Top Down DP
 # time complexity O(MN)

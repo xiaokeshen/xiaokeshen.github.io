@@ -29,8 +29,10 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 #### MST
 
 ### Dynamic Programming
-#### Summary
+
+#### Summary 
 - [summary](coding/dp/summary.md)
+
 #### Classical
 - [longest common subsequence](coding/dp/classical/lcs.md)
 

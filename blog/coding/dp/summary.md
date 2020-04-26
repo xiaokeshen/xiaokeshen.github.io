@@ -1,4 +1,4 @@
-# Summary of Dynamic Problems
+## Summary of Dynamic Problems
 
 | Problem       | State         | Transitions                                                                     | Time        | Space|
 | ------------- |---------------| --------------------------------------------------------------------------------|-------------|------|
