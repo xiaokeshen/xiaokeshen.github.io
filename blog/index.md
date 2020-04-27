@@ -28,6 +28,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 #### MST
 
+#### Some relatively hard graph problems
+- [Hard graph](https://medium.com/@jim.morris.shen/hard-graph-f7a92d9f1def?source=friends_link&sk=196bdc5a29dd0272b8ac2e77741b496a)
+
 ### Dynamic Programming
 
 #### Summary 
