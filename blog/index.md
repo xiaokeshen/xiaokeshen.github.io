@@ -56,6 +56,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Are you ready for solving the traveling salesman problem?](https://medium.com/analytics-vidhya/are-you-read-for-solving-the-traveling-salesman-problem-80e3c4ea45fc?source=friends_link&sk=b28ea8888460935401ae02f800d6ccd8)
 
 ## Data Structure
+- [LRU and LFU](https://medium.com/@jim.morris.shen/lru-and-lfu-69363bc47b66?source=friends_link&sk=edbc20589ff40c02bd4e4956e31b8d71)
 - [Min Stack or Max Stack](https://medium.com/@jim.morris.shen/min-stack-or-max-stack-a5be2165cad8?source=friends_link&sk=8dd800652072ae9f16105bb4bda9f414)
 
 ## Machine Learning 
