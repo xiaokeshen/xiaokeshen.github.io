@@ -32,7 +32,7 @@ class Solution:
 
 ~~~
 
-### A better one
+### A better one (200 ms)
 A better one can be found [here](https://leetcode.com/problems/maximal-square/discuss/600149/Python-Thinking-Process-Diagrams-DP-Approach).  Below two images are from [here](https://leetcode.com/problems/maximal-square/discuss/600149/Python-Thinking-Process-Diagrams-DP-Approach).  
 
 ![](image_1587997873.png)
@@ -40,7 +40,28 @@ A better one can be found [here](https://leetcode.com/problems/maximal-square/di
 After you read the original post, and the code should be straightforward.
 
 ```python
-
-
+# time complexity: O(mn)
+# Space complexity: O(1)
+class Solution:
+    def maximalSquare(self, matrix: List[List[str]]) -> int:
+        if not matrix or not matrix[0]:return 0
+        R, C = len(matrix), len(matrix[0])
+        res = 0
+        for i in range(R):
+            for j in range(C):
+                if i==0 or j==0:
+                    matrix[i][j] = int(matrix[i][j])
+                    res = max(res, matrix[i][j])
+                else:
+                    if matrix[i][j]=='1':
+                        matrix[i][j] = min(matrix[i-1][j], matrix[i-1][j-1], matrix[i][j-1])+1
+                        res = max(res, matrix[i][j])
+                    else:
+                        matrix[i][j] = 0
+        return res**2   
 
 ```
+Thanks for reading.
+
+## Reference
+[Thinking Process Diagrams - DP Approach](https://leetcode.com/problems/maximal-square/discuss/600149/Python-Thinking-Process-Diagrams-DP-Approach)
