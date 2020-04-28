@@ -33,3 +33,14 @@ class Solution:
 ```
 
 ### A better one
+A better one can be found [here](https://leetcode.com/problems/maximal-square/discuss/600149/Python-Thinking-Process-Diagrams-DP-Approach).  Below two images are from [here](https://leetcode.com/problems/maximal-square/discuss/600149/Python-Thinking-Process-Diagrams-DP-Approach).  
+
+![](image_1587997873.png)
+![](image_1588005144.png)
+After you read the original post, and the code should be straightforward.
+
+```python
+
+
+
+```
