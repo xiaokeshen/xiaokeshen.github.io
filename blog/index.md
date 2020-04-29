@@ -58,6 +58,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ## Data Structure
 - [LRU and LFU](https://medium.com/@jim.morris.shen/lru-and-lfu-69363bc47b66?source=friends_link&sk=edbc20589ff40c02bd4e4956e31b8d71)
 - [Min Stack or Max Stack](https://medium.com/@jim.morris.shen/min-stack-or-max-stack-a5be2165cad8?source=friends_link&sk=8dd800652072ae9f16105bb4bda9f414)
+- [First Unique Number](coding/data_structure/first_unique_number.md)
 
 ## Machine Learning 
 
