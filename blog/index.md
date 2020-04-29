@@ -60,6 +60,12 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Min Stack or Max Stack](https://medium.com/@jim.morris.shen/min-stack-or-max-stack-a5be2165cad8?source=friends_link&sk=8dd800652072ae9f16105bb4bda9f414)
 - [First Unique Number](coding/data_structure/first_unique_number.md)
 
+## Binary Tree 
+
+Binary Tree should be categorized as Data Structure, however, it is so important and I'd like to set up a spearate category for binary tree problems.  
+- [binary tree maximum path sum](coding/data_structure/binary_tree/binary_tree_maximum_path_sum.md)
+
+
 ## Machine Learning 
 
 ## Graph Neural Networks
