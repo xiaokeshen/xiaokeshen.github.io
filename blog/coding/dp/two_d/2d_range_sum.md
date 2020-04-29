@@ -5,7 +5,7 @@
 ## Solution 
 ### Naive 2D DP precaculation solution (4148 ms)
 
-```python
+~~~ python
 """
 runtime: 4148 ms
 Time complexity: O(n^3)
@@ -30,7 +30,7 @@ class Solution:
                             res = (d+1)**2
         return res
 
-```
+~~~
 
 ### A better one (200 ms)
 A better one can be found [here](https://leetcode.com/problems/maximal-square/discuss/600149/Python-Thinking-Process-Diagrams-DP-Approach).  Below two images are from [here](https://leetcode.com/problems/maximal-square/discuss/600149/Python-Thinking-Process-Diagrams-DP-Approach).  
