@@ -64,7 +64,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 Binary Tree should be categorized as Data Structure, however, it is so important and I'd like to set up a spearate category for binary tree problems.  
 - [binary tree maximum path sum](coding/data_structure/binary_tree/binary_tree_maximum_path_sum.md)
-
+- [Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](coding/data_structure/binary_tree/check_if_string_valid_in_binary_tree.md)
 
 ## Machine Learning 
 
