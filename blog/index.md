@@ -48,6 +48,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 #### 2D DP
 - [2d dp](https://medium.com/@jim.morris.shen/2d-dp-c9f563e542ee?source=friends_link&sk=9f94661dc8be068fdc1881bf9c618ba6)
 - [2D range sum](coding/dp/two_d/2d_range_sum.md)
+
 #### 3D DP 
 - [3d dp](https://medium.com/@jim.morris.shen/3d-dp-c5488ba77f9a?source=friends_link&sk=91a4aaccdf4d1c63025bb7186e3c54c5)
 - [Dijkstra and Floyd Warshall](https://medium.com/analytics-vidhya/dijkstra-and-floyd-warshall-floyd-war-1937d8ac95f0)
@@ -68,7 +69,7 @@ Binary Tree should be categorized as Data Structure, however, it is so important
 
 ## Games  
 
-[LeetCode 913. Cat and Mouse](https://leetcode.com/problems/cat-and-mouse/discuss/450609/Short-correct-and-easy-to-understand-python-translated-from-C++JAVA-solution.)
+- [LeetCode 913. Cat and Mouse](https://leetcode.com/problems/cat-and-mouse/discuss/450609/Short-correct-and-easy-to-understand-python-translated-from-C++JAVA-solution.)
 
 ## Machine Learning 
 
