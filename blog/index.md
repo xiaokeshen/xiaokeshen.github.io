@@ -66,6 +66,10 @@ Binary Tree should be categorized as Data Structure, however, it is so important
 - [binary tree maximum path sum](coding/data_structure/binary_tree/binary_tree_maximum_path_sum.md)
 - [Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](coding/data_structure/binary_tree/check_if_string_valid_in_binary_tree.md)
 
+## Games  
+
+[LeetCode 913. Cat and Mouse](https://leetcode.com/problems/cat-and-mouse/discuss/450609/Short-correct-and-easy-to-understand-python-translated-from-C++JAVA-solution.)
+
 ## Machine Learning 
 
 ## Graph Neural Networks
