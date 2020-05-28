@@ -26,6 +26,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 #### BFS/DFS
 
+#### Bipartition
+- [Leetcode 886. Possible Bipartition](coding/graph/bipartition/bipartition.md)
+
 #### MST
 
 #### Some relatively hard graph problems
