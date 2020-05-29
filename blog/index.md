@@ -26,6 +26,10 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 #### BFS/DFS
 
+#### topological sort
+[LeetCode course schedule](coding/graph/topological_sort/topological_sort.md)
+
+
 #### Bipartition
 - [Leetcode 886. Possible Bipartition](coding/graph/bipartition/bipartition.md)
 
