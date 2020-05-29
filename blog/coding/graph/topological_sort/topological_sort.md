@@ -1,4 +1,4 @@
-# [Problem]()
+# [Problem](https://leetcode.com/problems/course-schedule)
 # topological sort solution based on BFS
 ```python
 # time complexity: O(V+E)
