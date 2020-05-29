@@ -74,6 +74,9 @@ Binary Tree should be categorized as Data Structure, however, it is so important
 
 - [LeetCode 913. Cat and Mouse](https://leetcode.com/problems/cat-and-mouse/discuss/450609/Short-correct-and-easy-to-understand-python-translated-from-C++JAVA-solution.)
 
+## Soft deletion  
+-[soft deletion problems](coding/soft_deletion/soft_deletion.md)
+
 ## Machine Learning 
 
 ## Graph Neural Networks
