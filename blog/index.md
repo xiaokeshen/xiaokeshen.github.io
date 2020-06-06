@@ -63,28 +63,37 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 #### TSP  
 - [Are you ready for solving the traveling salesman problem?](https://medium.com/analytics-vidhya/are-you-read-for-solving-the-traveling-salesman-problem-80e3c4ea45fc?source=friends_link&sk=b28ea8888460935401ae02f800d6ccd8)
 
-## Data Structure
+## Monotonic Queue   
+
+- [Monotonic queue](https://medium.com/@jim.morris.shen/monotonic-queue-52d1472ee4e4?source=friends_link&sk=64cb46f421815aa4a002b375674faa74)
+
+## Data Structure  
+### Data Structure Design  
+
 - [LRU and LFU](https://medium.com/@jim.morris.shen/lru-and-lfu-69363bc47b66?source=friends_link&sk=edbc20589ff40c02bd4e4956e31b8d71)
 - [Min Stack or Max Stack](https://medium.com/@jim.morris.shen/min-stack-or-max-stack-a5be2165cad8?source=friends_link&sk=8dd800652072ae9f16105bb4bda9f414)
 - [First Unique Number](coding/data_structure/first_unique_number.md)
 
-## Linked List  
-- [Singly Linked List](coding/data_structure/linked_list/single_linked_list.md)
-## Binary Tree 
+### Linked List   
 
-Binary Tree should be categorized as Data Structure, however, it is so important and I'd like to set up a spearate category for binary tree problems.  
+- [Singly Linked List](coding/data_structure/linked_list/single_linked_list.md)
+
+### Binary Tree   
+
 - [binary tree maximum path sum](coding/data_structure/binary_tree/binary_tree_maximum_path_sum.md)
 - [Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](coding/data_structure/binary_tree/check_if_string_valid_in_binary_tree.md)
 
-## Fenwick Tree or binary index tree  
+### Fenwick Tree or binary index tree   
+
 - [Fenwick Tree or binary index tree](https://medium.com/@jim.morris.shen/fenwick-tree-or-binary-index-tree-5ee59877707c?source=friends_link&sk=0fa16fc60e8604e81b6df22654ea366e)
 
-## Games  
+### Soft deletion  
+- [soft deletion problems](coding/soft_deletion/soft_deletion.md)
+
+## Games    
 
 - [LeetCode 913. Cat and Mouse](https://leetcode.com/problems/cat-and-mouse/discuss/450609/Short-correct-and-easy-to-understand-python-translated-from-C++JAVA-solution.)
 
-## Soft deletion  
-- [soft deletion problems](coding/soft_deletion/soft_deletion.md)
 
 ## Machine Learning 
 
