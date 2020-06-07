@@ -56,7 +56,8 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [2d dp](https://medium.com/@jim.morris.shen/2d-dp-c9f563e542ee?source=friends_link&sk=9f94661dc8be068fdc1881bf9c618ba6)
 - [2D range sum](coding/dp/two_d/2d_range_sum.md)
 - [LCS style problems](coding/dp/two_d/lcs_style.md)
-#### 3D DP 
+
+#### 3D DP  
 - [3d dp](https://medium.com/@jim.morris.shen/3d-dp-c5488ba77f9a?source=friends_link&sk=91a4aaccdf4d1c63025bb7186e3c54c5)
 - [Dijkstra and Floyd Warshall](https://medium.com/analytics-vidhya/dijkstra-and-floyd-warshall-floyd-war-1937d8ac95f0)
 
@@ -83,17 +84,17 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [binary tree maximum path sum](coding/data_structure/binary_tree/binary_tree_maximum_path_sum.md)
 - [Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](coding/data_structure/binary_tree/check_if_string_valid_in_binary_tree.md)
 
-### Fenwick Tree or binary index tree   
-
+### Fenwick Tree or binary index tree    
 - [Fenwick Tree or binary index tree](https://medium.com/@jim.morris.shen/fenwick-tree-or-binary-index-tree-5ee59877707c?source=friends_link&sk=0fa16fc60e8604e81b6df22654ea366e)
 
 ### Soft deletion  
 - [soft deletion problems](coding/soft_deletion/soft_deletion.md)
 
 ## Games    
-
 - [LeetCode 913. Cat and Mouse](https://leetcode.com/problems/cat-and-mouse/discuss/450609/Short-correct-and-easy-to-understand-python-translated-from-C++JAVA-solution.)
 
+## Random topics  
+###[Garbage Collection](https://medium.com/@jim.morris.shen/garbage-collection-1de26869d2f7?source=friends_link&sk=534fcf620748c58a4a50e0f8cfa8ef20)
 
 ## Machine Learning 
 
