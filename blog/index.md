@@ -46,7 +46,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 #### Classical
 - [Longest Increasing subsequence](coding/dp/classical/lis.md)
 - [Longest common subsequence](coding/dp/classical/lcs.md)
-
+- [Combination sum or Coin Change](https://medium.com/@jim.morris.shen/combination-sum-or-coin-change-cd9264a02903?source=friends_link&sk=f071a05acbedc48a1ce9b1f61b5f49ab)
 
 #### 1D DP  
 - [LeetCode 55 Jump Game](https://medium.com/@jim.morris.shen/jump-game-20b4e598b743?source=friends_link&sk=b867cea63ad9418a79f957af8f56b532)
