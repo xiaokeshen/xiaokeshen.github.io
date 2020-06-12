@@ -111,3 +111,5 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ### Linux Source Code  
 ### Pytorch Source Code  
 - [How to understand Pytorch Source Code](https://medium.com/@jim.morris.shen/how-to-understand-pytorch-source-code-1fdbdbbf007e?source=friends_link&sk=435606c5255887776c92cb738e3f6694)
+## Kernel Programming  
+- [Hello World Kernal Programming](https://github.com/liketheflower/CSCI340/blob/master/kernel_programming/README.md)
