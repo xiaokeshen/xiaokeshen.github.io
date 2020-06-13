@@ -107,9 +107,13 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ### Graph Classification  
 - [Graph Classification by DGL](https://medium.com/@jim.morris.shen/tutorial-of-graph-classification-by-dgl-75baa9478c16?source=friends_link&sk=44b0c49061390ab9ae946f1b8b9a0f6e)
 
-## Source Code  
+## Source Code understanding  
 ### Linux Source Code  
 ### Pytorch Source Code  
 - [How to understand Pytorch Source Code](https://medium.com/@jim.morris.shen/how-to-understand-pytorch-source-code-1fdbdbbf007e?source=friends_link&sk=435606c5255887776c92cb738e3f6694)
-## Kernel Programming  
+## Kernel Programming   
 - [Hello World Kernal Programming](https://github.com/liketheflower/CSCI340/blob/master/kernel_programming/README.md)
+
+## Operating system   
+### Memory allocation  
+- [stack and heap](https://medium.com/@jim.morris.shen/stack-and-heap-in-memory-allocation-dc5ce44c42ac?source=friends_link&sk=2bf7c06d847d35c2e817bf2c3d7984ea)
