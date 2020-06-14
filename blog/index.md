@@ -83,6 +83,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Union find and binary search](https://medium.com/@jim.morris.shen/union-find-and-binary-search-ddbdee684641?source=friends_link&sk=4e4ce2ecd1f64c2341190554cb2a02d2)
 ### Soft deletion and Monotonic Queue  
 - [2d sliding window min/max problem](https://medium.com/@jim.morris.shen/2d-sliding-window-min-max-problem-e24b0c707a62?source=friends_link&sk=46498cedeb74b99fa2cd188e492184ba)
+### DP and binary seach and monotonic queue  
+- [DP, binary seach and monotonic queue ](https://medium.com/@jim.morris.shen/dp-binary-search-and-monotonic-queue-fc176f7b21c7?source=friends_link&sk=ff461c1950c896faf5183017f7236a79)
+
 ## Data Structure  
 ### Data Structure Design  
 
