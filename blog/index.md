@@ -68,7 +68,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ## Monotonic Queue   
 
 - [Monotonic queue](https://medium.com/@jim.morris.shen/monotonic-queue-52d1472ee4e4?source=friends_link&sk=64cb46f421815aa4a002b375674faa74)
-
+- [2d sliding window min/max problem](https://medium.com/@jim.morris.shen/2d-sliding-window-min-max-problem-e24b0c707a62?source=friends_link&sk=46498cedeb74b99fa2cd188e492184ba)
 ## Two Pointers  
 - [Two Pointer problems](https://medium.com/@jim.morris.shen/two-pointers-5bc86424ffd4?source=friends_link&sk=20eb28ea867ad7f3a3e67b22fd5bf4f9)
 
@@ -81,7 +81,8 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [BFS and Dijkstra algorithm](https://medium.com/@jim.morris.shen/bfs-dijkstra-c46de5cb1f0b?source=friends_link&sk=f9cc2b3f457dc7f8731d99d5881994db)
 ### Union find and binary search    
 - [Union find and binary search](https://medium.com/@jim.morris.shen/union-find-and-binary-search-ddbdee684641?source=friends_link&sk=4e4ce2ecd1f64c2341190554cb2a02d2)
-
+### Soft deletion and Monotonic Queue  
+- [2d sliding window min/max problem](https://medium.com/@jim.morris.shen/2d-sliding-window-min-max-problem-e24b0c707a62?source=friends_link&sk=46498cedeb74b99fa2cd188e492184ba)
 ## Data Structure  
 ### Data Structure Design  
 
