@@ -72,6 +72,8 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ## Two Pointers  
 - [Two Pointer problems](https://medium.com/@jim.morris.shen/two-pointers-5bc86424ffd4?source=friends_link&sk=20eb28ea867ad7f3a3e67b22fd5bf4f9)
 
+## Doubly Algorithm  
+- [Doubly Algorithm](https://medium.com/@jim.morris.shen/doubly-algorithm-d7eb1f32155?source=friends_link&sk=79c782ac6aca25bd74592cc540039967)
 
 ## Data Structure  
 ### Data Structure Design  
