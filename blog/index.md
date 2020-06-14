@@ -75,7 +75,11 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ## Doubly Algorithm  
 - [Doubly Algorithm](https://medium.com/@jim.morris.shen/doubly-algorithm-d7eb1f32155?source=friends_link&sk=79c782ac6aca25bd74592cc540039967)
 
-## Union find and binary search  
+## Mixed algorithms  
+
+### BFS and Dijkstra  
+- [BFS and Dijkstra algorithm](https://medium.com/@jim.morris.shen/bfs-dijkstra-c46de5cb1f0b?source=friends_link&sk=f9cc2b3f457dc7f8731d99d5881994db)
+### Union find and binary search    
 - [Union find and binary search](https://medium.com/@jim.morris.shen/union-find-and-binary-search-ddbdee684641?source=friends_link&sk=4e4ce2ecd1f64c2341190554cb2a02d2)
 
 ## Data Structure  
