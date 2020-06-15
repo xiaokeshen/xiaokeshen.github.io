@@ -115,7 +115,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ## Random topics  
 ###[Garbage Collection](https://medium.com/@jim.morris.shen/garbage-collection-1de26869d2f7?source=friends_link&sk=534fcf620748c58a4a50e0f8cfa8ef20)
 
-## Machine Learning 
+## Machine Learning   
+### Coding  
+- [Implement K means by using Numpy](https://medium.com/@jim.morris.shen/simple-implement-k-means-by-using-numpy-8a0b16883da5?source=friends_link&sk=c2d6b4046ad83fc2b73578922b29bb85)
 
 ## Graph Neural Networks
 ### Graph Classification  
