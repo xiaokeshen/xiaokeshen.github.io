@@ -122,6 +122,8 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ## Graph Neural Networks
 ### Graph Classification  
 - [Graph Classification by DGL](https://medium.com/@jim.morris.shen/tutorial-of-graph-classification-by-dgl-75baa9478c16?source=friends_link&sk=44b0c49061390ab9ae946f1b8b9a0f6e)
+### Pytorch Coding Tips  
+[Pytorch freeze part of the layers](https://medium.com/@jim.morris.shen/pytorch-freeze-part-of-the-layers-4554105e03a6?source=friends_link&sk=20df07ebc5848050e68efe27b03ad37f)
 
 ## Source Code understanding  
 ### Linux Source Code  
