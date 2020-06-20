@@ -73,6 +73,12 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ## Two Pointers  
 - [Two Pointer problems](https://medium.com/@jim.morris.shen/two-pointers-5bc86424ffd4?source=friends_link&sk=20eb28ea867ad7f3a3e67b22fd5bf4f9)
 
+## Binary Search  
+- [binary search](https://medium.com/@jim.morris.shen/binary-search-30f3d0d7225?source=friends_link&sk=585409d25eeb3e41daea53f3a16c4b5d)
+
+## rolling hash  
+- [rolling hash](https://medium.com/@jim.morris.shen/rolling-hash-problems-26c7a1346545?source=friends_link&sk=893381007ee153435b5f3dc2b4675bc2)
+
 ## Doubly Algorithm  
 - [Doubly Algorithm](https://medium.com/@jim.morris.shen/doubly-algorithm-d7eb1f32155?source=friends_link&sk=79c782ac6aca25bd74592cc540039967)
 
