@@ -85,6 +85,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ## Doubly Algorithm  
 - [Doubly Algorithm](https://medium.com/@jim.morris.shen/doubly-algorithm-d7eb1f32155?source=friends_link&sk=79c782ac6aca25bd74592cc540039967)
 
+## Bit manipulation  
+[Bit manipulation](https://medium.com/@jim.morris.shen/bit-manipulation-625e7a6382c1?source=friends_link&sk=8c8c157763b6a9f1cffa4a7e70189b5c)
+ 
 ## Mixed algorithms  
 
 ### BFS and Dijkstra  
