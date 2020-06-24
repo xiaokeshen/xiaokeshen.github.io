@@ -101,6 +101,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 ### DFS and DP  
 - [DFS and DP](https://medium.com/@jim.morris.shen/binary-seardfs-and-dp-e7fa99a8742d?source=friends_link&sk=85922ce20cfa65bfe684b7bf048d1c07)
+
+### Two pointers and linked list  
+- [Two pointers and Linked List](https://medium.com/@jim.morris.shen/two-pointers-and-linked-list-f43ab9242070?source=friends_link&sk=b0df73a69ceb49a258d7589c8c2db25c)
 ## Data Structure  
 ### Data Structure Design  
 
