@@ -104,6 +104,11 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 ### Two pointers and linked list  
 - [Two pointers and Linked List](https://medium.com/@jim.morris.shen/two-pointers-and-linked-list-f43ab9242070?source=friends_link&sk=b0df73a69ceb49a258d7589c8c2db25c)
+
+### Two pointers and binary search  
+- [two pointer and binary search](https://medium.com/@jim.morris.shen/binary-search-and-two-pointer-4c9e2043f55c?sk=6481ddfcdc873617310fd223844abebb)
+
+
 ## Data Structure  
 ### Data Structure Design  
 
