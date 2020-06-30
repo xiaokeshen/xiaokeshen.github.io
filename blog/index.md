@@ -87,7 +87,10 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 ## Bit manipulation  
 [Bit manipulation](https://medium.com/@jim.morris.shen/bit-manipulation-625e7a6382c1?source=friends_link&sk=8c8c157763b6a9f1cffa4a7e70189b5c)
- 
+
+## Backtracking
+- [Backtracking](https://medium.com/@jim.morris.shen/backtrack-6cfb2a8fe510?source=friends_link&sk=eb9be292fba2a377edc0f2f9d404052a)
+
 ## Mixed algorithms  
 
 ### BFS and Dijkstra  
