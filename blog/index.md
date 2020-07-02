@@ -124,7 +124,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Singly Linked List](coding/data_structure/linked_list/single_linked_list.md)
 
 ### Binary Tree   
-
+- [Basic binary tree problems](https://medium.com/@jim.morris.shen/basic-binary-tree-problems-b5593407f777?source=friends_link&sk=69df21a4b7723a691018d7afe4908398)
 - [binary tree maximum path sum](coding/data_structure/binary_tree/binary_tree_maximum_path_sum.md)
 - [Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](coding/data_structure/binary_tree/check_if_string_valid_in_binary_tree.md)
 
