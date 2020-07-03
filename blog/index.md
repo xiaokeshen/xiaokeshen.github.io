@@ -129,6 +129,8 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 ### Fenwick Tree or binary index tree    
 - [Fenwick Tree or binary index tree](https://medium.com/@jim.morris.shen/fenwick-tree-or-binary-index-tree-5ee59877707c?source=friends_link&sk=0fa16fc60e8604e81b6df22654ea366e)
+### Red Black Tree  
+- [Red Black Tree](https://medium.com/@jim.morris.shen/red-black-tree-rotateleft-right-gif-ff535ae16a6c?source=friends_link&sk=5b1ed408660940463c5d2a95aeaa11f6)
 
 ### Soft deletion  
 - [soft deletion problems](coding/soft_deletion/soft_deletion.md)
