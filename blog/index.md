@@ -28,7 +28,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 
 #### topological sort
-[LeetCode course schedule](coding/graph/topological_sort/topological_sort.md)
+- [LeetCode course schedule](coding/graph/topological_sort/topological_sort.md)
 
 
 #### Bipartition
@@ -87,7 +87,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Doubly Algorithm](https://medium.com/@jim.morris.shen/doubly-algorithm-d7eb1f32155?source=friends_link&sk=79c782ac6aca25bd74592cc540039967)
 
 ## Bit manipulation  
-[Bit manipulation](https://medium.com/@jim.morris.shen/bit-manipulation-625e7a6382c1?source=friends_link&sk=8c8c157763b6a9f1cffa4a7e70189b5c)
+- [Bit manipulation](https://medium.com/@jim.morris.shen/bit-manipulation-625e7a6382c1?source=friends_link&sk=8c8c157763b6a9f1cffa4a7e70189b5c)
 
 ## Backtracking
 - [Backtracking](https://medium.com/@jim.morris.shen/backtrack-6cfb2a8fe510?source=friends_link&sk=eb9be292fba2a377edc0f2f9d404052a)
@@ -95,10 +95,13 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ## Mixed algorithms   
 ### BFS and Dijkstra   
 - [BFS and Dijkstra algorithm](https://medium.com/@jim.morris.shen/bfs-dijkstra-c46de5cb1f0b?source=friends_link&sk=f9cc2b3f457dc7f8731d99d5881994db)
-### Union find and binary search    
+
+### Union find and binary search     
 - [Union find and binary search](https://medium.com/@jim.morris.shen/union-find-and-binary-search-ddbdee684641?source=friends_link&sk=4e4ce2ecd1f64c2341190554cb2a02d2)
-### Soft deletion and Monotonic Queue  
+
+### Soft deletion and Monotonic Queue    
 - [2d sliding window min/max problem](https://medium.com/@jim.morris.shen/2d-sliding-window-min-max-problem-e24b0c707a62?source=friends_link&sk=46498cedeb74b99fa2cd188e492184ba)
+
 ### DP and binary seach and monotonic queue  
 - [DP, binary seach and monotonic queue ](https://medium.com/@jim.morris.shen/dp-binary-search-and-monotonic-queue-fc176f7b21c7?source=friends_link&sk=ff461c1950c896faf5183017f7236a79)
 
@@ -119,7 +122,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Min Stack or Max Stack](https://medium.com/@jim.morris.shen/min-stack-or-max-stack-a5be2165cad8?source=friends_link&sk=8dd800652072ae9f16105bb4bda9f414)
 - [First Unique Number](coding/data_structure/first_unique_number.md)
 
-### Linked List   
+### Linked List     
 - [Singly Linked List](coding/data_structure/linked_list/single_linked_list.md)
 
 ### Binary Tree   
@@ -129,6 +132,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 ### Fenwick Tree or binary index tree    
 - [Fenwick Tree or binary index tree](https://medium.com/@jim.morris.shen/fenwick-tree-or-binary-index-tree-5ee59877707c?source=friends_link&sk=0fa16fc60e8604e81b6df22654ea366e)
+
 ### Red Black Tree  
 - [Red Black Tree](https://medium.com/@jim.morris.shen/red-black-tree-rotateleft-right-gif-ff535ae16a6c?source=friends_link&sk=5b1ed408660940463c5d2a95aeaa11f6)
 
