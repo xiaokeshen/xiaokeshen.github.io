@@ -172,3 +172,5 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 ## C++ tips   
 - [Customize comparison in C++](https://medium.com/@jim.morris.shen/customize-comparison-in-c-fa48c0eac6d8?source=friends_link&sk=9cb6f7984b4af134683575f94b44db08)
+- [lambdas in c++](https://medium.com/@jim.morris.shen/lambdas-in-c-9a3045587be0?source=friends_link&sk=03a446b1ef4082743a3c815eaffeb193)
+- [C++ Tips](https://medium.com/@jim.morris.shen/c-tips-5b178c418a58?source=friends_link&sk=33ac980f8b6b895cb3ed9ac6ab6d09d0)
