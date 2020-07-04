@@ -164,3 +164,6 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ## Operating system   
 ### Memory allocation  
 - [stack and heap](https://medium.com/@jim.morris.shen/stack-and-heap-in-memory-allocation-dc5ce44c42ac?source=friends_link&sk=2bf7c06d847d35c2e817bf2c3d7984ea)
+
+## C++ tips   
+- [Customize comparison in C++](https://medium.com/@jim.morris.shen/customize-comparison-in-c-fa48c0eac6d8?source=friends_link&sk=9cb6f7984b4af134683575f94b44db08)
