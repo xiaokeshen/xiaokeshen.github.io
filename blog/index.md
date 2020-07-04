@@ -49,6 +49,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Variations of LIS probems](https://medium.com/@jim.morris.shen/variations-of-lis-13965a6905a8?source=friends_link&sk=053a02336a3a1c21919bd1db21819d71)
 - [Longest common subsequence](coding/dp/classical/lcs.md)
 - [Combination sum or Coin Change](https://medium.com/@jim.morris.shen/combination-sum-or-coin-change-cd9264a02903?source=friends_link&sk=f071a05acbedc48a1ce9b1f61b5f49ab)
+- [Jump Games](https://medium.com/@jim.morris.shen/sliding-window-min-max-priority-queue-monotonic-queue-ec77636cdc31?source=friends_link&sk=3c41b31a29a2fd879c1ff478e9777b2d)
 
 #### 1D DP  
 - [LeetCode 55 Jump Game](https://medium.com/@jim.morris.shen/jump-game-20b4e598b743?source=friends_link&sk=b867cea63ad9418a79f957af8f56b532)
