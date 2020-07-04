@@ -144,7 +144,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [LeetCode 913. Cat and Mouse](https://leetcode.com/problems/cat-and-mouse/discuss/450609/Short-correct-and-easy-to-understand-python-translated-from-C++JAVA-solution.)
 
 ## Random topics  
-###[Garbage Collection](https://medium.com/@jim.morris.shen/garbage-collection-1de26869d2f7?source=friends_link&sk=534fcf620748c58a4a50e0f8cfa8ef20)
+
+### Garbage Collection   
+- [Garbage Collection](https://medium.com/@jim.morris.shen/garbage-collection-1de26869d2f7?source=friends_link&sk=534fcf620748c58a4a50e0f8cfa8ef20)
 
 ## Machine Learning   
 ### Coding  
