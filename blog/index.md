@@ -98,6 +98,10 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ## Backtracking
 - [Backtracking](https://medium.com/@jim.morris.shen/backtrack-6cfb2a8fe510?source=friends_link&sk=eb9be292fba2a377edc0f2f9d404052a)
 
+## Process simulation  
+- [process simulation](https://medium.com/@jim.morris.shen/process-simulation-ed6e726efa9?source=friends_link&sk=3b45a1f1226312c165bf658619f7e2c3)
+
+
 ## Mixed algorithms   
 ### BFS and Dijkstra   
 - [BFS and Dijkstra algorithm](https://medium.com/@jim.morris.shen/bfs-dijkstra-c46de5cb1f0b?source=friends_link&sk=f9cc2b3f457dc7f8731d99d5881994db)
@@ -181,3 +185,6 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Customize comparison in C++](https://medium.com/@jim.morris.shen/customize-comparison-in-c-fa48c0eac6d8?source=friends_link&sk=9cb6f7984b4af134683575f94b44db08)
 - [lambdas in c++](https://medium.com/@jim.morris.shen/lambdas-in-c-9a3045587be0?source=friends_link&sk=03a446b1ef4082743a3c815eaffeb193)
 - [C++ Tips](https://medium.com/@jim.morris.shen/c-tips-5b178c418a58?source=friends_link&sk=33ac980f8b6b895cb3ed9ac6ab6d09d0)
+
+## Top Coders  
+- [top coders](https://medium.com/@jim.morris.shen/top-coders-c4aa2ffd5544?source=friends_link&sk=64ee99ca78b5b93ab464abd2b6cf87cd)
