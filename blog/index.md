@@ -81,6 +81,11 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ## Binary Search  
 - [binary search](https://medium.com/@jim.morris.shen/binary-search-30f3d0d7225?source=friends_link&sk=585409d25eeb3e41daea53f3a16c4b5d)
 
+## String problems  
+- [KMP](https://medium.com/@jim.morris.shen/kmp-674b29c95411?source=friends_link&sk=444bcadb1100bddb78d3108e216de273)
+- [String](https://medium.com/@jim.morris.shen/string-7962ff974ed4?source=friends_link&sk=6e2251ed7d3480ad309ed39cba51461f)
+- [Hard string](https://medium.com/@jim.morris.shen/hard-string-problems-f267f0995f3a?source=friends_link&sk=a7c2b31ef7c7338dc2ddfecb616378d7)
+
 ## rolling hash  
 - [rolling hash](https://medium.com/@jim.morris.shen/rolling-hash-problems-26c7a1346545?source=friends_link&sk=893381007ee153435b5f3dc2b4675bc2)
 
