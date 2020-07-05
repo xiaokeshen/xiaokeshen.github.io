@@ -69,6 +69,8 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 #### TSP  
 - [Are you ready for solving the traveling salesman problem?](https://medium.com/analytics-vidhya/are-you-read-for-solving-the-traveling-salesman-problem-80e3c4ea45fc?source=friends_link&sk=b28ea8888460935401ae02f800d6ccd8)
+#### Bitmask DP  
+- [bitmask DP](https://medium.com/@jim.morris.shen/bitmask-state-compression-dp-39e7ba56978b?source=friends_link&sk=46156da297f84c7dae5777cf28f7c636)
 
 ## Monotonic Queue   
 - [Monotonic queue](https://medium.com/@jim.morris.shen/monotonic-queue-52d1472ee4e4?source=friends_link&sk=64cb46f421815aa4a002b375674faa74)
