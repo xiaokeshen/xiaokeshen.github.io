@@ -192,6 +192,6 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Customize comparison in C++](https://medium.com/@jim.morris.shen/customize-comparison-in-c-fa48c0eac6d8?source=friends_link&sk=9cb6f7984b4af134683575f94b44db08)
 - [lambdas in c++](https://medium.com/@jim.morris.shen/lambdas-in-c-9a3045587be0?source=friends_link&sk=03a446b1ef4082743a3c815eaffeb193)
 - [C++ Tips](https://medium.com/@jim.morris.shen/c-tips-5b178c418a58?source=friends_link&sk=33ac980f8b6b895cb3ed9ac6ab6d09d0)
-
+- [C++ Should curly braces be on their own line or not?](https://medium.com/@jim.morris.shen/c-should-curly-braces-be-on-their-own-line-or-not-f716077fadf2?sk=11737c2872d7f5013244582ba84fbc08)
 ## Top Coders  
 - [top coders](https://medium.com/@jim.morris.shen/top-coders-c4aa2ffd5544?source=friends_link&sk=64ee99ca78b5b93ab464abd2b6cf87cd)
