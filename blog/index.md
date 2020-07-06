@@ -88,6 +88,11 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [String](https://medium.com/@jim.morris.shen/string-7962ff974ed4?source=friends_link&sk=6e2251ed7d3480ad309ed39cba51461f)
 - [Hard string](https://medium.com/@jim.morris.shen/hard-string-problems-f267f0995f3a?source=friends_link&sk=a7c2b31ef7c7338dc2ddfecb616378d7)
 
+## Union find 
+
+## Segment Tree  
+- [segment tree and RMQ](https://medium.com/@jim.morris.shen/segment-tree-or-rmq-442de4517c65?sk=c91fa0c5eb9bc99c68a6850101557a99)
+
 ## rolling hash  
 - [rolling hash](https://medium.com/@jim.morris.shen/rolling-hash-problems-26c7a1346545?source=friends_link&sk=893381007ee153435b5f3dc2b4675bc2)
 
