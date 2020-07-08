@@ -79,6 +79,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 ## Two Pointers  
 - [Two Pointer problems](https://medium.com/@jim.morris.shen/two-pointers-5bc86424ffd4?source=friends_link&sk=20eb28ea867ad7f3a3e67b22fd5bf4f9)
+- [Two Pointer](https://medium.com/@jim.morris.shen/two-points-fcb8ef6861e4?source=friends_link&sk=353cf1fa8b35aef6edba803aecdc38a2)
 
 ## Binary Search  
 - [binary search](https://medium.com/@jim.morris.shen/binary-search-30f3d0d7225?source=friends_link&sk=585409d25eeb3e41daea53f3a16c4b5d)
