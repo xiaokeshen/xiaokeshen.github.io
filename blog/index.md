@@ -148,6 +148,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Basic binary tree problems](https://medium.com/@jim.morris.shen/basic-binary-tree-problems-b5593407f777?source=friends_link&sk=69df21a4b7723a691018d7afe4908398)
 - [binary tree maximum path sum](coding/data_structure/binary_tree/binary_tree_maximum_path_sum.md)
 - [Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](coding/data_structure/binary_tree/check_if_string_valid_in_binary_tree.md)
+- [BFS and binary tree](https://medium.com/@jim.morris.shen/bfs-and-binary-tree-ca67179a4921?source=friends_link&sk=1017218c16513c6b8d8b4deba188820f)
 
 ### Fenwick Tree or binary index tree    
 - [Fenwick Tree or binary index tree](https://medium.com/@jim.morris.shen/fenwick-tree-or-binary-index-tree-5ee59877707c?source=friends_link&sk=0fa16fc60e8604e81b6df22654ea366e)
