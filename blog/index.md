@@ -167,6 +167,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 ## Games    
 - [LeetCode 913. Cat and Mouse](https://leetcode.com/problems/cat-and-mouse/discuss/450609/Short-correct-and-easy-to-understand-python-translated-from-C++JAVA-solution.)
+- [Games](https://medium.com/@jim.morris.shen/games-fe8e5cfe26f7?source=friends_link&sk=754495f282897338af6fbe1b09b9c3ff)
 
 ## Random topics  
 
