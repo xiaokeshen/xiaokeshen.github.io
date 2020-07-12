@@ -27,6 +27,13 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 #### BFS/DFS
 
 
+
+#### BFS and Dijkstra 
+- [BFS + Dijkstra](https://medium.com/@jim.morris.shen/bfs-dijkstra-c46de5cb1f0b?source=friends_link&sk=f9cc2b3f457dc7f8731d99d5881994db) 
+
+### Dijkstra and Floyd Warshall  
+- [Dijkstra and Floyd Warshall](https://medium.com/analytics-vidhya/dijkstra-and-floyd-warshall-floyd-war-1937d8ac95f0?source=friends_link&sk=a23a0697455d881fe98f5f7aab3214ef)
+
 #### topological sort
 - [LeetCode course schedule](coding/graph/topological_sort/topological_sort.md)
 
