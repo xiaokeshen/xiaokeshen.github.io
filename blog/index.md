@@ -98,7 +98,8 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [String](https://medium.com/@jim.morris.shen/string-7962ff974ed4?source=friends_link&sk=6e2251ed7d3480ad309ed39cba51461f)
 - [Hard string](https://medium.com/@jim.morris.shen/hard-string-problems-f267f0995f3a?source=friends_link&sk=a7c2b31ef7c7338dc2ddfecb616378d7)
 
-## Union find 
+## Union find    
+-[Union find](https://medium.com/@jim.morris.shen/union-find-3b4fa9f73a0e?source=friends_link&sk=4e5d48ae25769760f0674ced8cd1c79f)  
 
 ## Segment Tree  
 - [segment tree and RMQ](https://medium.com/@jim.morris.shen/segment-tree-or-rmq-442de4517c65?sk=c91fa0c5eb9bc99c68a6850101557a99)
