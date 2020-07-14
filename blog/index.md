@@ -27,7 +27,6 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 #### BFS/DFS
 
 
-
 #### BFS and Dijkstra 
 - [BFS + Dijkstra](https://medium.com/@jim.morris.shen/bfs-dijkstra-c46de5cb1f0b?source=friends_link&sk=f9cc2b3f457dc7f8731d99d5881994db) 
 
@@ -103,7 +102,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Hard string](https://medium.com/@jim.morris.shen/hard-string-problems-f267f0995f3a?source=friends_link&sk=a7c2b31ef7c7338dc2ddfecb616378d7)
 
 ## Union find    
--[Union find](https://medium.com/@jim.morris.shen/union-find-3b4fa9f73a0e?source=friends_link&sk=4e5d48ae25769760f0674ced8cd1c79f)  
+- [Union find](https://medium.com/@jim.morris.shen/union-find-3b4fa9f73a0e?source=friends_link&sk=4e5d48ae25769760f0674ced8cd1c79f)  
 
 ## Segment Tree  
 - [segment tree and RMQ](https://medium.com/@jim.morris.shen/segment-tree-or-rmq-442de4517c65?sk=c91fa0c5eb9bc99c68a6850101557a99)
@@ -111,8 +110,8 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ## rolling hash  
 - [rolling hash](https://medium.com/@jim.morris.shen/rolling-hash-problems-26c7a1346545?source=friends_link&sk=893381007ee153435b5f3dc2b4675bc2)
 
-## Doubly Algorithm  
-- [Doubly Algorithm](https://medium.com/@jim.morris.shen/doubly-algorithm-d7eb1f32155?source=friends_link&sk=79c782ac6aca25bd74592cc540039967)
+## Binary Lifting Algorithm  
+- [Binary Lifting Algorithm](https://medium.com/@jim.morris.shen/doubly-algorithm-d7eb1f32155?source=friends_link&sk=79c782ac6aca25bd74592cc540039967)
 
 ## Bit manipulation  
 - [Bit manipulation](https://medium.com/@jim.morris.shen/bit-manipulation-625e7a6382c1?source=friends_link&sk=8c8c157763b6a9f1cffa4a7e70189b5c)  
