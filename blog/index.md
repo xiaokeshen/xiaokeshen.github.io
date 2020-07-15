@@ -151,6 +151,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [two pointer and binary search](https://medium.com/@jim.morris.shen/binary-search-and-two-pointer-4c9e2043f55c?sk=6481ddfcdc873617310fd223844abebb)
 
 
+### String problems by using C++  
+- [String problems in C++](https://medium.com/@jim.morris.shen/string-problems-by-using-c-a429dfa3cdfd?source=friends_link&sk=ca65c38f889548af963734835fc0924d)
+
 ## Data Structure  
 ### Data Structure Design  
 
