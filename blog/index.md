@@ -168,7 +168,8 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 ## Data Structure  
 ### Data Structure Design  
-
+- [Hash table in python](https://medium.com/@jim.morris.shen/design-a-hashtable-fc6a3b3693da?source=friends_link&sk=ce4d5adc5373c52e482bb1cb5a3fc52a)
+- [A comprehensive one about how to implement a hash table](https://medium.com/@jim.morris.shen/implement-a-hash-table-31388ee36e4e?source=friends_link&sk=da816cded137ae7c5bb0c8a6116fe2b0)
 - [LRU and LFU](https://medium.com/@jim.morris.shen/lru-and-lfu-69363bc47b66?source=friends_link&sk=edbc20589ff40c02bd4e4956e31b8d71)
 - [Min Stack or Max Stack](https://medium.com/@jim.morris.shen/min-stack-or-max-stack-a5be2165cad8?source=friends_link&sk=8dd800652072ae9f16105bb4bda9f414)
 - [First Unique Number](coding/data_structure/first_unique_number.md)
@@ -183,7 +184,8 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [BFS and binary tree](https://medium.com/@jim.morris.shen/bfs-and-binary-tree-ca67179a4921?source=friends_link&sk=1017218c16513c6b8d8b4deba188820f)
 - [LeetCode 430. Flatten a Multilevel Doubly Linked List](https://medium.com/@jim.morris.shen/leetcode-430-flatten-a-multilevel-doubly-linked-list-e09c71f965aa?source=friends_link&sk=4fbe612b8ee06332deebdebded8b8735)
 
-
+### Heap    
+- [Implement a heap](https://medium.com/@jim.morris.shen/implement-a-heap-b36ee24ea0cf?source=friends_link&sk=7253e64b1021a3b0bd351a396876a177)
 
 ### Fenwick Tree or binary index tree    
 - [Fenwick Tree or binary index tree](https://medium.com/@jim.morris.shen/fenwick-tree-or-binary-index-tree-5ee59877707c?source=friends_link&sk=0fa16fc60e8604e81b6df22654ea366e)
