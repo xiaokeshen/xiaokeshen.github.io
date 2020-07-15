@@ -43,16 +43,16 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 #### MST
 
 #### SSSP(Single-Source Shortest Paths)
-- [SSSP on Unweighted Graph]  
-- [SSSP on Weighted Graph]  
-- [SSSP on Graph with Negative Weight Cycle]  
+- SSSP on Unweighted Graph  
+- SSSP on Weighted Graph  
+- SSSP on Graph with Negative Weight Cycle
 
 #### APSP(All-Pairs Shortest Paths)  
 
 
 
 #### Minimum Weight Cycle in an Undirected Graph  
-- [minimum weight cycle in an undirected graph] 
+- [minimum weight cycle in an undirected graph](https://medium.com/@jim.morris.shen/find-the-minimum-weight-cycle-in-an-undirected-graph-f72a5bb5bd33?source=friends_link&sk=582bf5fa74a05f70b21c308f71c76371) 
 
 #### Some relatively hard graph problems
 - [Hard graph](https://medium.com/@jim.morris.shen/hard-graph-f7a92d9f1def?source=friends_link&sk=196bdc5a29dd0272b8ac2e77741b496a)
