@@ -92,7 +92,8 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 #### TSP  
 - [Are you ready for solving the traveling salesman problem?](https://medium.com/analytics-vidhya/are-you-read-for-solving-the-traveling-salesman-problem-80e3c4ea45fc?source=friends_link&sk=b28ea8888460935401ae02f800d6ccd8)
-#### Bitmask DP  
+
+#### Bitmask DP    
 - [bitmask DP](https://medium.com/@jim.morris.shen/bitmask-state-compression-dp-39e7ba56978b?source=friends_link&sk=46156da297f84c7dae5777cf28f7c636)
 
 ## Monotonic Queue   
@@ -133,8 +134,8 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Subsets](https://medium.com/@jim.morris.shen/78-subsets-fa4f0b047664?source=friends_link&sk=da5793403f1a32e23bd9734177a405eb)
 
 ## Backtracking
-- [Backtracking](https://medium.com/@jim.morris.shen/backtracking-42aee84b5e39?source=friends_link&sk=d1084dc6f4e9b9dec667b970da11675a)  
-- [Backtracking](https://medium.com/@jim.morris.shen/backtrack-6cfb2a8fe510?source=friends_link&sk=eb9be292fba2a377edc0f2f9d404052a)
+- [Backtracking 1](https://medium.com/@jim.morris.shen/backtracking-42aee84b5e39?source=friends_link&sk=d1084dc6f4e9b9dec667b970da11675a)  
+- [Backtracking 2](https://medium.com/@jim.morris.shen/backtrack-6cfb2a8fe510?source=friends_link&sk=eb9be292fba2a377edc0f2f9d404052a)
 
 ## Process simulation  
 - [process simulation](https://medium.com/@jim.morris.shen/process-simulation-ed6e726efa9?source=friends_link&sk=3b45a1f1226312c165bf658619f7e2c3)
