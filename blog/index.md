@@ -113,6 +113,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ## Binary Lifting Algorithm  
 - [Binary Lifting Algorithm](https://medium.com/@jim.morris.shen/doubly-algorithm-d7eb1f32155?source=friends_link&sk=79c782ac6aca25bd74592cc540039967)
 
+## Simulated annealing
+- [Simulated Annealing](https://medium.com/@jim.morris.shen/simulated-annealing-leetcode-1515-best-position-for-a-service-centre-875005567379?sk=3b7eb8357f21f273bbc09cd8e56cb289)
+
 ## Bit manipulation  
 - [Bit manipulation](https://medium.com/@jim.morris.shen/bit-manipulation-625e7a6382c1?source=friends_link&sk=8c8c157763b6a9f1cffa4a7e70189b5c)  
 - [Subsets](https://medium.com/@jim.morris.shen/78-subsets-fa4f0b047664?source=friends_link&sk=da5793403f1a32e23bd9734177a405eb)
@@ -214,5 +217,6 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [lambdas in c++](https://medium.com/@jim.morris.shen/lambdas-in-c-9a3045587be0?source=friends_link&sk=03a446b1ef4082743a3c815eaffeb193)
 - [C++ Tips](https://medium.com/@jim.morris.shen/c-tips-5b178c418a58?source=friends_link&sk=33ac980f8b6b895cb3ed9ac6ab6d09d0)
 - [C++ Should curly braces be on their own line or not?](https://medium.com/@jim.morris.shen/c-should-curly-braces-be-on-their-own-line-or-not-f716077fadf2?sk=11737c2872d7f5013244582ba84fbc08)
-## Top Coders  
+
+## Top Coders   
 - [top coders](https://medium.com/@jim.morris.shen/top-coders-c4aa2ffd5544?source=friends_link&sk=64ee99ca78b5b93ab464abd2b6cf87cd)
