@@ -40,7 +40,8 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 #### Bipartition
 - [Leetcode 886. Possible Bipartition](coding/graph/bipartition/bipartition.md)
 
-#### MST
+#### MST  
+-[Minimum Spanning Tree](https://medium.com/@jim.morris.shen/minimum-spanning-tree-b02ff538df37?source=friends_link&sk=527828767df20ebd70b54e35d059e874)  
 
 #### SSSP(Single-Source Shortest Paths)
 - SSSP on Unweighted Graph  
@@ -140,6 +141,8 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ## Process simulation  
 - [process simulation](https://medium.com/@jim.morris.shen/process-simulation-ed6e726efa9?source=friends_link&sk=3b45a1f1226312c165bf658619f7e2c3)
 
+## Count on 1D/2D array  
+- [count on 1D/2D array](https://medium.com/@jim.morris.shen/count-on-1d-2d-array-2d57227958ed?sk=d58a41e56f76f0bca02057d740a0c949)  
 
 ## Mixed algorithms   
 ### BFS and Dijkstra   
