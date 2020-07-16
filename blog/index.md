@@ -144,6 +144,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ## Count on 1D/2D array  
 - [count on 1D/2D array](https://medium.com/@jim.morris.shen/count-on-1d-2d-array-2d57227958ed?sk=d58a41e56f76f0bca02057d740a0c949)  
 
+## Power, Binary Exponentiation and Matrix Exponentiation  
+-[Power, Binary Exponentiation and Matrix Exponentiation](https://medium.com/@jim.morris.shen/power-binary-exponentiation-and-matrix-exponentiation-f84d93a23841?source=friends_link&sk=ecd57ce8dc3088a49451297e757bcb58)
+
 ## Mixed algorithms   
 ### BFS and Dijkstra   
 - [BFS and Dijkstra algorithm](https://medium.com/@jim.morris.shen/bfs-dijkstra-c46de5cb1f0b?source=friends_link&sk=f9cc2b3f457dc7f8731d99d5881994db)
@@ -239,6 +242,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [lambdas in c++](https://medium.com/@jim.morris.shen/lambdas-in-c-9a3045587be0?source=friends_link&sk=03a446b1ef4082743a3c815eaffeb193)
 - [C++ Tips](https://medium.com/@jim.morris.shen/c-tips-5b178c418a58?source=friends_link&sk=33ac980f8b6b895cb3ed9ac6ab6d09d0)
 - [C++ Should curly braces be on their own line or not?](https://medium.com/@jim.morris.shen/c-should-curly-braces-be-on-their-own-line-or-not-f716077fadf2?sk=11737c2872d7f5013244582ba84fbc08)
+- [Computations Modulo P in C++](https://medium.com/@jim.morris.shen/computations-modulo-p-in-c-8cae33acb4ca?source=friends_link&sk=8c9fe23b10776aa82c9532fb0af69b52)
 
 ## Top Coders   
 - [top coders](https://medium.com/@jim.morris.shen/top-coders-c4aa2ffd5544?source=friends_link&sk=64ee99ca78b5b93ab464abd2b6cf87cd)
