@@ -41,7 +41,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Leetcode 886. Possible Bipartition](coding/graph/bipartition/bipartition.md)
 
 #### MST  
--[Minimum Spanning Tree](https://medium.com/@jim.morris.shen/minimum-spanning-tree-b02ff538df37?source=friends_link&sk=527828767df20ebd70b54e35d059e874)  
+- [Minimum Spanning Tree](https://medium.com/@jim.morris.shen/minimum-spanning-tree-b02ff538df37?source=friends_link&sk=527828767df20ebd70b54e35d059e874)  
 
 #### SSSP(Single-Source Shortest Paths)
 - SSSP on Unweighted Graph  
