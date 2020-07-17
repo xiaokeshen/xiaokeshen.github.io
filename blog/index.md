@@ -173,6 +173,10 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ### String problems by using C++  
 - [String problems in C++](https://medium.com/@jim.morris.shen/string-problems-by-using-c-a429dfa3cdfd?source=friends_link&sk=ca65c38f889548af963734835fc0924d)
 
+## Arrays  
+- [arrays problems](https://medium.com/@jim.morris.shen/array-8dceeca8191c?source=friends_link&sk=e8b86be66d8371ad97811675c8e79b02)
+
+
 ## Data Structure  
 ### Data Structure Design  
 - [Hash table in python](https://medium.com/@jim.morris.shen/design-a-hashtable-fc6a3b3693da?source=friends_link&sk=ce4d5adc5373c52e482bb1cb5a3fc52a)
