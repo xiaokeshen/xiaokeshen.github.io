@@ -147,6 +147,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ## Power, Binary Exponentiation and Matrix Exponentiation  
 -[Power, Binary Exponentiation and Matrix Exponentiation](https://medium.com/@jim.morris.shen/power-binary-exponentiation-and-matrix-exponentiation-f84d93a23841?source=friends_link&sk=ecd57ce8dc3088a49451297e757bcb58)
 
+## Minimum/maximum distance to points   
+- [Minimum/maximum distance to points](https://medium.com/@jim.morris.shen/minimum-maximum-distance-1a3a973abcdb?source=friends_link&sk=183900c992d60ac3f91072d4d0a4e089)
+
 ## Mixed algorithms   
 ### BFS and Dijkstra   
 - [BFS and Dijkstra algorithm](https://medium.com/@jim.morris.shen/bfs-dijkstra-c46de5cb1f0b?source=friends_link&sk=f9cc2b3f457dc7f8731d99d5881994db)
