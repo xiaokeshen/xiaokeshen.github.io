@@ -56,7 +56,8 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [minimum weight cycle in an undirected graph](https://medium.com/@jim.morris.shen/find-the-minimum-weight-cycle-in-an-undirected-graph-f72a5bb5bd33?source=friends_link&sk=582bf5fa74a05f70b21c308f71c76371) 
 
 #### Some relatively hard graph problems
-- [Hard graph](https://medium.com/@jim.morris.shen/hard-graph-f7a92d9f1def?source=friends_link&sk=196bdc5a29dd0272b8ac2e77741b496a)
+- [Hard graph 1](https://medium.com/@jim.morris.shen/hard-graph-f7a92d9f1def?source=friends_link&sk=196bdc5a29dd0272b8ac2e77741b496a)
+- [Hard graph 2](https://medium.com/@jim.morris.shen/hard-graph-problems-e9c24384938a?source=friends_link&sk=6f709390f59f11f3c6ce07013de85eae)
 
 ### Dynamic Programming
 
