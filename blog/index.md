@@ -200,6 +200,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [LeetCode 430. Flatten a Multilevel Doubly Linked List](https://medium.com/@jim.morris.shen/leetcode-430-flatten-a-multilevel-doubly-linked-list-e09c71f965aa?source=friends_link&sk=4fbe612b8ee06332deebdebded8b8735)
 - [Catalan number and Unique Binary Search Trees](https://medium.com/@jim.morris.shen/catalan-number-and-unique-binary-search-trees-82a9d27d534c?source=friends_link&sk=3af4f4d588af05f96ef4368fcc2aa1d0) 
 
+### Tree  
+- [Tree problem](https://medium.com/@jim.morris.shen/tree-problem-54cc95adf0e8?sk=80c116c4ad164a3ff07bbe098509f857)
+
 ### Heap    
 - [Implement a heap](https://medium.com/@jim.morris.shen/implement-a-heap-b36ee24ea0cf?source=friends_link&sk=7253e64b1021a3b0bd351a396876a177)
 
