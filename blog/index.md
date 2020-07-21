@@ -22,6 +22,11 @@ image:
 My 'Serious' coding got started since I became a student as a Computer Science Major at the CUNY. Thanks for [Siyu Liao](https://liaocs2008.github.io/)'s help during my earlier programming life. Thanks for professor [Liang Huang](http://web.engr.oregonstate.edu/~huanlian/) to guide me to the Python world. I am actively participate in the Leetcode weekly contest and you can find my profile [here](https://leetcode.com/liketheflower/).
 
 ## Algorithm
+
+### Sorting  
+- [Sorting algorithms](https://medium.com/@jim.morris.shen/sorting-algorithms-fa9bf8b4e859?source=friends_link&sk=43bc5d87e56ad8bea30ef1cb75ef5aa9)
+
+
 ### Graph Algorithm
 
 #### BFS/DFS
