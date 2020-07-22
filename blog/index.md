@@ -185,6 +185,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ## Arrays  
 - [arrays problems](https://medium.com/@jim.morris.shen/array-8dceeca8191c?source=friends_link&sk=e8b86be66d8371ad97811675c8e79b02)
 
+## Geometric Problems  
+-[Geometric problems](https://medium.com/@jim.morris.shen/geometric-problems-3139398b6b5b?source=friends_link&sk=9f58e8e296a1dc3bc6f5adb846dcea66)
+
 
 ## Data Structure  
 ### Data Structure Design  
@@ -263,6 +266,8 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [C++ Tips](https://medium.com/@jim.morris.shen/c-tips-5b178c418a58?source=friends_link&sk=33ac980f8b6b895cb3ed9ac6ab6d09d0)
 - [C++ Should curly braces be on their own line or not?](https://medium.com/@jim.morris.shen/c-should-curly-braces-be-on-their-own-line-or-not-f716077fadf2?sk=11737c2872d7f5013244582ba84fbc08)
 - [Computations Modulo P in C++](https://medium.com/@jim.morris.shen/computations-modulo-p-in-c-8cae33acb4ca?source=friends_link&sk=8c9fe23b10776aa82c9532fb0af69b52)
+- [set_intersection in C++](https://medium.com/@jim.morris.shen/set-intersection-in-c-686df9fa1d13?sk=047e5acd76d40703ee14cc983cce502a)
+- [for_each in C++](https://medium.com/@jim.morris.shen/c-for-each-d4c4244b6ac9?sk=2145f78d07fadfc4305d7d601dd2be7f)
 
 ## Top Coders   
 - [top coders](https://medium.com/@jim.morris.shen/top-coders-c4aa2ffd5544?source=friends_link&sk=64ee99ca78b5b93ab464abd2b6cf87cd)
