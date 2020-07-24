@@ -106,6 +106,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 #### Bitmask DP    
 - [bitmask DP](https://medium.com/@jim.morris.shen/bitmask-state-compression-dp-39e7ba56978b?source=friends_link&sk=46156da297f84c7dae5777cf28f7c636)
 
+## Bit Manipulation  
+- [Bit Manipulation](https://medium.com/@jim.morris.shen/bit-manipulation-94d53cbd8d42?source=friends_link&sk=4e2bf99ca67a9c159aab29e5efa276cd)
+
 ## Monotonic Queue   
 - [Monotonic queue](https://medium.com/@jim.morris.shen/monotonic-queue-52d1472ee4e4?source=friends_link&sk=64cb46f421815aa4a002b375674faa74)
 - [Sliding window min/max, priority queue & Monotonic Queue](https://medium.com/@jim.morris.shen/sliding-window-min-max-priority-queue-monotonic-queue-ec77636cdc31?source=friends_link&sk=3c41b31a29a2fd879c1ff478e9777b2d)
