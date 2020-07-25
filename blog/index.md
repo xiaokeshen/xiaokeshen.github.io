@@ -29,10 +29,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 ### Graph Algorithm
 
-#### DFS
+#### BFS/DFS
 - [LeetCode 1462 Course Schedule IV](https://medium.com/@jim.morris.shen/leetcode-1462-course-schedule-iv-8aa257304788?sk=c363cf043e0dc6dde1d41920ec64fbd8)
-
-#### BFS
+- [Leetcode 797. All Paths From Source to Target](https://medium.com/@jim.morris.shen/leetcode-797-all-paths-from-source-to-target-ce64d0e78b50?source=friends_link&sk=a0203922419a241a22c837a2fdfb64e4)
 
 
 #### BFS and Dijkstra 
