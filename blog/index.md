@@ -95,6 +95,8 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 #### DP programs on the grid  
 - [DP problems on the grid](https://medium.com/@jim.morris.shen/dp-problems-on-the-grid-c3bcc3897eda?source=friends_link&sk=87a101cbafa3d098322ff21994a34085)
 
+### State machine DP  
+- [DP State Machine](https://medium.com/@jim.morris.shen/dp-state-machine-ae3177c93a03?source=friends_link&sk=05b407a3f811668879ecacb94160b65c) 
 
 #### Range DP  
 - [Range DP](https://medium.com/@jim.morris.shen/range-dp-5aa05d902a78?source=friends_link&sk=48b0122fdd5abb8690a2a81359e5ee39)
