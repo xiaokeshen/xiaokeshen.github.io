@@ -120,6 +120,10 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Two Pointer](https://medium.com/@jim.morris.shen/two-points-fcb8ef6861e4?source=friends_link&sk=353cf1fa8b35aef6edba803aecdc38a2)
 - [3sum](https://medium.com/@jim.morris.shen/3sums-2d43ba443673?source=friends_link&sk=a647a07672eb26683064a0ed88e07c64)
 
+## Slow and fast pointer  
+- [slow and fast pointer](https://medium.com/@jim.morris.shen/fast-and-slow-pointer-61e7fa244a3b?source=friends_link&sk=02fd3fa9a263983a6407b57f3b4d77f2)
+
+
 ## Binary Search  
 - [binary search](https://medium.com/@jim.morris.shen/binary-search-30f3d0d7225?source=friends_link&sk=585409d25eeb3e41daea53f3a16c4b5d)
 - [How to set the middle value in a binary search](https://medium.com/@jim.morris.shen/how-to-set-the-middle-value-in-a-binary-search-f8efb67f8b97?sk=cecb96a37ed2fdda576fca8a4adc6a39)
