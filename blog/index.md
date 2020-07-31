@@ -110,6 +110,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ## Bit Manipulation  
 - [Bit Manipulation](https://medium.com/@jim.morris.shen/bit-manipulation-94d53cbd8d42?source=friends_link&sk=4e2bf99ca67a9c159aab29e5efa276cd)
 
+## Priority Queue  
+- [priority queue and greedy algorithm](https://medium.com/@jim.morris.shen/priority-queue-greedy-8ea4097d7901?source=friends_link&sk=16381f36e6ea8b67a6510ba4ecf4016c)
+
 ## Monotonic Queue   
 - [Monotonic queue](https://medium.com/@jim.morris.shen/monotonic-queue-52d1472ee4e4?source=friends_link&sk=64cb46f421815aa4a002b375674faa74)
 - [Sliding window min/max, priority queue & Monotonic Queue](https://medium.com/@jim.morris.shen/sliding-window-min-max-priority-queue-monotonic-queue-ec77636cdc31?source=friends_link&sk=3c41b31a29a2fd879c1ff478e9777b2d)
