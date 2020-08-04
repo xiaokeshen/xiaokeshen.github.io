@@ -109,6 +109,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 ## Bit Manipulation  
 - [Bit Manipulation](https://medium.com/@jim.morris.shen/bit-manipulation-94d53cbd8d42?source=friends_link&sk=4e2bf99ca67a9c159aab29e5efa276cd)
+- [LeetCode 342 Power of Four](https://medium.com/@jim.morris.shen/observations-ca2f998997fe?source=friends_link&sk=9266fa879f9c6b05eeeaa07abb183a37)
 
 ## Priority Queue  
 - [priority queue and greedy algorithm](https://medium.com/@jim.morris.shen/priority-queue-greedy-8ea4097d7901?source=friends_link&sk=16381f36e6ea8b67a6510ba4ecf4016c)
