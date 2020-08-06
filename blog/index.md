@@ -230,6 +230,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ### Tree  
 - [Tree problem](https://medium.com/@jim.morris.shen/tree-problem-54cc95adf0e8?sk=80c116c4ad164a3ff07bbe098509f857)
 
+### Trie  
+- [Trie](https://medium.com/@jim.morris.shen/trie-950ab3de38c6?source=friends_link&sk=6734979336f8c8b76a5d2934aa67078a)
+
 ### Heap    
 - [Implement a heap](https://medium.com/@jim.morris.shen/implement-a-heap-b36ee24ea0cf?source=friends_link&sk=7253e64b1021a3b0bd351a396876a177)
 
