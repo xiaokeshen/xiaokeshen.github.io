@@ -200,6 +200,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ### String problems by using C++  
 - [String problems in C++](https://medium.com/@jim.morris.shen/string-problems-by-using-c-a429dfa3cdfd?source=friends_link&sk=ca65c38f889548af963734835fc0924d)
 
+### Limited Space problems  
+- [O(1) space or inplace](https://medium.com/@jim.morris.shen/o-1-space-74f11840ecf5?source=friends_link&sk=dae862d4fdbf9bc99b4d173ca76fdbcd)
+
 ## Arrays  
 - [arrays problems](https://medium.com/@jim.morris.shen/array-8dceeca8191c?source=friends_link&sk=e8b86be66d8371ad97811675c8e79b02)
 
