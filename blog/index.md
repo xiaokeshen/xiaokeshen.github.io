@@ -292,6 +292,8 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Computations Modulo P in C++](https://medium.com/@jim.morris.shen/computations-modulo-p-in-c-8cae33acb4ca?source=friends_link&sk=8c9fe23b10776aa82c9532fb0af69b52)
 - [set_intersection in C++](https://medium.com/@jim.morris.shen/set-intersection-in-c-686df9fa1d13?sk=047e5acd76d40703ee14cc983cce502a)
 - [for_each in C++](https://medium.com/@jim.morris.shen/c-for-each-d4c4244b6ac9?sk=2145f78d07fadfc4305d7d601dd2be7f)
+- [C++ sort by tuple or by pair](https://medium.com/@jim.morris.shen/c-sort-by-tuple-or-by-pair-int-pair-int-int-6a81e8e2e882?sk=a56c70ae2a1658af192a84ce91dcdeeb)
+
 
 ## Top Coders   
 - [top coders](https://medium.com/@jim.morris.shen/top-coders-c4aa2ffd5544?source=friends_link&sk=64ee99ca78b5b93ab464abd2b6cf87cd)
