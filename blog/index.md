@@ -245,6 +245,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ### Red Black Tree  
 - [Red Black Tree](https://medium.com/@jim.morris.shen/red-black-tree-rotateleft-right-gif-ff535ae16a6c?source=friends_link&sk=5b1ed408660940463c5d2a95aeaa11f6)
 
+### ODT(Old Driver Tree) 
+- [ODT](https://medium.com/@jim.morris.shen/odt-old-driver-tree-ea17dae4290c?sk=b3a95746d7b8afd3b4316d730c734fa1)
+
 ### Soft deletion  
 - [soft deletion problems](coding/soft_deletion/soft_deletion.md)
 
