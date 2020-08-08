@@ -133,6 +133,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ## Binary Search  
 - [binary search](https://medium.com/@jim.morris.shen/binary-search-30f3d0d7225?source=friends_link&sk=585409d25eeb3e41daea53f3a16c4b5d)
 - [How to set the middle value in a binary search](https://medium.com/@jim.morris.shen/how-to-set-the-middle-value-in-a-binary-search-f8efb67f8b97?sk=cecb96a37ed2fdda576fca8a4adc6a39)
+-[Why binary search is not working in this problem](https://medium.com/@jim.morris.shen/why-binary-search-is-not-working-in-this-problem-5aa315a8647c)
 
 ## String problems  
 - [KMP](https://medium.com/@jim.morris.shen/kmp-674b29c95411?source=friends_link&sk=444bcadb1100bddb78d3108e216de273)
