@@ -206,6 +206,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ## Arrays  
 - [arrays problems](https://medium.com/@jim.morris.shen/array-8dceeca8191c?source=friends_link&sk=e8b86be66d8371ad97811675c8e79b02)
 
+## Stack  
+- [Using stack to solve the Parentheses problems](https://medium.com/@jim.morris.shen/using-stack-to-solve-the-parentheses-problems-9cfdbc1c8367)
+
 ## Geometric Problems  
 -[Geometric problems](https://medium.com/@jim.morris.shen/geometric-problems-3139398b6b5b?source=friends_link&sk=9f58e8e296a1dc3bc6f5adb846dcea66)
 
