@@ -78,6 +78,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Combination sum or Coin Change](https://medium.com/@jim.morris.shen/combination-sum-or-coin-change-cd9264a02903?source=friends_link&sk=f071a05acbedc48a1ce9b1f61b5f49ab)
 - [Jump Games](https://medium.com/@jim.morris.shen/sliding-window-min-max-priority-queue-monotonic-queue-ec77636cdc31?source=friends_link&sk=3c41b31a29a2fd879c1ff478e9777b2d)
 - [knapsack problem](https://medium.com/@jim.morris.shen/0-1-knapsack-problem-56ef9e78530a?source=friends_link&sk=c40e8e421cf676d875fea1539e3f0229)
+- [Rod Cutting](https://medium.com/@jim.morris.shen/rod-cutting-problem-89bc03f1cc03?source=friends_link&sk=429b38e39df2fcce0251ae72fe0e013c)
 
 #### 1D DP  
 - [LeetCode 55 Jump Game](https://medium.com/@jim.morris.shen/jump-game-20b4e598b743?source=friends_link&sk=b867cea63ad9418a79f957af8f56b532)
