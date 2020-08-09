@@ -171,7 +171,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [count on 1D/2D array](https://medium.com/@jim.morris.shen/count-on-1d-2d-array-2d57227958ed?sk=d58a41e56f76f0bca02057d740a0c949)  
 
 ## Power, Binary Exponentiation and Matrix Exponentiation  
--[Power, Binary Exponentiation and Matrix Exponentiation](https://medium.com/@jim.morris.shen/power-binary-exponentiation-and-matrix-exponentiation-f84d93a23841?source=friends_link&sk=ecd57ce8dc3088a49451297e757bcb58)
+- [Power, Binary Exponentiation and Matrix Exponentiation](https://medium.com/@jim.morris.shen/power-binary-exponentiation-and-matrix-exponentiation-f84d93a23841?source=friends_link&sk=ecd57ce8dc3088a49451297e757bcb58)
 
 ## Minimum/maximum distance to points   
 - [Minimum/maximum distance to points](https://medium.com/@jim.morris.shen/minimum-maximum-distance-1a3a973abcdb?source=friends_link&sk=183900c992d60ac3f91072d4d0a4e089)
@@ -212,7 +212,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Using stack to solve the Parentheses problems](https://medium.com/@jim.morris.shen/using-stack-to-solve-the-parentheses-problems-9cfdbc1c8367)
 
 ## Geometric Problems  
--[Geometric problems](https://medium.com/@jim.morris.shen/geometric-problems-3139398b6b5b?source=friends_link&sk=9f58e8e296a1dc3bc6f5adb846dcea66)
+- [Geometric problems](https://medium.com/@jim.morris.shen/geometric-problems-3139398b6b5b?source=friends_link&sk=9f58e8e296a1dc3bc6f5adb846dcea66)
 
 
 ## Data Structure  
