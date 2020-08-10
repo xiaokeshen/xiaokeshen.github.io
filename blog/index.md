@@ -109,11 +109,15 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 #### Bitmask DP    
 - [bitmask DP](https://medium.com/@jim.morris.shen/bitmask-state-compression-dp-39e7ba56978b?source=friends_link&sk=46156da297f84c7dae5777cf28f7c636)
 
+
 ## Bit Manipulation  
 - [Bit Manipulation](https://medium.com/@jim.morris.shen/bit-manipulation-94d53cbd8d42?source=friends_link&sk=4e2bf99ca67a9c159aab29e5efa276cd)
 - [LeetCode 342 Power of Four](https://medium.com/@jim.morris.shen/observations-ca2f998997fe?source=friends_link&sk=9266fa879f9c6b05eeeaa07abb183a37)
 - [LeetCode 137 single number ii](https://medium.com/@jim.morris.shen/bit-manipulation-625e7a6382c1?source=friends_link&sk=8c8c157763b6a9f1cffa4a7e70189b5c)
 - [LeetCode 260 single number iii](https://medium.com/@jim.morris.shen/bit-manipulation-94d53cbd8d42?source=friends_link&sk=4e2bf99ca67a9c159aab29e5efa276cd)
+
+## Sting and bit manipulation  
+- [String and bit manipulation](https://medium.com/@jim.morris.shen/string-and-bit-manipulation-c5feb00bfd91?sk=a25750e9cd669e54f74c0ecc21e4b7bd)
 
 ## Priority Queue  
 - [priority queue and greedy algorithm](https://medium.com/@jim.morris.shen/priority-queue-greedy-8ea4097d7901?source=friends_link&sk=16381f36e6ea8b67a6510ba4ecf4016c)
