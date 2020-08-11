@@ -25,7 +25,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 ### Sorting  
 - [Sorting algorithms](https://medium.com/@jim.morris.shen/sorting-algorithms-fa9bf8b4e859?source=friends_link&sk=43bc5d87e56ad8bea30ef1cb75ef5aa9)
-
+- [Leetcode 274 H index](https://medium.com/@jim.morris.shen/leetcode-274-h-index-8c6e6802b385?source=friends_link&sk=8908c9aa0b0611b97f258c612f999a89)
 
 ### Graph Algorithm
 
