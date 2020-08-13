@@ -32,7 +32,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 #### BFS/DFS
 - [LeetCode 1462 Course Schedule IV](https://medium.com/@jim.morris.shen/leetcode-1462-course-schedule-iv-8aa257304788?sk=c363cf043e0dc6dde1d41920ec64fbd8)
 - [Leetcode 797. All Paths From Source to Target](https://medium.com/@jim.morris.shen/leetcode-797-all-paths-from-source-to-target-ce64d0e78b50?source=friends_link&sk=a0203922419a241a22c837a2fdfb64e4)
-
+-[A standard BFS Leetcode 773 Sliding Puzzle](https://medium.com/@jim.morris.shen/a-standard-bfs-leetcode-773-sliding-pu-6df4626e6cd4?sk=d1b80a07bf61b88149e3ba2bb6607b0b)
 
 #### BFS and Dijkstra 
 - [BFS + Dijkstra](https://medium.com/@jim.morris.shen/bfs-dijkstra-c46de5cb1f0b?source=friends_link&sk=f9cc2b3f457dc7f8731d99d5881994db) 
@@ -271,6 +271,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 ## Greedy construction  
 - [Queue reconstruction by height](https://medium.com/@jim.morris.shen/406-queue-reconstruction-by-height-9de242aace35?source=friends_link&sk=bcd3378d77b066a45039c499523f918c)  
+
+## Edge cases  
+- [Edge cases problems](https://medium.com/@jim.morris.shen/edge-cases-7aa7c21fc7b5?source=friends_link&sk=996e2b9796ba732cd6a40ab85dfebdb1)
 
 ## Random topics  
 
