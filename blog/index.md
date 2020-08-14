@@ -275,6 +275,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ## Edge cases  
 - [Edge cases problems](https://medium.com/@jim.morris.shen/edge-cases-7aa7c21fc7b5?source=friends_link&sk=996e2b9796ba732cd6a40ab85dfebdb1)
 
+## Parentheses problems
+- [Parentheses problems](https://medium.com/@jim.morris.shen/parentheses-problems-11e2932b82cf?source=friends_link&sk=f867554eab0c466240400b64c8ab98ae)
+
 ## Random topics  
 
 ### Garbage Collection   
