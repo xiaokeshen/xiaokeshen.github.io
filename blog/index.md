@@ -80,6 +80,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [knapsack problem](https://medium.com/@jim.morris.shen/0-1-knapsack-problem-56ef9e78530a?source=friends_link&sk=c40e8e421cf676d875fea1539e3f0229)
 - [Rod Cutting](https://medium.com/@jim.morris.shen/rod-cutting-problem-89bc03f1cc03?source=friends_link&sk=429b38e39df2fcce0251ae72fe0e013c)
 
+#### Find Recurrence in DP  
+- [Find Recurrence in DP](https://medium.com/@jim.morris.shen/find-recurrence-in-dp-a46d7fcc202a?sk=a9a0c8b0e3b780e6175103d9c0ff9f53) 
+
 #### 1D DP  
 - [LeetCode 55 Jump Game](https://medium.com/@jim.morris.shen/jump-game-20b4e598b743?source=friends_link&sk=b867cea63ad9418a79f957af8f56b532)
 - [A DP problem](https://medium.com/@jim.morris.shen/a-dp-problem-a85ed7df44?source=friends_link&sk=508284b99db5bcc448f1e462db752395)
