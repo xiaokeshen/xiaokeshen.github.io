@@ -98,6 +98,8 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 #### 4D DP
 - [4D DP](https://medium.com/@jim.morris.shen/4d-dp-4d46571a52b6?source=friends_link&sk=dbce05135c72155acba37ed9ae6b10fb)
+#### Top Down DP and Bottom Up DP  
+- [a case of top down is faster than bottom up](https://medium.com/@jim.morris.shen/top-down-is-faster-than-bottom-up-f16810769933?source=friends_link&sk=b29797c7f24672ecc573e588abda354b)
 
 
 #### DP programs on the grid  
