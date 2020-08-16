@@ -228,6 +228,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ## Geometric Problems  
 - [Geometric problems](https://medium.com/@jim.morris.shen/geometric-problems-3139398b6b5b?source=friends_link&sk=9f58e8e296a1dc3bc6f5adb846dcea66)
 
+## Interval Problems  
+- [Interval problems](https://medium.com/@jim.morris.shen/interval-problems-b1d99bc43aef?sk=d1d5c01f91f4402c698da1bed0bd5c56) 
+
 
 ## Data Structure  
 ### Data Structure Design  
