@@ -288,7 +288,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 ## Permutations and combinations 
 - [Permutations](https://medium.com/@jim.morris.shen/permutations-b7f6054f67f9?source=friends_link&sk=9305530d7ddb7c61147fca1a7567ecab)
-
+- [Leetcode 484 Find Permutation](https://medium.com/@jim.morris.shen/leetcode-484-find-permutation-e8167bf266fb?source=friends_link&sk=ff7db2a8bac289935c77aca904c667f1)
 ## Random topics  
 
 ### Garbage Collection   
