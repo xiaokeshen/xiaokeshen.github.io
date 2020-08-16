@@ -281,6 +281,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ## Parentheses problems
 - [Parentheses problems](https://medium.com/@jim.morris.shen/parentheses-problems-11e2932b82cf?source=friends_link&sk=f867554eab0c466240400b64c8ab98ae)
 
+## Permutations and combinations 
+- [Permutations](https://medium.com/@jim.morris.shen/permutations-b7f6054f67f9?source=friends_link&sk=9305530d7ddb7c61147fca1a7567ecab)
+
 ## Random topics  
 
 ### Garbage Collection   
