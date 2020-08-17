@@ -329,6 +329,11 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [for_each in C++](https://medium.com/@jim.morris.shen/c-for-each-d4c4244b6ac9?sk=2145f78d07fadfc4305d7d601dd2be7f)
 - [C++ sort by tuple or by pair](https://medium.com/@jim.morris.shen/c-sort-by-tuple-or-by-pair-int-pair-int-int-6a81e8e2e882?sk=a56c70ae2a1658af192a84ce91dcdeeb)
 - [C++ function within a function](https://medium.com/@jim.morris.shen/c-function-within-a-function-ccccacbafcd0?sk=509c21d15b810596bcf15939dc976843)
+## Go language  
+### Basic  
+- [Go ‘:=’ vs ‘=’](https://medium.com/@jim.morris.shen/go-vs-3fb08c915a30?source=friends_link&sk=636211c483650a2aaa970910f233b0c9)
+- [Interesting things in Go language](https://medium.com/@jim.morris.shen/interesting-things-in-go-language-a9d47895425a?source=friends_link&sk=abc1d47a66b29b9541b9e3b4b41482f3)
+
 
 ## Top Coders   
 - [top coders](https://medium.com/@jim.morris.shen/top-coders-c4aa2ffd5544?source=friends_link&sk=64ee99ca78b5b93ab464abd2b6cf87cd)
