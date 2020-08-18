@@ -53,6 +53,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 #### SSSP(Single-Source Shortest Paths)
 - SSSP on Unweighted Graph  
 - SSSP on Weighted Graph  
+- [Dijkstra](https://medium.com/@jim.morris.shen/787-cheapest-flights-within-k-stops-8f23e0c33ab3?sk=bbb5cc33f69a83211793b370de00645c)  
 - SSSP on Graph with Negative Weight Cycle
 
 #### APSP(All-Pairs Shortest Paths)  
