@@ -232,6 +232,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ## Interval Problems  
 - [Interval problems](https://medium.com/@jim.morris.shen/interval-problems-b1d99bc43aef?sk=d1d5c01f91f4402c698da1bed0bd5c56) 
 
+## Solve the problem backwards  
+- [Solve the problem backwards](https://medium.com/@jim.morris.shen/solving-the-problem-backwards-leetcode-780-reaching-points-cb7a56f9d27a?sk=3128d01a1ec7a274387dd7a2e09c1a12)
+- [Transform the problem to a more solvable one](https://medium.com/@jim.morris.shen/transform-the-problem-to-a-more-solvable-one-593be52422d3?source=friends_link&sk=a85c4eceb4fdc71b9e2a20970418cd73)
 
 ## Data Structure  
 ### Data Structure Design  
