@@ -240,6 +240,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ### Data Structure Design  
 - [Hash table in python](https://medium.com/@jim.morris.shen/design-a-hashtable-fc6a3b3693da?source=friends_link&sk=ce4d5adc5373c52e482bb1cb5a3fc52a)
 - [A comprehensive one about how to implement a hash table](https://medium.com/@jim.morris.shen/implement-a-hash-table-31388ee36e4e?source=friends_link&sk=da816cded137ae7c5bb0c8a6116fe2b0)
+- [Why use a prime number as the hash table size](https://medium.com/@jim.morris.shen/why-use-a-prime-number-as-the-hash-table-size-c7413e0f7cd9?source=friends_link&sk=c431b660bf30774cb8ac62e079fef3af) 
 - [LRU and LFU](https://medium.com/@jim.morris.shen/lru-and-lfu-69363bc47b66?source=friends_link&sk=edbc20589ff40c02bd4e4956e31b8d71)
 - [Min Stack or Max Stack](https://medium.com/@jim.morris.shen/min-stack-or-max-stack-a5be2165cad8?source=friends_link&sk=8dd800652072ae9f16105bb4bda9f414)
 - [First Unique Number](coding/data_structure/first_unique_number.md)
@@ -333,6 +334,16 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [for_each in C++](https://medium.com/@jim.morris.shen/c-for-each-d4c4244b6ac9?sk=2145f78d07fadfc4305d7d601dd2be7f)
 - [C++ sort by tuple or by pair](https://medium.com/@jim.morris.shen/c-sort-by-tuple-or-by-pair-int-pair-int-int-6a81e8e2e882?sk=a56c70ae2a1658af192a84ce91dcdeeb)
 - [C++ function within a function](https://medium.com/@jim.morris.shen/c-function-within-a-function-ccccacbafcd0?sk=509c21d15b810596bcf15939dc976843)
+
+## Git tips  
+- [Git tips](https://medium.com/@jim.morris.shen/git-tips-a8902c528177?sk=fbfbf5011334f17cbd964634cde000a8)
+
+## Docker  
+- [Docker](https://medium.com/@jim.morris.shen/docker-feefb774a36a?source=friends_link&sk=b08587a800a22256b80e1488031eb699)
+
+## Imporant times 
+- [Solve a thousand problems](https://medium.com/@jim.morris.shen/solve-a-thousand-problems-1386b183120?source=friends_link&sk=e7178967a1b40c62ba8179eff91a0b20)
+
 ## Go language  
 ### Basic  
 - [Go ‘:=’ vs ‘=’](https://medium.com/@jim.morris.shen/go-vs-3fb08c915a30?source=friends_link&sk=636211c483650a2aaa970910f233b0c9)
