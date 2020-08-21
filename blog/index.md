@@ -194,7 +194,8 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ## Mixed algorithms   
 ### BFS and Dijkstra   
 - [BFS and Dijkstra algorithm](https://medium.com/@jim.morris.shen/bfs-dijkstra-c46de5cb1f0b?source=friends_link&sk=f9cc2b3f457dc7f8731d99d5881994db)
-
+### DFS and Binary Search  
+- [DFS and Binary Search](https://medium.com/@jim.morris.shen/bfs-and-binary-search-9c74760a34c4?source=friends_link&sk=987f61b4b5f01a4c7228e2be899ef29e) 
 ### Union find and binary search     
 - [Union find and binary search](https://medium.com/@jim.morris.shen/union-find-and-binary-search-ddbdee684641?source=friends_link&sk=4e4ce2ecd1f64c2341190554cb2a02d2)
 
@@ -296,6 +297,8 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Permutations](https://medium.com/@jim.morris.shen/permutations-b7f6054f67f9?source=friends_link&sk=9305530d7ddb7c61147fca1a7567ecab)
 - [Leetcode 484 Find Permutation](https://medium.com/@jim.morris.shen/leetcode-484-find-permutation-e8167bf266fb?source=friends_link&sk=ff7db2a8bac289935c77aca904c667f1)
 ## Random topics  
+###My Mistakes 
+- [My Mistakes](https://medium.com/@jim.morris.shen/my-mistakes-1ee9d0839eb9?sk=20bfe95e1428a9e7a986713a99104720)
 
 ### Garbage Collection   
 - [Garbage Collection](https://medium.com/@jim.morris.shen/garbage-collection-1de26869d2f7?source=friends_link&sk=534fcf620748c58a4a50e0f8cfa8ef20)
@@ -352,5 +355,6 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Goroutines](https://medium.com/@jim.morris.shen/goroutines-in-go-bffd1730fe50?sk=287c59e6f83b988a022b2093b79f800d)
 - [Json and Go](https://medium.com/@jim.morris.shen/json-and-go-99a0fe5cb17b?sk=8790e1e7fe76230b619aecf72142c928)
 - [struct tags in GO](https://medium.com/@jim.morris.shen/struct-tags-in-go-670ace2193c9?sk=5355c72454c5224bb4bd03dc20d09c1f)
+
 ## Top Coders   
 - [top coders](https://medium.com/@jim.morris.shen/top-coders-c4aa2ffd5544?source=friends_link&sk=64ee99ca78b5b93ab464abd2b6cf87cd)
