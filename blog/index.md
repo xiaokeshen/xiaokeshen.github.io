@@ -356,6 +356,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Json and Go](https://medium.com/@jim.morris.shen/json-and-go-99a0fe5cb17b?sk=8790e1e7fe76230b619aecf72142c928)
 - [struct tags in GO](https://medium.com/@jim.morris.shen/struct-tags-in-go-670ace2193c9?sk=5355c72454c5224bb4bd03dc20d09c1f)
 - [Go tips](https://medium.com/@jim.morris.shen/go-tips-e11bbfd3fe7d?sk=af1af923e2daab4983f61f2a83d78c6f)
+- [Channels in GO](https://medium.com/@jim.morris.shen/channels-in-go-4e964f93072b?sk=788a65683c938abb017cc0f735742d1e)
 
 ## Top Coders   
 - [top coders](https://medium.com/@jim.morris.shen/top-coders-c4aa2ffd5544?source=friends_link&sk=64ee99ca78b5b93ab464abd2b6cf87cd)
