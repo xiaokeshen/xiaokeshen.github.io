@@ -96,6 +96,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [2d dp](https://medium.com/@jim.morris.shen/2d-dp-c9f563e542ee?source=friends_link&sk=9f94661dc8be068fdc1881bf9c618ba6)
 - [2D range sum](coding/dp/two_d/2d_range_sum.md)
 - [LCS style problems](coding/dp/two_d/lcs_style.md)
+- [LeetCode 1563. Stone Game V](https://medium.com/@jim.morris.shen/2d-dp-d1042fa6b311?sk=fbfec149a7d705e4615b65a36a455da0)
 
 #### 3D DP  
 - [3d dp](https://medium.com/@jim.morris.shen/3d-dp-c5488ba77f9a?source=friends_link&sk=91a4aaccdf4d1c63025bb7186e3c54c5)
