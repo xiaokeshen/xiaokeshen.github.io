@@ -272,6 +272,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 ### Heap    
 - [Implement a heap](https://medium.com/@jim.morris.shen/implement-a-heap-b36ee24ea0cf?source=friends_link&sk=7253e64b1021a3b0bd351a396876a177)
+- [Implement a binary heap by C++](https://medium.com/@jim.morris.shen/implement-a-binary-heap-by-c-d02a9499f61e?sk=74fdb51e0ea1d04eff394dc29cfa37bf) 
 
 ### Fenwick Tree or binary index tree    
 - [Fenwick Tree or binary index tree](https://medium.com/@jim.morris.shen/fenwick-tree-or-binary-index-tree-5ee59877707c?source=friends_link&sk=0fa16fc60e8604e81b6df22654ea366e)
