@@ -163,6 +163,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 ## Union find    
 - [Union find](https://medium.com/@jim.morris.shen/union-find-3b4fa9f73a0e?source=friends_link&sk=4e5d48ae25769760f0674ced8cd1c79f)  
+- [Leetcode 1562. Find Latest Group of Size M](https://medium.com/@jim.morris.shen/union-find-3e2dba89e8d3?source=friends_link&sk=cf0f17232b4c53a410ea72c657245d78) 
 
 ## Segment Tree  
 - [segment tree and RMQ](https://medium.com/@jim.morris.shen/segment-tree-or-rmq-442de4517c65?sk=c91fa0c5eb9bc99c68a6850101557a99)
