@@ -48,6 +48,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 #### Bipartition
 - [Leetcode 886. Possible Bipartition](coding/graph/bipartition/bipartition.md)
 
+#### Cycle find problems  
+- [Cycle find algorithm: Leetcode 1559. Detect Cycles in 2D Grid](https://medium.com/@jim.morris.shen/cycle-find-algorithm-dca33cbfa5fb?sk=b8d85b6c57a09cb909b93f7688966b1d)
+
 #### MST  
 - [Minimum Spanning Tree](https://medium.com/@jim.morris.shen/minimum-spanning-tree-b02ff538df37?source=friends_link&sk=527828767df20ebd70b54e35d059e874)  
 
