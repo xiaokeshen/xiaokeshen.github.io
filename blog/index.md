@@ -272,6 +272,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 ### Trie  
 - [Trie](https://medium.com/@jim.morris.shen/trie-950ab3de38c6?source=friends_link&sk=6734979336f8c8b76a5d2934aa67078a)
+- [Trie in C++](https://medium.com/@jim.morris.shen/trie-in-c-82e2c8e85e66?sk=f6acd6974e6e7fadc00aa2d6ab98faad) 
 
 ### Heap    
 - [Implement a heap](https://medium.com/@jim.morris.shen/implement-a-heap-b36ee24ea0cf?source=friends_link&sk=7253e64b1021a3b0bd351a396876a177)
