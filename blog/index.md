@@ -254,6 +254,11 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Min Stack or Max Stack](https://medium.com/@jim.morris.shen/min-stack-or-max-stack-a5be2165cad8?source=friends_link&sk=8dd800652072ae9f16105bb4bda9f414)
 - [First Unique Number](coding/data_structure/first_unique_number.md)
 
+### Heap    
+- [Implement a heap](https://medium.com/@jim.morris.shen/implement-a-heap-b36ee24ea0cf?source=friends_link&sk=7253e64b1021a3b0bd351a396876a177)
+- [Implement a binary heap by C++](https://medium.com/@jim.morris.shen/implement-a-binary-heap-by-c-d02a9499f61e?sk=74fdb51e0ea1d04eff394dc29cfa37bf) 
+
+
 ### Linked List     
 - [Singly Linked List](coding/data_structure/linked_list/single_linked_list.md)
 - [List](https://medium.com/@jim.morris.shen/list-cb6d530d064f?source=friends_link&sk=c12b8542e4b8729358a34dfedf78a7d5)
@@ -273,10 +278,6 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ### Trie  
 - [Trie](https://medium.com/@jim.morris.shen/trie-950ab3de38c6?source=friends_link&sk=6734979336f8c8b76a5d2934aa67078a)
 - [Trie in C++](https://medium.com/@jim.morris.shen/trie-in-c-82e2c8e85e66?sk=f6acd6974e6e7fadc00aa2d6ab98faad) 
-
-### Heap    
-- [Implement a heap](https://medium.com/@jim.morris.shen/implement-a-heap-b36ee24ea0cf?source=friends_link&sk=7253e64b1021a3b0bd351a396876a177)
-- [Implement a binary heap by C++](https://medium.com/@jim.morris.shen/implement-a-binary-heap-by-c-d02a9499f61e?sk=74fdb51e0ea1d04eff394dc29cfa37bf) 
 
 ### Fenwick Tree or binary index tree    
 - [Fenwick Tree or binary index tree](https://medium.com/@jim.morris.shen/fenwick-tree-or-binary-index-tree-5ee59877707c?source=friends_link&sk=0fa16fc60e8604e81b6df22654ea366e)
@@ -306,6 +307,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ## Permutations and combinations 
 - [Permutations](https://medium.com/@jim.morris.shen/permutations-b7f6054f67f9?source=friends_link&sk=9305530d7ddb7c61147fca1a7567ecab)
 - [Leetcode 484 Find Permutation](https://medium.com/@jim.morris.shen/leetcode-484-find-permutation-e8167bf266fb?source=friends_link&sk=ff7db2a8bac289935c77aca904c667f1)
+
 ## Random topics  
 ###My Mistakes 
 - [My Mistakes](https://medium.com/@jim.morris.shen/my-mistakes-1ee9d0839eb9?sk=20bfe95e1428a9e7a986713a99104720)
