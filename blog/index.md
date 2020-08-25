@@ -371,5 +371,8 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Channels in GO](https://medium.com/@jim.morris.shen/channels-in-go-4e964f93072b?sk=788a65683c938abb017cc0f735742d1e)
 - [Go and OOP](https://medium.com/@jim.morris.shen/go-and-oop-af5ad0253581?sk=ff041ef1de0d8a8b06aa1c618b9a1a60)
 - [Golang Packages](https://medium.com/@jim.morris.shen/golang-packages-8a4cbe3536b0?sk=d9890556e072c67d828f1b363ee202f9)
+- [Golang Glog](https://medium.com/@jim.morris.shen/golang-glog-example-860e91ddc864?sk=c44c511340b30f4b396554f2b26cc85d)
+
+
 ## Top Coders   
 - [top coders](https://medium.com/@jim.morris.shen/top-coders-c4aa2ffd5544?source=friends_link&sk=64ee99ca78b5b93ab464abd2b6cf87cd)
