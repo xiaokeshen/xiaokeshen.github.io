@@ -238,7 +238,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ## Geometric Problems  
 - [Geometric problems](https://medium.com/@jim.morris.shen/geometric-problems-3139398b6b5b?source=friends_link&sk=9f58e8e296a1dc3bc6f5adb846dcea66)
 - [Polygon collision](https://medium.com/@jim.morris.shen/polygon-collision-4aa4f67c1d9?sk=35e7cf57f6953fd6da696fda6b7e6f24)
-
+-[The intersection of Convex Polygons Algorithm](https://medium.com/@jim.morris.shen/the-intersection-of-convex-polygons-algorithm-b8e67bc18c36?sk=bde72f4daa748b2c47b60726d90cfcb8)
 ## Interval Problems  
 - [Interval problems](https://medium.com/@jim.morris.shen/interval-problems-b1d99bc43aef?sk=d1d5c01f91f4402c698da1bed0bd5c56) 
 
