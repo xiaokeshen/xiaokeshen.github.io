@@ -355,6 +355,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 ## Git tips  
 - [Git tips](https://medium.com/@jim.morris.shen/git-tips-a8902c528177?sk=fbfbf5011334f17cbd964634cde000a8)
+- [git merge VS git rebase](https://medium.com/@jim.morris.shen/git-rebase-vs-git-merge-aef5a505daf0?source=friends_link&sk=a25bd38f315039d1fd914fb48cbebcf8)
 
 ## Docker  
 - [Docker](https://medium.com/@jim.morris.shen/docker-feefb774a36a?source=friends_link&sk=b08587a800a22256b80e1488031eb699)
