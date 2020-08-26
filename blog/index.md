@@ -92,6 +92,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 #### 1D DP  
 - [LeetCode 55 Jump Game](https://medium.com/@jim.morris.shen/jump-game-20b4e598b743?source=friends_link&sk=b867cea63ad9418a79f957af8f56b532)
 - [A DP problem](https://medium.com/@jim.morris.shen/a-dp-problem-a85ed7df44?source=friends_link&sk=508284b99db5bcc448f1e462db752395)
+- [Leetcode 983. Minimum Cost For Tickets](https://medium.com/@jim.morris.shen/1d-dp-b24a9e426b7f?source=friends_link&sk=f1ad8f47f93adb37199faa114e31cbe1)
 
 #### 2D DP
 - [2d dp](https://medium.com/@jim.morris.shen/2d-dp-c9f563e542ee?source=friends_link&sk=9f94661dc8be068fdc1881bf9c618ba6)
