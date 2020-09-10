@@ -377,6 +377,6 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Golang Glog](https://medium.com/@jim.morris.shen/golang-glog-example-860e91ddc864?sk=c44c511340b30f4b396554f2b26cc85d)
 ### Advanced  
 - [Golang and Pointer](https://www.ardanlabs.com/blog/2017/06/design-philosophy-on-data-and-semantics.html)
-
+- [Map in Golang](https://medium.com/@jim.morris.shen/map-in-golang-8f80cdf3436?source=friends_link&sk=a40c1928683befec9c2df7b3ce676ff9)
 ## Top Coders   
 - [top coders](https://medium.com/@jim.morris.shen/top-coders-c4aa2ffd5544?source=friends_link&sk=64ee99ca78b5b93ab464abd2b6cf87cd)
