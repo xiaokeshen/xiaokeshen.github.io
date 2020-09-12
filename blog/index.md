@@ -317,6 +317,8 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Garbage Collection](https://medium.com/@jim.morris.shen/garbage-collection-1de26869d2f7?source=friends_link&sk=534fcf620748c58a4a50e0f8cfa8ef20)
 
 ## Machine Learning   
+### Key concepts  
+- [KL divergence](https://medium.com/@jim.morris.shen/why-we-dont-say-kl-divergence-is-a-distance-b0b25a8e6004?sk=59a0479988eb850a0b0b5c2a4e5937a1)
 ### Coding  
 - [Implement K means by using Numpy](https://medium.com/@jim.morris.shen/simple-implement-k-means-by-using-numpy-8a0b16883da5?source=friends_link&sk=c2d6b4046ad83fc2b73578922b29bb85)
 
