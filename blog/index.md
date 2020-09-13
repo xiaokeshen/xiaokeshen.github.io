@@ -54,6 +54,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 #### MST  
 - [Minimum Spanning Tree](https://medium.com/@jim.morris.shen/minimum-spanning-tree-b02ff538df37?source=friends_link&sk=527828767df20ebd70b54e35d059e874)  
+- [MST: 1584. Min Cost to Connect All Points](https://medium.com/@jim.morris.shen/mst-1584-min-cost-to-connect-all-points-db55f343ea00?sk=94d65b79f887bafbd458830cbc52f674)
 
 #### SSSP(Single-Source Shortest Paths)
 - SSSP on Unweighted Graph  
