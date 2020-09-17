@@ -19,7 +19,7 @@ image:
 
 
 ## Coding
-My 'Serious' coding got started since I became a student as a Computer Science Major at the CUNY. Thanks for [Siyu Liao](https://liaocs2008.github.io/)'s help during my earlier programming life. Thanks for professor [Liang Huang](http://web.engr.oregonstate.edu/~huanlian/) to guide me to the Python world. I am actively participate in the Leetcode weekly contest and you can find my profile [here](https://leetcode.com/liketheflower/).
+My 'Serious' coding got started since I became a student as a Computer Science Major at the CUNY. Thanks for [Dr. Siyu Liao](https://liaocs2008.github.io/)'s help during my earlier programming life. Thanks for [Professor Liang Huang](http://web.engr.oregonstate.edu/~huanlian/) to guide me to the Python world. I am actively participate in the Leetcode weekly contest and you can find my profile [here](https://leetcode.com/liketheflower/).
 
 ## Algorithm
 
