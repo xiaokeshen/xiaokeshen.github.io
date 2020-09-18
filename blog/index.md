@@ -384,6 +384,6 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Map in Golang](https://medium.com/@jim.morris.shen/map-in-golang-8f80cdf3436?source=friends_link&sk=a40c1928683befec9c2df7b3ce676ff9)
 - [Array, Slice and String in Golang](https://medium.com/@jim.morris.shen/go-array-and-slice-234c1de8f47a?sk=2ad62fdfb423f8ff144b2967d0146cc5)
 - [How to install gocv on mac](https://medium.com/@jim.morris.shen/install-gocv-on-mac-49eed227d50b?sk=2acf25b70968c0f4e458afca10a9ba7c)
-
+- [Slice of struct or slice of pointer to a struct](https://medium.com/@jim.morris.shen/golang-slice-of-struct-vs-slice-of-pointers-to-struct-401f8ef1d7e8?source=friends_link&sk=ecf6764fbdd44118f6fe7d78ee1e22cf)
 ## Top Coders   
 - [top coders](https://medium.com/@jim.morris.shen/top-coders-c4aa2ffd5544?source=friends_link&sk=64ee99ca78b5b93ab464abd2b6cf87cd)
