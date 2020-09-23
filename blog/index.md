@@ -390,7 +390,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 ## Tensorflow  
 - [Tensorflow 1.x vs 2,x](https://medium.com/@jim.morris.shen/tensorflow-1-x-vs-2-x-4acaf509f2ef?sk=b33531141128d8c437445b98710e12ae)
-
+- [Tensorflow Docker on mac](https://medium.com/@jim.morris.shen/tensorflow-docker-on-mac-5fcc0603f68e?sk=4816d7f9839f4ff9999c861151483024)
 
 ## Top Coders   
 - [top coders](https://medium.com/@jim.morris.shen/top-coders-c4aa2ffd5544?source=friends_link&sk=64ee99ca78b5b93ab464abd2b6cf87cd)
