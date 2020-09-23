@@ -362,7 +362,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 ## Docker  
 - [Docker](https://medium.com/@jim.morris.shen/docker-feefb774a36a?source=friends_link&sk=b08587a800a22256b80e1488031eb699)
-
+- [How to use Docker](https://medium.com/@jim.morris.shen/how-to-use-docker-7d189dc3dea5?sk=5424a40df1635ef041bea6b214e7d97e)
 ## Imporant times 
 - [Solve a thousand problems](https://medium.com/@jim.morris.shen/solve-a-thousand-problems-1386b183120?source=friends_link&sk=e7178967a1b40c62ba8179eff91a0b20)
 
