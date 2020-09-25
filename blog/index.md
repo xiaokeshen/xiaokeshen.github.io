@@ -405,3 +405,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Exploration of Tensorflow SavedModel](https://medium.com/@jim.morris.shen/exploration-of-tensorflow-savedmodel-cf6e5859cc5c?sk=d676dc5a60c7db380e6e85221e8c350b)
 ## Top Coders   
 - [top coders](https://medium.com/@jim.morris.shen/top-coders-c4aa2ffd5544?source=friends_link&sk=64ee99ca78b5b93ab464abd2b6cf87cd)
+
+## Hardwares   
+### Edge devices  
+- [Raspberry Pi 4](https://medium.com/@jim.morris.shen/raspberry-pi-4-98cc82b6edac?source=friends_link&sk=cdf5bc97906891b085d1656dec9c1fe4)
