@@ -325,7 +325,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Why SGD is better than GD](https://medium.com/@jim.morris.shen/why-sgd-is-better-than-gd-f1046e7b7b9c)
 - [Curse of dimensionality](https://medium.com/@jim.morris.shen/curse-of-dimensionality-bdc3fd5ac3c1)
 - [How to prepare Machine Learning Interview](https://medium.com/@jim.morris.shen/how-to-prepare-machine-learning-interview-806c21317c6c)
-
+- [batch normalization](https://medium.com/@jim.morris.shen/batch-normalization-7845ac308083?sk=9aa7b90f8f716f25366089aa2963e295)
 ### Paper summary 
 - [Summary of the paper “Understanding Deep Learning Requires Rethinking Generalization"](https://medium.com/@jim.morris.shen/summary-of-the-paper-understanding-deep-learning-requires-rethinking-generalization-aced06f31b51)
 
