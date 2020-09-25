@@ -332,6 +332,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ### Coding  
 - [Implement K means by using Numpy](https://medium.com/@jim.morris.shen/simple-implement-k-means-by-using-numpy-8a0b16883da5?source=friends_link&sk=c2d6b4046ad83fc2b73578922b29bb85)
 - [Watch here, incoming MLEs](https://medium.com/@jim.morris.shen/watch-here-upcoming-mles-f811c6c3689d)
+- [L1 loss, abs L1 loss, and L2 loss](https://medium.com/@jim.morris.shen/l1-loss-abs-l1-loss-and-l2-loss-627743422307)
 
 ## Graph Neural Networks
 ### Graph Classification  
