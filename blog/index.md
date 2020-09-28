@@ -144,6 +144,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Monotonic queue](https://medium.com/@jim.morris.shen/monotonic-queue-52d1472ee4e4?source=friends_link&sk=64cb46f421815aa4a002b375674faa74)
 - [Sliding window min/max, priority queue & Monotonic Queue](https://medium.com/@jim.morris.shen/sliding-window-min-max-priority-queue-monotonic-queue-ec77636cdc31?source=friends_link&sk=3c41b31a29a2fd879c1ff478e9777b2d)
 - [2d sliding window min/max problem](https://medium.com/@jim.morris.shen/2d-sliding-window-min-max-problem-e24b0c707a62?source=friends_link&sk=46498cedeb74b99fa2cd188e492184ba)
+- [713. Subarray Product Less Than K](https://medium.com/@jim.morris.shen/monotonic-queue-eecdf378ef7a)
 
 ## Two Pointers  
 - [Two Pointer problems](https://medium.com/@jim.morris.shen/two-pointers-5bc86424ffd4?source=friends_link&sk=20eb28ea867ad7f3a3e67b22fd5bf4f9)
