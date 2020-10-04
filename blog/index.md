@@ -243,6 +243,10 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 -[The intersection of Convex Polygons Algorithm](https://medium.com/@jim.morris.shen/the-intersection-of-convex-polygons-algorithm-b8e67bc18c36?sk=bde72f4daa748b2c47b60726d90cfcb8)
 ## Interval Problems  
 - [Interval problems](https://medium.com/@jim.morris.shen/interval-problems-b1d99bc43aef?sk=d1d5c01f91f4402c698da1bed0bd5c56) 
+- [LeetCode: 1288. Remove Covered Intervals](https://medium.com/@jim.morris.shen/leetcode-1288-remove-covered-intervals-e34b5e5d4b3e?source=friends_link&sk=8e66ee84bb4baadf07a9e0a3d3f8407a)
+
+## Word search problems  
+- [Backtracking for words related problems](https://medium.com/@jim.morris.shen/backtracking-for-words-related-problems-4a2f09d15b73?source=friends_link&sk=a34fdb9b4e76d5cf0709c7c3cf9e1209)
 
 ## Solve the problem backwards  
 - [Solve the problem backwards](https://medium.com/@jim.morris.shen/solving-the-problem-backwards-leetcode-780-reaching-points-cb7a56f9d27a?sk=3128d01a1ec7a274387dd7a2e09c1a12)
