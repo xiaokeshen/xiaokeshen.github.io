@@ -396,6 +396,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Go and OOP](https://medium.com/@jim.morris.shen/go-and-oop-af5ad0253581?sk=ff041ef1de0d8a8b06aa1c618b9a1a60)
 - [Golang Packages](https://medium.com/@jim.morris.shen/golang-packages-8a4cbe3536b0?sk=d9890556e072c67d828f1b363ee202f9)
 - [Golang Glog](https://medium.com/@jim.morris.shen/golang-glog-example-860e91ddc864?sk=c44c511340b30f4b396554f2b26cc85d)
+- [Golang Random number generator](https://medium.com/@jim.morris.shen/golang-random-number-generator-edfefb5b1771)
 
 ### Advanced   
 - [Golang and Pointer](https://www.ardanlabs.com/blog/2017/06/design-philosophy-on-data-and-semantics.html)
