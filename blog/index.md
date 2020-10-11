@@ -282,6 +282,10 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 ### Tree  
 - [Tree problem](https://medium.com/@jim.morris.shen/tree-problem-54cc95adf0e8?sk=80c116c4ad164a3ff07bbe098509f857)
+- [Diameter of a tree](https://medium.com/@jim.morris.shen/diameter-of-tree-cd2b77abf4a1?source=friends_link&sk=3a4fdf2cbd8a187581354ecf47cff07b) 
+
+### Bit manipulation and Tree 
+- [Bit manipulation and diameter of a tree](https://medium.com/@jim.morris.shen/bit-manipulation-and-diameter-of-a-tree-3856d549c5f8?source=friends_link&sk=6a820b50d8e0782c41f39b727537ef33)
 
 ### Trie  
 - [Trie](https://medium.com/@jim.morris.shen/trie-950ab3de38c6?source=friends_link&sk=6734979336f8c8b76a5d2934aa67078a)
