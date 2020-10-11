@@ -110,6 +110,8 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 #### Top Down DP and Bottom Up DP  
 - [a case of top down is faster than bottom up](https://medium.com/@jim.morris.shen/top-down-is-faster-than-bottom-up-f16810769933?source=friends_link&sk=b29797c7f24672ecc573e588abda354b)
 
+#### States of the DP is the Key  
+- [DP leetcode 903. Valid Permutations for DI Sequence](https://medium.com/@jim.morris.shen/dp-leetcode-903-valid-permutations-for-di-sequence-6ab21ff4d7b4?source=friends_link&sk=a5ff33eb1fdae00bd72da0f450ea8b3c)
 
 #### DP programs on the grid  
 - [DP problems on the grid](https://medium.com/@jim.morris.shen/dp-problems-on-the-grid-c3bcc3897eda?source=friends_link&sk=87a101cbafa3d098322ff21994a34085)
