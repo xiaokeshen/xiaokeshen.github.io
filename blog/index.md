@@ -85,6 +85,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Combination sum or Coin Change](https://medium.com/@jim.morris.shen/combination-sum-or-coin-change-cd9264a02903?source=friends_link&sk=f071a05acbedc48a1ce9b1f61b5f49ab)
 - [Jump Games](https://medium.com/@jim.morris.shen/sliding-window-min-max-priority-queue-monotonic-queue-ec77636cdc31?source=friends_link&sk=3c41b31a29a2fd879c1ff478e9777b2d)
 - [knapsack problem](https://medium.com/@jim.morris.shen/0-1-knapsack-problem-56ef9e78530a?source=friends_link&sk=c40e8e421cf676d875fea1539e3f0229)
+- [a knapsack problem:leetcode 1621. Number of Sets of K Non-Overlapping Line Segments](https://jimmy-shen.medium.com/a-knapsack-problem-a0064396dac8)
 - [Rod Cutting](https://medium.com/@jim.morris.shen/rod-cutting-problem-89bc03f1cc03?source=friends_link&sk=429b38e39df2fcce0251ae72fe0e013c)
 - [House Robber II](https://medium.com/@jim.morris.shen/daily-problem-lc-213-house-robber-ii-552d21c46aa2?source=friends_link&sk=b848bd8838e5309fb3a885e346daeb7e)
 
@@ -263,6 +264,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [LRU and LFU](https://medium.com/@jim.morris.shen/lru-and-lfu-69363bc47b66?source=friends_link&sk=edbc20589ff40c02bd4e4956e31b8d71)
 - [Min Stack or Max Stack](https://medium.com/@jim.morris.shen/min-stack-or-max-stack-a5be2165cad8?source=friends_link&sk=8dd800652072ae9f16105bb4bda9f414)
 - [First Unique Number](coding/data_structure/first_unique_number.md)
+- [1622. Fancy Sequence](https://jimmy-shen.medium.com/leetcode-biweekly-contest-1622-fancy-sequence-dec206e59fc2)
 
 ### Heap    
 - [Implement a heap](https://medium.com/@jim.morris.shen/implement-a-heap-b36ee24ea0cf?source=friends_link&sk=7253e64b1021a3b0bd351a396876a177)
