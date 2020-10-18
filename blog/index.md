@@ -81,6 +81,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 #### Classical and its variations
 - [Longest Increasing subsequence](coding/dp/classical/lis.md)
 - [Variations of LIS probems](https://medium.com/@jim.morris.shen/variations-of-lis-13965a6905a8?source=friends_link&sk=053a02336a3a1c21919bd1db21819d71)
+- [LIS:1626. Best Team With No Conflicts](https://jimmy-shen.medium.com/lis-8b13e1aa53ae)
 - [Longest common subsequence](coding/dp/classical/lcs.md)
 - [Combination sum or Coin Change](https://medium.com/@jim.morris.shen/combination-sum-or-coin-change-cd9264a02903?source=friends_link&sk=f071a05acbedc48a1ce9b1f61b5f49ab)
 - [Jump Games](https://medium.com/@jim.morris.shen/sliding-window-min-max-priority-queue-monotonic-queue-ec77636cdc31?source=friends_link&sk=3c41b31a29a2fd879c1ff478e9777b2d)
