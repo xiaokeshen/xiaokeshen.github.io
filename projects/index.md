@@ -19,3 +19,6 @@ image:
 This page gives an overview of all the projects I have done during my Ph.D. life.
 ---
 ## To be added
+
+
+[attendance](https://docs.google.com/forms/u/1/d/e/1FAIpQLSeExPfCV7ZbEfh7oVM4XRORhLbmiSgwYX7--UzPJ6uxyjFWmw/formResponse)
