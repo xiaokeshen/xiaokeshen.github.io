@@ -244,6 +244,10 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ## Stack  
 - [Using stack to solve the Parentheses problems](https://medium.com/@jim.morris.shen/using-stack-to-solve-the-parentheses-problems-9cfdbc1c8367)
 - [Stack: LeetCode 316 remove duplicate letters](https://medium.com/@jim.morris.shen/stack-leetcode-316-remove-duplicate-letters-1459b1946c6d)
+
+## Sparse Table or Stack 
+- [Sparse Table or Stack?](https://jimmy-shen.medium.com/sparse-table-or-stack-1f4c55bd287d)
+
 ## Geometric Problems  
 - [Geometric problems](https://medium.com/@jim.morris.shen/geometric-problems-3139398b6b5b?source=friends_link&sk=9f58e8e296a1dc3bc6f5adb846dcea66)
 - [Polygon collision](https://medium.com/@jim.morris.shen/polygon-collision-4aa4f67c1d9?sk=35e7cf57f6953fd6da696fda6b7e6f24)
