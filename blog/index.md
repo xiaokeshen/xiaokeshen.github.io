@@ -208,6 +208,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ## Minimum/maximum distance to points   
 - [Minimum/maximum distance to points](https://medium.com/@jim.morris.shen/minimum-maximum-distance-1a3a973abcdb?source=friends_link&sk=183900c992d60ac3f91072d4d0a4e089)
 
+## Stone Games  
+- [Stone Game VI and VII](https://jimmy-shen.medium.com/stone-game-greedy-or-dp-e1b34da60a0f)
+
 ## Mixed algorithms   
 ### BFS and Dijkstra   
 - [BFS and Dijkstra algorithm](https://medium.com/@jim.morris.shen/bfs-dijkstra-c46de5cb1f0b?source=friends_link&sk=f9cc2b3f457dc7f8731d99d5881994db)
