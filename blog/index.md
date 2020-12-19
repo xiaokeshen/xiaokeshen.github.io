@@ -66,7 +66,6 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 #### APSP(All-Pairs Shortest Paths)  
 
 
-
 #### Minimum Weight Cycle in an Undirected Graph  
 - [minimum weight cycle in an undirected graph](https://medium.com/@jim.morris.shen/find-the-minimum-weight-cycle-in-an-undirected-graph-f72a5bb5bd33?source=friends_link&sk=582bf5fa74a05f70b21c308f71c76371) 
 
@@ -78,6 +77,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 #### Summary 
 - [Summary](coding/dp/summary.md)
+- [DP types](https://jimmy-shen.medium.com/dp-types-f9f2c93e00f2)
 
 #### Classical and its variations
 - [Longest Increasing subsequence](coding/dp/classical/lis.md)
