@@ -28,6 +28,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [quicksort](https://medium.com/@jim.morris.shen/quick-sort-3c34238d320e?sk=504825ee1bfd5ede24f7592804ac2387)
 - [Leetcode 274 H index](https://medium.com/@jim.morris.shen/leetcode-274-h-index-8c6e6802b385?source=friends_link&sk=8908c9aa0b0611b97f258c612f999a89)
 - [Kth](https://medium.com/@jim.morris.shen/kth-problems-2a16b3feb2be?sk=1244ac25c7a4a8cc40b00b1c376644c2)
+
 ### Graph Algorithm
 
 #### BFS/DFS
@@ -85,7 +86,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [LIS:1626. Best Team With No Conflicts](https://jimmy-shen.medium.com/lis-8b13e1aa53ae)
 - [Longest common subsequence](coding/dp/classical/lcs.md)
 - [Combination sum or Coin Change](https://medium.com/@jim.morris.shen/combination-sum-or-coin-change-cd9264a02903?source=friends_link&sk=f071a05acbedc48a1ce9b1f61b5f49ab)
-- [Jump Games](https://medium.com/@jim.morris.shen/sliding-window-min-max-priority-queue-monotonic-queue-ec77636cdc31?source=friends_link&sk=3c41b31a29a2fd879c1ff478e9777b2d)
+- [Jump Games](https://jimmy-shen.medium.com/jump-games-91dab95482b1)
 - [knapsack problem](https://medium.com/@jim.morris.shen/0-1-knapsack-problem-56ef9e78530a?source=friends_link&sk=c40e8e421cf676d875fea1539e3f0229)
 - [a knapsack problem:leetcode 1621. Number of Sets of K Non-Overlapping Line Segments](https://jimmy-shen.medium.com/a-knapsack-problem-a0064396dac8)
 - [A DP problem solved by using a Knapsack problem way 1639. Number of Ways to Form a Target String Given a Dictionary](https://jimmy-shen.medium.com/a-dp-problem-solved-by-using-a-knapsack-problem-way-c6fcc8cd35bc)
@@ -112,6 +113,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 #### 4D DP
 - [4D DP](https://medium.com/@jim.morris.shen/4d-dp-4d46571a52b6?source=friends_link&sk=dbce05135c72155acba37ed9ae6b10fb)
+
 #### Top Down DP and Bottom Up DP  
 - [a case of top down is faster than bottom up](https://medium.com/@jim.morris.shen/top-down-is-faster-than-bottom-up-f16810769933?source=friends_link&sk=b29797c7f24672ecc573e588abda354b)
 
@@ -153,6 +155,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [2d sliding window min/max problem](https://medium.com/@jim.morris.shen/2d-sliding-window-min-max-problem-e24b0c707a62?source=friends_link&sk=46498cedeb74b99fa2cd188e492184ba)
 - [713. Subarray Product Less Than K](https://medium.com/@jim.morris.shen/monotonic-queue-eecdf378ef7a)
 - [Monotonic queue: LC933 Number of Recent Calls](https://medium.com/@jim.morris.shen/monotonic-queue-lc933-number-of-recent-calls-c2e0d055ec55?source=friends_link&sk=0f696ce511e32665adaf64ee5415c1c3)
+
 ## Two Pointers  
 - [Two Pointer problems](https://medium.com/@jim.morris.shen/two-pointers-5bc86424ffd4?source=friends_link&sk=20eb28ea867ad7f3a3e67b22fd5bf4f9)
 - [Two Pointer](https://medium.com/@jim.morris.shen/two-points-fcb8ef6861e4?source=friends_link&sk=353cf1fa8b35aef6edba803aecdc38a2)
