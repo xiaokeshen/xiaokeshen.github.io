@@ -202,6 +202,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ## Backtracking
 - [Backtracking 1](https://medium.com/@jim.morris.shen/backtracking-42aee84b5e39?source=friends_link&sk=d1084dc6f4e9b9dec667b970da11675a)  
 - [Backtracking 2](https://medium.com/@jim.morris.shen/backtrack-6cfb2a8fe510?source=friends_link&sk=eb9be292fba2a377edc0f2f9d404052a)
+- [Backtracking 3 40. Combination Sum II](https://jimmy-shen.medium.com/backtracking-3cc831c35063)
 
 ## Process simulation  
 - [process simulation](https://medium.com/@jim.morris.shen/process-simulation-ed6e726efa9?source=friends_link&sk=3b45a1f1226312c165bf658619f7e2c3)
