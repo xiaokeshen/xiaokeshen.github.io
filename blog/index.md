@@ -36,6 +36,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Leetcode 797. All Paths From Source to Target](https://medium.com/@jim.morris.shen/leetcode-797-all-paths-from-source-to-target-ce64d0e78b50?source=friends_link&sk=a0203922419a241a22c837a2fdfb64e4)
 - [A standard BFS Leetcode 773 Sliding Puzzle](https://medium.com/@jim.morris.shen/a-standard-bfs-leetcode-773-sliding-pu-6df4626e6cd4?sk=d1b80a07bf61b88149e3ba2bb6607b0b)
 - [C++ DFS Leetcode 490. The Maze](https://medium.com/@jim.morris.shen/c-dfs-b0276250c3eb?sk=fc0bbee203030ea80da1b55fe43cf362)
+- [Jump Game IV](https://jimmy-shen.medium.com/bfs-jump-game-iv-4c443840e8c9)
 
 #### BFS and Dijkstra 
 - [BFS + Dijkstra](https://medium.com/@jim.morris.shen/bfs-dijkstra-c46de5cb1f0b?source=friends_link&sk=f9cc2b3f457dc7f8731d99d5881994db) 
