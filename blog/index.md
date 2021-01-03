@@ -230,6 +230,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ### Union find and binary search     
 - [Union find and binary search](https://medium.com/@jim.morris.shen/union-find-and-binary-search-ddbdee684641?source=friends_link&sk=4e4ce2ecd1f64c2341190554cb2a02d2)
 
+### Prefix sum and edge cases  
+- [Prefix sum and edge cases](https://jimmy-shen.medium.com/prefix-sum-and-edge-cases-1712-ways-to-split-array-into-three-subarrays-6bde566fbd5d)
+
 ### Soft deletion and Monotonic Queue    
 - [2d sliding window min/max problem](https://medium.com/@jim.morris.shen/2d-sliding-window-min-max-problem-e24b0c707a62?source=friends_link&sk=46498cedeb74b99fa2cd188e492184ba)
 
