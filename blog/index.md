@@ -264,7 +264,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ## Stack  
 - [Using stack to solve the Parentheses problems](https://medium.com/@jim.morris.shen/using-stack-to-solve-the-parentheses-problems-9cfdbc1c8367)
 - [Stack: LeetCode 316 remove duplicate letters](https://medium.com/@jim.morris.shen/stack-leetcode-316-remove-duplicate-letters-1459b1946c6d)
-
+- [LC: 1717 maximum score from removing substrings](https://jimmy-shen.medium.com/stack-1717-maximum-score-from-removing-substrings-b8c2464b0495)
 ## Sparse Table or Stack 
 - [Sparse Table or Stack?](https://jimmy-shen.medium.com/sparse-table-or-stack-1f4c55bd287d)
 
