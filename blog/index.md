@@ -376,6 +376,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [ROC and EER](https://medium.com/@jim.morris.shen/roc-receiver-operating-characteristic-and-eer-equal-error-rate-ac5a576fae38?sk=d6a21f9b39e3dd5d420474fb1b6a8dc0)
 - [Softmax and LogSoftmax](https://jimmy-shen.medium.com/softmax-or-logsoftmax-97784cd43b35)
 
+### Data Visualization  
+- [Tableau and TabPy](https://jimmy-shen.medium.com/tableau-and-tabpy-3f9264755430)
+
 ### Paper summary 
 - [Summary of the paper “Understanding Deep Learning Requires Rethinking Generalization"](https://medium.com/@jim.morris.shen/summary-of-the-paper-understanding-deep-learning-requires-rethinking-generalization-aced06f31b51)
 
