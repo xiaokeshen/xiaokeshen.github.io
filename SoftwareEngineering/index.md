@@ -422,12 +422,6 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Golang nested struct](https://medium.com/@jim.morris.shen/golang-nested-struct-6f217544db0b?source=friends_link&sk=256b682bc5b1cbe392aba3f4da8b54d4)
 - [Golang and protocol buffer](https://medium.com/@jim.morris.shen/golang-fdc8b59cb722?source=friends_link&sk=b42a21021d84b006bf1813eefc703ab7)
 
-## Tensorflow  
-- [Tensorflow 1.x vs 2,x](https://medium.com/@jim.morris.shen/tensorflow-1-x-vs-2-x-4acaf509f2ef?sk=b33531141128d8c437445b98710e12ae)
-- [Tensorflow Docker on mac](https://medium.com/@jim.morris.shen/tensorflow-docker-on-mac-5fcc0603f68e?sk=4816d7f9839f4ff9999c861151483024)
-- [Exploration of Tensorflow SavedModel](https://medium.com/@jim.morris.shen/exploration-of-tensorflow-savedmodel-cf6e5859cc5c?sk=d676dc5a60c7db380e6e85221e8c350b)
-- [How to freeze keras or tensorflow 1.x graph](https://jimmy-shen.medium.com/how-to-freeze-keras-or-tensorflow-1-x-graph-2b30b3a31af9)
-- [How to freeze graph in Tensorflow 2.x](https://jimmy-shen.medium.com/how-to-freeze-graph-in-tensorflow-2-x-3a3238c70f19)
 ## Top Coders   
 - [top coders](https://medium.com/@jim.morris.shen/top-coders-c4aa2ffd5544?source=friends_link&sk=64ee99ca78b5b93ab464abd2b6cf87cd)
 
