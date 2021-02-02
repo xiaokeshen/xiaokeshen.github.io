@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog
+title: Software Engineering
 excerpt: "Blog"
 image:
   feature: sample-image-7.jpg
@@ -364,41 +364,8 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ### Garbage Collection   
 - [Garbage Collection](https://medium.com/@jim.morris.shen/garbage-collection-1de26869d2f7?source=friends_link&sk=534fcf620748c58a4a50e0f8cfa8ef20)
 
-## Machine Learning   
-### Key concepts  
-- [KL divergence](https://medium.com/@jim.morris.shen/why-we-dont-say-kl-divergence-is-a-distance-b0b25a8e6004?sk=59a0479988eb850a0b0b5c2a4e5937a1)
-- [Bias and variance, underfitting and overfitting](https://medium.com/@jim.morris.shen/bias-and-variance-underfitting-and-overfitting-35189069d919?source=friends_link&sk=a481fef6d4e8552c6580a37c8ed0b92c)
-- [Occam’s razor description from literature](https://medium.com/@jim.morris.shen/occams-razor-description-from-literature-86d457cf42d7?source=friends_link&sk=f2e91c1f7a7ac2a493abbcdda7a2b4be)
-- [Why SGD is better than GD](https://medium.com/@jim.morris.shen/why-sgd-is-better-than-gd-f1046e7b7b9c)
-- [Curse of dimensionality](https://medium.com/@jim.morris.shen/curse-of-dimensionality-bdc3fd5ac3c1)
-- [How to prepare Machine Learning Interview](https://medium.com/@jim.morris.shen/how-to-prepare-machine-learning-interview-806c21317c6c)
-- [batch normalization](https://medium.com/@jim.morris.shen/batch-normalization-7845ac308083?sk=9aa7b90f8f716f25366089aa2963e295)
-- [ROC and EER](https://medium.com/@jim.morris.shen/roc-receiver-operating-characteristic-and-eer-equal-error-rate-ac5a576fae38?sk=d6a21f9b39e3dd5d420474fb1b6a8dc0)
-- [Softmax and LogSoftmax](https://jimmy-shen.medium.com/softmax-or-logsoftmax-97784cd43b35)
-
-### Data Visualization  
-- [Tableau and TabPy](https://jimmy-shen.medium.com/tableau-and-tabpy-3f9264755430)
-
-### Paper summary 
-- [Summary of the paper “Understanding Deep Learning Requires Rethinking Generalization"](https://medium.com/@jim.morris.shen/summary-of-the-paper-understanding-deep-learning-requires-rethinking-generalization-aced06f31b51)
-
-### Coding  
-- [Implement K means by using Numpy](https://medium.com/@jim.morris.shen/simple-implement-k-means-by-using-numpy-8a0b16883da5?source=friends_link&sk=c2d6b4046ad83fc2b73578922b29bb85)
-- [Watch here, incoming MLEs](https://medium.com/@jim.morris.shen/watch-here-upcoming-mles-f811c6c3689d)
-- [L1 loss, abs L1 loss, and L2 loss](https://medium.com/@jim.morris.shen/l1-loss-abs-l1-loss-and-l2-loss-627743422307)
-
-## Graph Neural Networks
-### Graph Classification  
-- [Graph Classification by DGL](https://medium.com/@jim.morris.shen/tutorial-of-graph-classification-by-dgl-75baa9478c16?source=friends_link&sk=44b0c49061390ab9ae946f1b8b9a0f6e)
-
-## Pytorch Coding Tips  
-- [Pytorch Model transfer](https://medium.com/@jim.morris.shen/pytorch-model-transfer-b0657879791d?source=friends_link&sk=8faae22b738d72c38bcb1dc0613f55c0)
-- [Pytorch freeze part of the layers](https://medium.com/@jim.morris.shen/pytorch-freeze-part-of-the-layers-4554105e03a6?source=friends_link&sk=20df07ebc5848050e68efe27b03ad37f)
-
 ## Source Code understanding  
 ### Linux Source Code  
-### Pytorch Source Code  
-- [How to understand Pytorch Source Code](https://medium.com/@jim.morris.shen/how-to-understand-pytorch-source-code-1fdbdbbf007e?source=friends_link&sk=435606c5255887776c92cb738e3f6694)
 
 ## Kernel Programming   
 - [Hello World Kernal Programming](https://github.com/liketheflower/CSCI340/blob/master/kernel_programming/README.md)

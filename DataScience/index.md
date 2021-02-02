@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: Data Science
 excerpt: "projects"
 image:
   feature: sample-image-3.jpg
@@ -49,6 +49,13 @@ image:
 ## Pytorch Coding Tips
 - [Pytorch Model transfer](https://medium.com/@jim.morris.shen/pytorch-model-transfer-b0657879791d?source=friends_link&sk=8faae22b738d72c38bcb1dc0613f55c0)
 - [Pytorch freeze part of the layers](https://medium.com/@jim.morris.shen/pytorch-freeze-part-of-the-layers-4554105e03a6?source=friends_link&sk=20df07ebc5848050e68efe27b03ad37f)
+
+## Tensorflow
+- [Tensorflow 1.x vs 2,x](https://medium.com/@jim.morris.shen/tensorflow-1-x-vs-2-x-4acaf509f2ef?sk=b33531141128d8c437445b98710e12ae)
+- [Tensorflow Docker on mac](https://medium.com/@jim.morris.shen/tensorflow-docker-on-mac-5fcc0603f68e?sk=4816d7f9839f4ff9999c861151483024)
+- [Exploration of Tensorflow SavedModel](https://medium.com/@jim.morris.shen/exploration-of-tensorflow-savedmodel-cf6e5859cc5c?sk=d676dc5a60c7db380e6e85221e8c350b)
+- [How to freeze keras or tensorflow 1.x graph](https://jimmy-shen.medium.com/how-to-freeze-keras-or-tensorflow-1-x-graph-2b30b3a31af9)
+- [How to freeze graph in Tensorflow 2.x](https://jimmy-shen.medium.com/how-to-freeze-graph-in-tensorflow-2-x-3a3238c70f19)
 
 ## Source Code understanding
 ### Pytorch Source Code
