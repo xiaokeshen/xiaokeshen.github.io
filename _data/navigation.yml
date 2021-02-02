@@ -9,14 +9,15 @@
 - title: Publications
   url: /publications/
 
-- title: Projects
-  url: /projects/
 
 - title: Teaching
   url: /teaching/
 
-- title: Blog
-  url: /blog/
+- title: Software Engineering
+  url: /SoftwareEngineering/
+
+- title: Data Science
+  url: /DataScience/
 
 - title: Contact
   url: /contact/
