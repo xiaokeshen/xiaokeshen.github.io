@@ -286,6 +286,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Solve the problem backwards](https://medium.com/@jim.morris.shen/solving-the-problem-backwards-leetcode-780-reaching-points-cb7a56f9d27a?sk=3128d01a1ec7a274387dd7a2e09c1a12)
 - [Transform the problem to a more solvable one](https://medium.com/@jim.morris.shen/transform-the-problem-to-a-more-solvable-one-593be52422d3?source=friends_link&sk=a85c4eceb4fdc71b9e2a20970418cd73)
 
+## Preprocess to speed up the computation 
+-[LC 1761. Minimum Degree of a Connected Trio in a Graph](https://jimmy-shen.medium.com/preprocessing-to-speedup-the-calculation-ec06fa82615b)
+
 ## Data Structure  
 ### Data Structure Design  
 - [Hash table in python](https://medium.com/@jim.morris.shen/design-a-hashtable-fc6a3b3693da?source=friends_link&sk=ce4d5adc5373c52e482bb1cb5a3fc52a)
