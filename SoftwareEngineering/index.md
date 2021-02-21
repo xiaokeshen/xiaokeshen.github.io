@@ -396,6 +396,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [C++ sort by tuple or by pair](https://medium.com/@jim.morris.shen/c-sort-by-tuple-or-by-pair-int-pair-int-int-6a81e8e2e882?sk=a56c70ae2a1658af192a84ce91dcdeeb)
 - [C++ function within a function](https://medium.com/@jim.morris.shen/c-function-within-a-function-ccccacbafcd0?sk=509c21d15b810596bcf15939dc976843)
 - [Format C++ code to google coding style](https://medium.com/@jim.morris.shen/google-coding-style-in-c-98183ed06620?sk=c764c820f40a818e4e05d53aa28ad8e6)
+- [0x3f3f3f](https://jimmy-shen.medium.com/0x3f3f3f3f-an-interesting-number-for-inf-f4f0a0d24124)
 
 ## Git tips  
 - [Git tips](https://medium.com/@jim.morris.shen/git-tips-a8902c528177?sk=fbfbf5011334f17cbd964634cde000a8)
