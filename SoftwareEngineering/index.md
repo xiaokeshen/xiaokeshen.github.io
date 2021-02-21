@@ -114,6 +114,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 #### 3D DP  
 - [3d dp](https://medium.com/@jim.morris.shen/3d-dp-c5488ba77f9a?source=friends_link&sk=91a4aaccdf4d1c63025bb7186e3c54c5)
 - [Dijkstra and Floyd Warshall](https://medium.com/analytics-vidhya/dijkstra-and-floyd-warshall-floyd-war-1937d8ac95f0)
+- [A 3D DP problem](https://jimmy-shen.medium.com/a-3d-dp-problem-4a44c0454821)
 
 #### 4D DP
 - [4D DP](https://medium.com/@jim.morris.shen/4d-dp-4d46571a52b6?source=friends_link&sk=dbce05135c72155acba37ed9ae6b10fb)
