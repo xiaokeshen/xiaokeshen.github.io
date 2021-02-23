@@ -27,8 +27,7 @@ image:
 ---
 
 ## 2020
-- Xiaoke Shen, Yang Liu, You Wu, Lei Xie, MoLGNN: Self-Supervised Motif Learning Graph Neural Network for Drug Discovery, Machine Learning for Molecules Workshop @ NeurIPS 2020 [pdf](https://ml4molecules.github.io/papers2020/ML4Molecules_2020_paper_4.pdf)    
-
+- Xiaoke Shen, Yang Liu, You Wu, Lei Xie, MoLGNN: Self-Supervised Motif Learning Graph Neural Network for Drug Discovery, Machine Learning for Molecules Workshop @ NeurIPS 2020 [pdf](https://ml4molecules.github.io/papers2020/ML4Molecules_2020_paper_4.pdf)  
 - Xiaoke Shen, Ioannis Stamos, Frustum VoxNet for 3D object detection from RGB-D or Depth images, The IEEE Winter Conference on Applications of Computer Vision, 1698-1706 [link](https://openaccess.thecvf.com/content_WACV_2020/html/Shen_Frustum_VoxNet_for_3D_object_detection_from_RGB-D_or_Depth_WACV_2020_paper.html)
 ---
 
