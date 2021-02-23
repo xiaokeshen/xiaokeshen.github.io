@@ -11,7 +11,7 @@ I am a Ph.D. student at [The Graduate Center, the City University of New York(CU
 
 My main research interests are in machine learning, computer vision and data visualization. In particular, I am interested in supervised/semi-supervised machine learning, Convolutional/Graph Neural Networks. Also, I am interested in visualization of social media data.
 
-I am very glad to join the engineering team of [Omnee](https://www.omnee.io/), we have a great team here.
+I am glad to join the Data Science team from [Mobi](https://www.takemobi.com/) as a data scientist.
 
 
 <script type="text/javascript" 
