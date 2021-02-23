@@ -233,6 +233,10 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [BFS and Dijkstra algorithm](https://medium.com/@jim.morris.shen/bfs-dijkstra-c46de5cb1f0b?source=friends_link&sk=f9cc2b3f457dc7f8731d99d5881994db)
 ### DFS and Binary Search  
 - [DFS and Binary Search](https://medium.com/@jim.morris.shen/bfs-and-binary-search-9c74760a34c4?source=friends_link&sk=987f61b4b5f01a4c7228e2be899ef29e) 
+
+### Backtracking and Math
+- [Backtracking and graph Leetcode 1766. Tree of Coprimes](https://jimmy-shen.medium.com/backtracking-and-graph-1318aef64f62)
+
 ### Union find and binary search     
 - [Union find and binary search](https://medium.com/@jim.morris.shen/union-find-and-binary-search-ddbdee684641?source=friends_link&sk=4e4ce2ecd1f64c2341190554cb2a02d2)
 
