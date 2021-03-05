@@ -8,11 +8,6 @@ image:
 
 I am a Ph.D. student at [The Graduate Center, the City University of New York(CUNY)](https://www.gc.cuny.edu) and my advisor is [Dr. Ioannis Stamos](http://www.cs.hunter.cuny.edu/~ioannis/). In my earlier time of my Ph.D life in CUNY, I was working with [Dr. Feng Gu](http://www.cs.csi.cuny.edu/~gu/) and [Dr. Olympia Hadjiliadis](http://math.hunter.cuny.edu/~olympia/). 
 
----
-
-## Full Resume
-
-<i class="fa fa-file-pdf-o"></i> [Download my full resume](resume_xiaoke_shen.pdf)
 
 ---
 
