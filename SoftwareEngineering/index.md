@@ -44,6 +44,10 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ### Dijkstra and Floyd Warshall  
 - [Dijkstra and Floyd Warshall](https://medium.com/analytics-vidhya/dijkstra-and-floyd-warshall-floyd-war-1937d8ac95f0?source=friends_link&sk=a23a0697455d881fe98f5f7aab3214ef)
 
+
+### SSSP and DP  
+- [SSSP + DP](https://jimmy-shen.medium.com/sssp-dp-258369c60917)
+
 #### topological sort
 - [LeetCode course schedule](coding/graph/topological_sort/topological_sort.md)
 
