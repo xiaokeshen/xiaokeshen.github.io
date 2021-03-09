@@ -60,6 +60,9 @@ image:
 - [How to freeze keras or tensorflow 1.x graph](https://jimmy-shen.medium.com/how-to-freeze-keras-or-tensorflow-1-x-graph-2b30b3a31af9)
 - [How to freeze graph in Tensorflow 2.x](https://jimmy-shen.medium.com/how-to-freeze-graph-in-tensorflow-2-x-3a3238c70f19)
 
+## Tensorboard  
+- [Joy Division and Tensorboard](https://jimmy-shen.medium.com/joy-division-and-tensorboard-948716716230)
+
 ## Source Code understanding
 ### Pytorch Source Code
 - [How to understand Pytorch Source Code](https://medium.com/@jim.morris.shen/how-to-understand-pytorch-source-code-1fdbdbbf007e?source=friends_link&sk=435606c5255887776c92cb738e3f6694)
