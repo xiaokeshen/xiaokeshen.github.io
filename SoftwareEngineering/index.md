@@ -158,6 +158,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 ## Priority Queue  
 - [priority queue and greedy algorithm](https://medium.com/@jim.morris.shen/priority-queue-greedy-8ea4097d7901?source=friends_link&sk=16381f36e6ea8b67a6510ba4ecf4016c)
+- [Leetcode 1792. Maximum Average Pass Ratio](https://jimmy-shen.medium.com/priority-queue-7263b28021a)
 
 ## Monotonic Queue   
 - [Monotonic queue](https://medium.com/@jim.morris.shen/monotonic-queue-52d1472ee4e4?source=friends_link&sk=64cb46f421815aa4a002b375674faa74)
@@ -172,6 +173,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Two Pointer problems](https://medium.com/@jim.morris.shen/two-pointers-5bc86424ffd4?source=friends_link&sk=20eb28ea867ad7f3a3e67b22fd5bf4f9)
 - [Two Pointer](https://medium.com/@jim.morris.shen/two-points-fcb8ef6861e4?source=friends_link&sk=353cf1fa8b35aef6edba803aecdc38a2)
 - [3sum](https://medium.com/@jim.morris.shen/3sums-2d43ba443673?source=friends_link&sk=a647a07672eb26683064a0ed88e07c64)
+
+## Two Pointer and Monotonic Queue and Greedy
+- [Two Pointer and Monotonic Queue and Greedy](https://jimmy-shen.medium.com/monotonic-queue-two-pointer-and-greedy-algorithm-e0c466d49bb1)
 
 ## Slow and fast pointer  
 - [slow and fast pointer](https://medium.com/@jim.morris.shen/fast-and-slow-pointer-61e7fa244a3b?source=friends_link&sk=02fd3fa9a263983a6407b57f3b4d77f2)
@@ -406,6 +410,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [C++ function within a function](https://medium.com/@jim.morris.shen/c-function-within-a-function-ccccacbafcd0?sk=509c21d15b810596bcf15939dc976843)
 - [Format C++ code to google coding style](https://medium.com/@jim.morris.shen/google-coding-style-in-c-98183ed06620?sk=c764c820f40a818e4e05d53aa28ad8e6)
 - [0x3f3f3f](https://jimmy-shen.medium.com/0x3f3f3f3f-an-interesting-number-for-inf-f4f0a0d24124)
+- [C++ websites and books](https://jimmy-shen.medium.com/c-websites-and-books-1a925c581572)
 
 ## Git tips  
 - [Git tips](https://medium.com/@jim.morris.shen/git-tips-a8902c528177?sk=fbfbf5011334f17cbd964634cde000a8)
