@@ -57,6 +57,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 #### Cycle find problems  
 - [Cycle find algorithm: Leetcode 1559. Detect Cycles in 2D Grid](https://medium.com/@jim.morris.shen/cycle-find-algorithm-dca33cbfa5fb?sk=b8d85b6c57a09cb909b93f7688966b1d)
+- [Find the minimum weight cycle in an undirected graph](https://jimmy-shen.medium.com/find-the-minimum-weight-cycle-in-an-undirected-graph-f72a5bb5bd33)
 
 #### MST  
 - [Minimum Spanning Tree](https://medium.com/@jim.morris.shen/minimum-spanning-tree-b02ff538df37?source=friends_link&sk=527828767df20ebd70b54e35d059e874)  
