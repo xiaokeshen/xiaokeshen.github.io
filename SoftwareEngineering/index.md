@@ -287,6 +287,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ## Sparse Table or Stack 
 - [Sparse Table or Stack?](https://jimmy-shen.medium.com/sparse-table-or-stack-1f4c55bd287d)
 
+## Stack and binary tree  
+-[stack and binary tree: LC 150 Evaluate Reverse Polish Notation](https://jimmy-shen.medium.com/stack-and-binary-tree-190ffa28f51f)
+
 ## Geometric Problems  
 - [Geometric problems](https://medium.com/@jim.morris.shen/geometric-problems-3139398b6b5b?source=friends_link&sk=9f58e8e296a1dc3bc6f5adb846dcea66)
 - [Polygon collision](https://medium.com/@jim.morris.shen/polygon-collision-4aa4f67c1d9?sk=35e7cf57f6953fd6da696fda6b7e6f24)
