@@ -350,6 +350,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Trie](https://medium.com/@jim.morris.shen/trie-950ab3de38c6?source=friends_link&sk=6734979336f8c8b76a5d2934aa67078a)
 - [Trie in C++](https://medium.com/@jim.morris.shen/trie-in-c-82e2c8e85e66?sk=f6acd6974e6e7fadc00aa2d6ab98faad) 
 
+### Trie and Fast Walsh-Hadamard transform algorithm  
+- [Trie and Fast Walsh–Hadamard transform algorithm](https://jimmy-shen.medium.com/trie-and-fast-walsh-hadamard-transform-algorithm-6f32645d4ad1)
+
 ### Fenwick Tree or binary index tree    
 - [Fenwick Tree or binary index tree](https://medium.com/@jim.morris.shen/fenwick-tree-or-binary-index-tree-5ee59877707c?source=friends_link&sk=0fa16fc60e8604e81b6df22654ea366e)
 
