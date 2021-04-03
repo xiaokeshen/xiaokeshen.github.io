@@ -288,6 +288,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [LC: 1717 maximum score from removing substrings](https://jimmy-shen.medium.com/stack-1717-maximum-score-from-removing-substrings-b8c2464b0495)
 ## Sparse Table or Stack 
 - [Sparse Table or Stack?](https://jimmy-shen.medium.com/sparse-table-or-stack-1f4c55bd287d)
+- [MUSTSEE LC150. Evaluate Reverse Polish Notation](https://jimmy-shen.medium.com/lc150-evaluate-reverse-polish-notation-6439dd0a991b)
 
 ## Stack and binary tree  
 -[stack and binary tree: LC 150 Evaluate Reverse Polish Notation](https://jimmy-shen.medium.com/stack-and-binary-tree-190ffa28f51f)
