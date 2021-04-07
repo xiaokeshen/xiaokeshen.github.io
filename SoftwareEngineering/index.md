@@ -201,7 +201,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ## Segment Tree  
 - [segment tree and RMQ](https://medium.com/@jim.morris.shen/segment-tree-or-rmq-442de4517c65?sk=c91fa0c5eb9bc99c68a6850101557a99)
 
-## rolling hash  
+## Rolling hash  
 - [rolling hash](https://medium.com/@jim.morris.shen/rolling-hash-problems-26c7a1346545?source=friends_link&sk=893381007ee153435b5f3dc2b4675bc2)
 
 ## Binary Lifting Algorithm  
@@ -221,6 +221,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 ## Process simulation  
 - [process simulation](https://medium.com/@jim.morris.shen/process-simulation-ed6e726efa9?source=friends_link&sk=3b45a1f1226312c165bf658619f7e2c3)
+
+## Discuss by cases 
+- [LCP 29 band locations](./coding/others/LCP29_band_location.md)
 
 ## Count on 1D/2D array  
 - [count on 1D/2D array](https://medium.com/@jim.morris.shen/count-on-1d-2d-array-2d57227958ed?sk=d58a41e56f76f0bca02057d740a0c949)  
