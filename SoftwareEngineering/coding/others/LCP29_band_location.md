@@ -3,11 +3,11 @@
 [LCP 29 Band Location](https://leetcode-cn.com/problems/SNJvJP/)
 ### Discussion  
 As the data size is 10^9. O(n) solution will get TLE. We need O(log n) or O(1) solution.
-Basic steps:
-Find the outlayers and get the total number of elements in the outlayer.
-For the current layer, discuss by cases: top, right, bottom and left
+Basic steps:  
+- Find the outlayers and get the total number of elements in the outlayer.
+- For the current layer, discuss by cases: top, right, bottom and left
 ### Code
-```
+```cpp
 class Solution {
 public:
     int orchestraLayout(int num, int i, int j) {
