@@ -1,4 +1,4 @@
-## LCP 31. LCP 29 Band location
+## LCP 29 Band location
 ### Problem  
 [LCP 29 Band Location](https://leetcode-cn.com/problems/SNJvJP/)
 ### Discussion  
