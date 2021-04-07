@@ -6,7 +6,8 @@ As the data size is 10^9. O(n) solution will get TLE. We need O(log n) or O(1) s
 Basic steps:  
 - Find the outlayers and get the total number of elements in the outlayer.
 - For the current layer, discuss by cases: top, right, bottom and left
-### Code
+### Code  
+
 ```cpp
 class Solution {
 public:
