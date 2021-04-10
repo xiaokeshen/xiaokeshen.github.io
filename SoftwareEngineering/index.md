@@ -417,6 +417,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ## C++ tips   
 - [Customized comparison in C++ part 1](https://medium.com/@jim.morris.shen/customize-comparison-in-c-fa48c0eac6d8?source=friends_link&sk=9cb6f7984b4af134683575f94b44db08)
 - [Customized comparison in C++ part 2](https://jimmy-shen.medium.com/c-customized-comparison-46c2d7dd708a)
+- [STL map/unordered_map with a Vector for the Key](https://jimmy-shen.medium.com/stl-map-unordered-map-with-a-vector-for-the-key-f30e5f670bae)
 - [Lambdas in C++ tutorial](https://medium.com/@jim.morris.shen/lambdas-in-c-942ca535ef30?sk=c07cc7082ea5a4948135ff8186186a4f) 
 - [C++ auto](https://jimmy-shen.medium.com/c-auto-3a61a085fd45)
 - [lambdas in c++](https://medium.com/@jim.morris.shen/lambdas-in-c-9a3045587be0?source=friends_link&sk=03a446b1ef4082743a3c815eaffeb193)
