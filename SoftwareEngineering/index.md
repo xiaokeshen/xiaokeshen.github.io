@@ -245,6 +245,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ## Mixed algorithms   
 ### BFS and Dijkstra   
 - [BFS and Dijkstra algorithm](https://medium.com/@jim.morris.shen/bfs-dijkstra-c46de5cb1f0b?source=friends_link&sk=f9cc2b3f457dc7f8731d99d5881994db)
+### BFS/Dijkstra/DP  
+- [Leetcode 1824. Minimum Sideway Jumps](https://jimmy-shen.medium.com/solve-a-problem-by-using-o-n-dijkstra-or-dp-9312f6a6beb6)
+
 ### DFS and Binary Search  
 - [DFS and Binary Search](https://medium.com/@jim.morris.shen/bfs-and-binary-search-9c74760a34c4?source=friends_link&sk=987f61b4b5f01a4c7228e2be899ef29e) 
 
