@@ -246,7 +246,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ### BFS and Dijkstra   
 - [BFS and Dijkstra algorithm](https://medium.com/@jim.morris.shen/bfs-dijkstra-c46de5cb1f0b?source=friends_link&sk=f9cc2b3f457dc7f8731d99d5881994db)
 ### BFS/Dijkstra/DP  
-- [Leetcode 1824. Minimum Sideway Jumps](https://jimmy-shen.medium.com/solve-a-problem-by-using-o-n-dijkstra-or-dp-9312f6a6beb6)
+- [Leetcode 1824. Minimum Sideway Jumps(MUSTSEE)](https://jimmy-shen.medium.com/solve-a-problem-by-using-o-n-dijkstra-or-dp-9312f6a6beb6)
 
 ### DFS and Binary Search  
 - [DFS and Binary Search](https://medium.com/@jim.morris.shen/bfs-and-binary-search-9c74760a34c4?source=friends_link&sk=987f61b4b5f01a4c7228e2be899ef29e) 
@@ -331,6 +331,8 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Implement a heap](https://medium.com/@jim.morris.shen/implement-a-heap-b36ee24ea0cf?source=friends_link&sk=7253e64b1021a3b0bd351a396876a177)
 - [Implement a binary heap by C++](https://medium.com/@jim.morris.shen/implement-a-binary-heap-by-c-d02a9499f61e?sk=74fdb51e0ea1d04eff394dc29cfa37bf) 
 
+### Multiset  
+- [using 3 multiset MUSTSEE](https://jimmy-shen.medium.com/using-three-multisets-74cd5da0d01)
 
 ### Linked List     
 - [Singly Linked List](coding/data_structure/linked_list/single_linked_list.md)
