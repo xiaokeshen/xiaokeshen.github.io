@@ -438,7 +438,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Format C++ code to google coding style](https://medium.com/@jim.morris.shen/google-coding-style-in-c-98183ed06620?sk=c764c820f40a818e4e05d53aa28ad8e6)
 - [0x3f3f3f](https://jimmy-shen.medium.com/0x3f3f3f3f-an-interesting-number-for-inf-f4f0a0d24124)
 - [C++ websites and books](https://jimmy-shen.medium.com/c-websites-and-books-1a925c581572)
-
+- [Vector emplace_back struct c++](https://jimmy-shen.medium.com/vector-emplace-back-struct-in-c-183425eddf73)
 ## Git tips  
 - [Git tips](https://medium.com/@jim.morris.shen/git-tips-a8902c528177?sk=fbfbf5011334f17cbd964634cde000a8)
 - [git merge VS git rebase](https://medium.com/@jim.morris.shen/git-rebase-vs-git-merge-aef5a505daf0?source=friends_link&sk=a25bd38f315039d1fd914fb48cbebcf8)
