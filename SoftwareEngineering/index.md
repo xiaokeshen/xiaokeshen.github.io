@@ -174,6 +174,8 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Two Pointer problems](https://medium.com/@jim.morris.shen/two-pointers-5bc86424ffd4?source=friends_link&sk=20eb28ea867ad7f3a3e67b22fd5bf4f9)
 - [Two Pointer](https://medium.com/@jim.morris.shen/two-points-fcb8ef6861e4?source=friends_link&sk=353cf1fa8b35aef6edba803aecdc38a2)
 - [3sum](https://medium.com/@jim.morris.shen/3sums-2d43ba443673?source=friends_link&sk=a647a07672eb26683064a0ed88e07c64)
+- [Advanced two pointer problem: LC 1847 Closest room](https://jimmy-shen.medium.com/advanced-two-pointer-problem-24d9faa99a05)
+
 
 ## Two Pointer and Monotonic Queue and Greedy
 - [Two Pointer and Monotonic Queue and Greedy](https://jimmy-shen.medium.com/monotonic-queue-two-pointer-and-greedy-algorithm-e0c466d49bb1)
