@@ -439,6 +439,8 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [0x3f3f3f](https://jimmy-shen.medium.com/0x3f3f3f3f-an-interesting-number-for-inf-f4f0a0d24124)
 - [C++ websites and books](https://jimmy-shen.medium.com/c-websites-and-books-1a925c581572)
 - [Vector emplace_back struct c++](https://jimmy-shen.medium.com/vector-emplace-back-struct-in-c-183425eddf73)
+- [Difference between vector and stack in C++](https://jimmy-shen.medium.com/difference-between-a-vector-and-a-stack-500de88f8b31)
+
 ## Git tips  
 - [Git tips](https://medium.com/@jim.morris.shen/git-tips-a8902c528177?sk=fbfbf5011334f17cbd964634cde000a8)
 - [git merge VS git rebase](https://medium.com/@jim.morris.shen/git-rebase-vs-git-merge-aef5a505daf0?source=friends_link&sk=a25bd38f315039d1fd914fb48cbebcf8)
