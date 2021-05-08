@@ -179,6 +179,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 ## Two Pointer and Monotonic Queue and Greedy
 - [Two Pointer and Monotonic Queue and Greedy](https://jimmy-shen.medium.com/monotonic-queue-two-pointer-and-greedy-algorithm-e0c466d49bb1)
+- [MUSTSEE Two Pointer and Deque](https://jimmy-shen.medium.com/two-pointer-and-deque-f8f1aa45112)
 
 ## Slow and fast pointer  
 - [slow and fast pointer](https://medium.com/@jim.morris.shen/fast-and-slow-pointer-61e7fa244a3b?source=friends_link&sk=02fd3fa9a263983a6407b57f3b4d77f2)
@@ -351,6 +352,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [LeetCode 430. Flatten a Multilevel Doubly Linked List](https://medium.com/@jim.morris.shen/leetcode-430-flatten-a-multilevel-doubly-linked-list-e09c71f965aa?source=friends_link&sk=4fbe612b8ee06332deebdebded8b8735)
 - [Catalan number and Unique Binary Search Trees](https://medium.com/@jim.morris.shen/catalan-number-and-unique-binary-search-trees-82a9d27d534c?source=friends_link&sk=3af4f4d588af05f96ef4368fcc2aa1d0) 
 - [LeetCode 449 serialize and deserialize BST](https://medium.com/@jim.morris.shen/lc-449-serialize-and-deserialize-bst-92f79bd55a0c)
+- [MUSTSEE LeetCode 426. Convert Binary Search Tree to Sorted Doubly Linked List](https://jimmy-shen.medium.com/leetcode-426-convert-binary-search-tree-to-sorted-doubly-linked-list-5f66b3a143a8)
 
 ### Tree  
 - [Tree problem](https://medium.com/@jim.morris.shen/tree-problem-54cc95adf0e8?sk=80c116c4ad164a3ff07bbe098509f857)
