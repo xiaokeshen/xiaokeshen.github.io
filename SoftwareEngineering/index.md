@@ -51,7 +51,6 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 #### topological sort
 - [LeetCode course schedule](coding/graph/topological_sort/topological_sort.md)
 
-
 #### Bipartition
 - [Leetcode 886. Possible Bipartition](coding/graph/bipartition/bipartition.md)
 
@@ -253,6 +252,10 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 ### DFS and Binary Search  
 - [DFS and Binary Search](https://medium.com/@jim.morris.shen/bfs-and-binary-search-9c74760a34c4?source=friends_link&sk=987f61b4b5f01a4c7228e2be899ef29e) 
+
+### Topological sort, cycle finding in directed graph and DFS
+- [Topological sort, cycle finding in directed graph and DFS with memo:LeetCode 1857. Largest Color Value in a Directed Graph](https://jimmy-shen.medium.com/topological-sort-cycle-finding-in-directed-graph-and-dfs-with-memo-1568d89eb99b)
+
 
 ### Backtracking and Math
 - [Backtracking and graph Leetcode 1766. Tree of Coprimes](https://jimmy-shen.medium.com/backtracking-and-graph-1318aef64f62)
