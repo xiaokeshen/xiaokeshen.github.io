@@ -445,6 +445,8 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [C++ websites and books](https://jimmy-shen.medium.com/c-websites-and-books-1a925c581572)
 - [Vector emplace_back struct c++](https://jimmy-shen.medium.com/vector-emplace-back-struct-in-c-183425eddf73)
 - [Difference between vector and stack in C++](https://jimmy-shen.medium.com/difference-between-a-vector-and-a-stack-500de88f8b31)
+## Math
+- [MUSTSEE three formulas for algorithm complexity analysis](https://jimmy-shen.medium.com/three-formulas-for-algorithm-complexity-analysis-7c092ecc3db)
 
 ## Git tips  
 - [Git tips](https://medium.com/@jim.morris.shen/git-tips-a8902c528177?sk=fbfbf5011334f17cbd964634cde000a8)
