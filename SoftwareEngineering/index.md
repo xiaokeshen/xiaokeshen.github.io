@@ -146,6 +146,8 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 #### Bitmask DP    
 - [bitmask DP](https://medium.com/@jim.morris.shen/bitmask-state-compression-dp-39e7ba56978b?source=friends_link&sk=46156da297f84c7dae5777cf28f7c636)
 
+#### DP and combinations  
+- [DP related to combination LC 1866. Number of Ways to Rearrange Sticks With K Sticks Visible](https://jimmy-shen.medium.com/dp-related-to-permutation-4cf1e1a2c5e)
 
 ## Bit Manipulation  
 - [Bit Manipulation](https://medium.com/@jim.morris.shen/bit-manipulation-94d53cbd8d42?source=friends_link&sk=4e2bf99ca67a9c159aab29e5efa276cd)
