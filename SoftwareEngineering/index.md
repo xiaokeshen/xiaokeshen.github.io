@@ -400,6 +400,13 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Permutations](https://medium.com/@jim.morris.shen/permutations-b7f6054f67f9?source=friends_link&sk=9305530d7ddb7c61147fca1a7567ecab)
 - [Leetcode 484 Find Permutation](https://medium.com/@jim.morris.shen/leetcode-484-find-permutation-e8167bf266fb?source=friends_link&sk=ff7db2a8bac289935c77aca904c667f1)
 
+## Prefix sum or prefix frequency sum 
+- [1+1/2+1/3+1/4…1/n = log n LC 1862. Sum of Floored Pairs](https://jimmy-shen.medium.com/1-1-2-1-3-1-4-1-n-log-n-5cad6485adff)
+
+## Math
+- [MUSTSEE three formulas for algorithm complexity analysis](https://jimmy-shen.medium.com/three-formulas-for-algorithm-complexity-analysis-7c092ecc3db)
+
+
 ## Random topics  
 ###My Mistakes 
 - [My Mistakes](https://medium.com/@jim.morris.shen/my-mistakes-1ee9d0839eb9?sk=20bfe95e1428a9e7a986713a99104720)
@@ -445,8 +452,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [C++ websites and books](https://jimmy-shen.medium.com/c-websites-and-books-1a925c581572)
 - [Vector emplace_back struct c++](https://jimmy-shen.medium.com/vector-emplace-back-struct-in-c-183425eddf73)
 - [Difference between vector and stack in C++](https://jimmy-shen.medium.com/difference-between-a-vector-and-a-stack-500de88f8b31)
-## Math
-- [MUSTSEE three formulas for algorithm complexity analysis](https://jimmy-shen.medium.com/three-formulas-for-algorithm-complexity-analysis-7c092ecc3db)
+
 
 ## Git tips  
 - [Git tips](https://medium.com/@jim.morris.shen/git-tips-a8902c528177?sk=fbfbf5011334f17cbd964634cde000a8)
