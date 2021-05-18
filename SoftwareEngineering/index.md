@@ -162,14 +162,15 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [priority queue and greedy algorithm](https://medium.com/@jim.morris.shen/priority-queue-greedy-8ea4097d7901?source=friends_link&sk=16381f36e6ea8b67a6510ba4ecf4016c)
 - [Leetcode 1792. Maximum Average Pass Ratio](https://jimmy-shen.medium.com/priority-queue-7263b28021a)
 
-## Monotonic Queue   
+## Monotonic Stack/Queue   
 - [Monotonic queue](https://medium.com/@jim.morris.shen/monotonic-queue-52d1472ee4e4?source=friends_link&sk=64cb46f421815aa4a002b375674faa74)
 - [Sliding window min/max, priority queue & Monotonic Queue](https://medium.com/@jim.morris.shen/sliding-window-min-max-priority-queue-monotonic-queue-ec77636cdc31?source=friends_link&sk=3c41b31a29a2fd879c1ff478e9777b2d)
 - [2d sliding window min/max problem](https://medium.com/@jim.morris.shen/2d-sliding-window-min-max-problem-e24b0c707a62?source=friends_link&sk=46498cedeb74b99fa2cd188e492184ba)
 - [713. Subarray Product Less Than K](https://medium.com/@jim.morris.shen/monotonic-queue-eecdf378ef7a)
 - [Monotonic queue: LC933 Number of Recent Calls](https://medium.com/@jim.morris.shen/monotonic-queue-lc933-number-of-recent-calls-c2e0d055ec55?source=friends_link&sk=0f696ce511e32665adaf64ee5415c1c3)
 - [Monotonic Queue 1696 jump game VI](https://jimmy-shen.medium.com/monotonic-queue-1696-jump-game-289e14c07a35)
--[LC Largest Rectangle in histogram](https://jimmy-shen.medium.com/lc-largest-rectangle-in-histogram-922b7aec7321)
+- [LC Largest Rectangle in histogram](https://jimmy-shen.medium.com/lc-largest-rectangle-in-histogram-922b7aec7321)
+- [Using monotonic stack to solve some problems](https://jimmy-shen.medium.com/using-monotonic-stack-to-solve-some-questions-5f72ee249472)
 
 ## Two Pointers  
 - [Two Pointer problems](https://medium.com/@jim.morris.shen/two-pointers-5bc86424ffd4?source=friends_link&sk=20eb28ea867ad7f3a3e67b22fd5bf4f9)
