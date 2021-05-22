@@ -22,7 +22,8 @@ image:
 My 'Serious' coding got started since I became a student as a Computer Science Major at the CUNY. Thanks for [Dr. Siyu Liao](https://liaocs2008.github.io/)'s help during my earlier programming life. Thanks for [Professor Liang Huang](http://web.engr.oregonstate.edu/~huanlian/) to guide me to the Python world. I am actively participate in the Leetcode weekly contest and you can find my profile [here](https://leetcode.com/liketheflower/).
 
 ## Algorithm
-
+## Complexity 
+- [Nice visualization for computation complexity](https://jimmy-shen.medium.com/nice-visualization-for-computation-complexity-b4f2bd6926d6)
 ### Sorting  
 - [Sorting algorithms](https://medium.com/@jim.morris.shen/sorting-algorithms-fa9bf8b4e859?source=friends_link&sk=43bc5d87e56ad8bea30ef1cb75ef5aa9)
 - [quicksort](https://medium.com/@jim.morris.shen/quick-sort-3c34238d320e?sk=504825ee1bfd5ede24f7592804ac2387)
