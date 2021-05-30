@@ -272,6 +272,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 ### Prefix sum and edge cases  
 - [Prefix sum and edge cases](https://jimmy-shen.medium.com/prefix-sum-and-edge-cases-1712-ways-to-split-array-into-three-subarrays-6bde566fbd5d)
+- [Super prefixsum](https://jimmy-shen.medium.com/super-prefix-sum-f53b1a056c9)
 
 ### Soft deletion and Monotonic Queue    
 - [2d sliding window min/max problem](https://medium.com/@jim.morris.shen/2d-sliding-window-min-max-problem-e24b0c707a62?source=friends_link&sk=46498cedeb74b99fa2cd188e492184ba)
