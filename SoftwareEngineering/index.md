@@ -461,7 +461,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Vector emplace_back struct c++](https://jimmy-shen.medium.com/vector-emplace-back-struct-in-c-183425eddf73)
 - [Difference between vector and stack in C++](https://jimmy-shen.medium.com/difference-between-a-vector-and-a-stack-500de88f8b31)
 - [Have a set of structs](https://jimmy-shen.medium.com/how-to-have-a-set-of-structs-in-c-60b301edea94)
-
+- [Why does priority queue (max heap) in C++ use less<T> instead of greater<T>?](https://jimmy-shen.medium.com/why-does-priority-queue-max-heap-in-c-use-less-t-instead-of-greater-t-f1b78c3a04b2)
 ## Git tips  
 - [Git tips](https://medium.com/@jim.morris.shen/git-tips-a8902c528177?sk=fbfbf5011334f17cbd964634cde000a8)
 - [git merge VS git rebase](https://medium.com/@jim.morris.shen/git-rebase-vs-git-merge-aef5a505daf0?source=friends_link&sk=a25bd38f315039d1fd914fb48cbebcf8)
