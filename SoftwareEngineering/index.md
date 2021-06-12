@@ -262,6 +262,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ### DFS and Binary Search  
 - [DFS and Binary Search](https://medium.com/@jim.morris.shen/bfs-and-binary-search-9c74760a34c4?source=friends_link&sk=987f61b4b5f01a4c7228e2be899ef29e) 
 
+### DFS and pre/post order traversal and two pointer  
+- [A tree problem: Special Nodes MUSTSEE](https://jimmy-shen.medium.com/a-tree-problem-speci-6c8208625701)
+
 ### Topological sort, cycle finding in directed graph and DFS
 - [Topological sort, cycle finding in directed graph and DFS with memo:LeetCode 1857. Largest Color Value in a Directed Graph](https://jimmy-shen.medium.com/topological-sort-cycle-finding-in-directed-graph-and-dfs-with-memo-1568d89eb99b)
 
