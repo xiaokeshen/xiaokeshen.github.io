@@ -300,6 +300,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ### Union Find and two pointer  
 - [union find and two pointers LC 1697. Checking Existence of Edge Length Limited Paths](https://jimmy-shen.medium.com/union-find-and-two-pointer-d78e0c081cc2)
 
+### Union Find, DFS/BFS
+- [union find, DFS/BFS](https://jimmy-shen.medium.com/union-find-or-dfs-bfs-b7d4cae28fab)
+
 ### String problems by using C++  
 - [String problems in C++](https://medium.com/@jim.morris.shen/string-problems-by-using-c-a429dfa3cdfd?source=friends_link&sk=ca65c38f889548af963734835fc0924d)
 
