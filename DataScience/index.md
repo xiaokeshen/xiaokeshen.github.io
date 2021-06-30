@@ -30,7 +30,7 @@ image:
 - [batch normalization](https://medium.com/@jim.morris.shen/batch-normalization-7845ac308083?sk=9aa7b90f8f716f25366089aa2963e295)
 - [ROC and EER](https://medium.com/@jim.morris.shen/roc-receiver-operating-characteristic-and-eer-equal-error-rate-ac5a576fae38?sk=d6a21f9b39e3dd5d420474fb1b6a8dc0)
 - [Softmax and LogSoftmax](https://jimmy-shen.medium.com/softmax-or-logsoftmax-97784cd43b35)
-
+- [Why harmonic mean in F1 score?](https://jimmy-shen.medium.com/why-harmonic-mean-in-f1-score-9ab0d01a6b35)
 ### Data Visualization
 - [Tableau and TabPy](https://jimmy-shen.medium.com/tableau-and-tabpy-3f9264755430)
 
