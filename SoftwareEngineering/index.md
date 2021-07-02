@@ -368,7 +368,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Singly Linked List](coding/data_structure/linked_list/single_linked_list.md)
 - [List](https://medium.com/@jim.morris.shen/list-cb6d530d064f?source=friends_link&sk=c12b8542e4b8729358a34dfedf78a7d5)
 - [linked List: Leetcode 24. Swap Nodes in Pairs] (https://jimmy-shen.medium.com/linked-list-1d4f2983e1bc)
-
+- [Linked List Problems](https://jimmy-shen.medium.com/linked-list-problems-9daa7e21b317)
 
 ### Binary Tree   
 - [Basic binary tree problems](https://medium.com/@jim.morris.shen/basic-binary-tree-problems-b5593407f777?source=friends_link&sk=69df21a4b7723a691018d7afe4908398)
