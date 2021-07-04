@@ -381,7 +381,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Catalan number and Unique Binary Search Trees](https://medium.com/@jim.morris.shen/catalan-number-and-unique-binary-search-trees-82a9d27d534c?source=friends_link&sk=3af4f4d588af05f96ef4368fcc2aa1d0) 
 - [LeetCode 449 serialize and deserialize BST](https://medium.com/@jim.morris.shen/lc-449-serialize-and-deserialize-bst-92f79bd55a0c)
 - [MUSTSEE LeetCode 426. Convert Binary Search Tree to Sorted Doubly Linked List](https://jimmy-shen.medium.com/leetcode-426-convert-binary-search-tree-to-sorted-doubly-linked-list-5f66b3a143a8)
-
+- [LCA in a tree](https://jimmy-shen.medium.com/lca-in-a-tree-3c253c825172)
 ### Tree  
 - [Tree problem](https://medium.com/@jim.morris.shen/tree-problem-54cc95adf0e8?sk=80c116c4ad164a3ff07bbe098509f857)
 - [Diameter of a tree](https://medium.com/@jim.morris.shen/diameter-of-tree-cd2b77abf4a1?source=friends_link&sk=3a4fdf2cbd8a187581354ecf47cff07b) 
