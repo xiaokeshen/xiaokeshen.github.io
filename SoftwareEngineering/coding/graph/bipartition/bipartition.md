@@ -63,50 +63,51 @@ class Solution:
 ```
 
 - C++ solution
-```cpp
-const int UNVISITED = -1, COLOR1 = 0, COLOR2 = 1;
 
-class Solution {
-public:
-    vector<vector<int>> AL;
-    vector<int> colors;
-    bool isBipartition(int node) {
-        int currentColor = colors[node];
-        int expectedColor = 1 - currentColor;
-        for (auto &neighbor : AL[node]) {
-            // neighbor has color
-            if (colors[neighbor] != UNVISITED) {
-                if (colors[neighbor] != expectedColor) return false;
-            }
-            // neighbor does not have color
-            else {
-                // color neighbor
-                colors[neighbor] = expectedColor;
-                if (!isBipartition(neighbor)) return false;
-            }
-        }
-        return true;
-    }
-    bool possibleBipartition(int N, vector<vector<int>>& dislikes) {
-        // set colors, and the default one is UNVISITED
-        vector<int> colors(N+1, UNVISITED);
-        // build the graph
-        vector<vector<int>> AL(N+1);
-        for (auto & x: dislikes) {
-            auto u = x[0], v = x[1];
-            AL[u].push_back(v);
-            AL[v].push_back(u);
-        }
-        this->colors = colors;
-        this->AL = AL;
-        // check whehter each subgraph is bipartition
-        for (int i = 0; i < N; ++i) {
-            if (colors[i] == UNVISITED) {
-                colors[i] = COLOR1;
-                if (!isBipartition(i)) return false;
-            }
-        }
-        return true;
-    }
-};
+```cpp
+const int UNVISITED = -1, COLOR1 = 0, COLOR2 = 1;                                       
+                                                                                        
+class Solution {                                                                        
+public:                                                                                 
+    vector<vector<int>> AL;                                                             
+    vector<int> colors;                                                                 
+    bool isBipartition(int node) {                                                      
+        int currentColor = colors[node];                                                
+        int expectedColor = 1 - currentColor;                                           
+        for (auto &neighbor : AL[node]) {                                               
+            // neighbor has color                                                       
+            if (colors[neighbor] != UNVISITED) {                                        
+                if (colors[neighbor] != expectedColor) return false;                    
+            }                                                                           
+            // neighbor does not have color                                             
+            else {                                                                      
+                // color neighbor                                                       
+                colors[neighbor] = expectedColor;                                       
+                if (!isBipartition(neighbor)) return false;                             
+            }                                                                           
+        }                                                                               
+        return true;                                                                    
+    }                                                                                   
+    bool possibleBipartition(int N, vector<vector<int>>& dislikes) {                    
+        // set colors, and the default one is UNVISITED                                 
+        vector<int> colors(N+1, UNVISITED);                                             
+        // build the graph                                                              
+        vector<vector<int>> AL(N+1);                                                    
+        for (auto & x: dislikes) {                                                      
+            auto u = x[0], v = x[1];                                                    
+            AL[u].push_back(v);                                                         
+            AL[v].push_back(u);                                                         
+        }                                                                               
+        this->colors = colors;                                                          
+        this->AL = AL;                                                                  
+        // check whehter each subgraph is bipartition                                   
+        for (int i = 0; i < N; ++i) {                                                   
+            if (colors[i] == UNVISITED) {                                               
+                colors[i] = COLOR1;                                                     
+                if (!isBipartition(i)) return false;                                    
+            }                                                                           
+        }                                                                               
+        return true;                                                                    
+    }                                                                                   
+};       
 ```
