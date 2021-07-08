@@ -203,6 +203,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 -[A hard binary search problem find median of two sorted array](https://jimmy-shen.medium.com/a-hard-binary-search-problem-3238ea1a43a5)
 -[1760. Minimum Limit of Balls in a Bag](https://jimmy-shen.medium.com/binary-search-88c842af7e9b)
 -[A harder bianry search problem 658. Find K Closest Elements](https://jimmy-shen.medium.com/a-hard-binary-search-problem-d1224f78205c)
+-[Two layer binary search](https://jimmy-shen.medium.com/6fe4319d370e)
 
 ## String problems  
 - [KMP](https://medium.com/@jim.morris.shen/kmp-674b29c95411?source=friends_link&sk=444bcadb1100bddb78d3108e216de273)
