@@ -51,6 +51,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 ### SSSP and DP  
 - [SSSP + DP](https://jimmy-shen.medium.com/sssp-dp-258369c60917)
+-[From backtracking to SSSP to DP](https://jimmy-shen.medium.com/from-backtracking-to-sssp-and-to-dp-ea8735b856ad)
 
 #### topological sort
 - [LeetCode course schedule](coding/graph/topological_sort/topological_sort.md)
