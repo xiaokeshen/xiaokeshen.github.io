@@ -378,6 +378,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 ### Binary Tree   
 - [Basic binary tree problems](https://medium.com/@jim.morris.shen/basic-binary-tree-problems-b5593407f777?source=friends_link&sk=69df21a4b7723a691018d7afe4908398)
+- [MUSTSEE super binary tree template problems](https://jimmy-shen.medium.com/super-binary-tree-template-problems-9601e7e84a0f)
 - [Advanced binary tree problems](https://medium.com/@jim.morris.shen/advanced-binary-tree-problems-6a2436b4d34c?source=friends_link&sk=f000c0fa05cb64d7ad971139b2fb9c3e)
 - [binary tree maximum path sum](coding/data_structure/binary_tree/binary_tree_maximum_path_sum.md)
 - [Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](coding/data_structure/binary_tree/check_if_string_valid_in_binary_tree.md)
