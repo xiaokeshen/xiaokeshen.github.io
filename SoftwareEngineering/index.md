@@ -400,6 +400,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ### Trie  
 - [Trie](https://medium.com/@jim.morris.shen/trie-950ab3de38c6?source=friends_link&sk=6734979336f8c8b76a5d2934aa67078a)
 - [Trie in C++](https://medium.com/@jim.morris.shen/trie-in-c-82e2c8e85e66?sk=f6acd6974e6e7fadc00aa2d6ab98faad) 
+- [Trie](https://jimmy-shen.medium.com/trie-cca88ba7620c)
 
 ### Trie and Fast Walsh-Hadamard transform algorithm  
 - [Trie and Fast Walsh–Hadamard transform algorithm](https://jimmy-shen.medium.com/trie-and-fast-walsh-hadamard-transform-algorithm-6f32645d4ad1)
