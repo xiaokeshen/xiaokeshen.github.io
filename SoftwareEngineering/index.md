@@ -152,6 +152,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ### DP look backwards  
 - [DP Look backwards LC 1871. Jump Game VII](https://jimmy-shen.medium.com/dont-look-back-go-forward-994fb77a0a4a)
 
+### Digit DP
+- [Digit DP](https://jimmy-shen.medium.com/digit-dp-269f47a20bf9)
+
 #### TSP  
 - [Are you ready for solving the traveling salesman problem?](https://medium.com/analytics-vidhya/are-you-read-for-solving-the-traveling-salesman-problem-80e3c4ea45fc?source=friends_link&sk=b28ea8888460935401ae02f800d6ccd8)
 
