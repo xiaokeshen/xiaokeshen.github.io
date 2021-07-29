@@ -186,6 +186,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Monotonic Queue 1696 jump game VI](https://jimmy-shen.medium.com/monotonic-queue-1696-jump-game-289e14c07a35)
 - [LC Largest Rectangle in histogram](https://jimmy-shen.medium.com/lc-largest-rectangle-in-histogram-922b7aec7321)
 - [Using monotonic stack to solve some problems](https://jimmy-shen.medium.com/using-monotonic-stack-to-solve-some-questions-5f72ee249472)
+- [1944. Number of Visible People in a Queue](https://jimmy-shen.medium.com/monotonic-queue-2f4e1420cca7)
 
 ## Two Pointers  
 - [Two Pointer problems](https://medium.com/@jim.morris.shen/two-pointers-5bc86424ffd4?source=friends_link&sk=20eb28ea867ad7f3a3e67b22fd5bf4f9)
