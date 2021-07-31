@@ -148,6 +148,8 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 #### Range DP  
 - [Range DP](https://medium.com/@jim.morris.shen/range-dp-5aa05d902a78?source=friends_link&sk=48b0122fdd5abb8690a2a81359e5ee39)
 - [Greedy is wrong and DP is correct: LC 1547. Minimum Cost to Cut a Stick](https://medium.com/@jim.morris.shen/greedy-is-wrong-and-dp-is-correct-7c385c3b0696?sk=148b12fb9f00d0e18bedaa5809b06abe)
+- [Range DP](https://jimmy-shen.medium.com/range-dp-fae8c6a3db38)
+
 
 ### DP look backwards  
 - [DP Look backwards LC 1871. Jump Game VII](https://jimmy-shen.medium.com/dont-look-back-go-forward-994fb77a0a4a)
@@ -414,6 +416,8 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Trie in C++](https://medium.com/@jim.morris.shen/trie-in-c-82e2c8e85e66?sk=f6acd6974e6e7fadc00aa2d6ab98faad) 
 - [Trie](https://jimmy-shen.medium.com/trie-cca88ba7620c)
 - [Trie and XOR](https://jimmy-shen.medium.com/xor-and-trie-6e858533dd5b)
+- [Trie and DFS](https://jimmy-shen.medium.com/trie-and-dfs-d4c1924d72f6)
+
 
 ### Trie and Fast Walsh-Hadamard transform algorithm  
 - [Trie and Fast Walsh–Hadamard transform algorithm](https://jimmy-shen.medium.com/trie-and-fast-walsh-hadamard-transform-algorithm-6f32645d4ad1)
