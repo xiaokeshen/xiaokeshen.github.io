@@ -29,6 +29,8 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [quicksort](https://medium.com/@jim.morris.shen/quick-sort-3c34238d320e?sk=504825ee1bfd5ede24f7592804ac2387)
 - [Leetcode 274 H index](https://medium.com/@jim.morris.shen/leetcode-274-h-index-8c6e6802b385?source=friends_link&sk=8908c9aa0b0611b97f258c612f999a89)
 - [Kth](https://medium.com/@jim.morris.shen/kth-problems-2a16b3feb2be?sk=1244ac25c7a4a8cc40b00b1c376644c2)
+- [merge sort on a linked list](https://jimmy-shen.medium.com/merge-sort-on-a-linked-list-d15052fc8724)
+
 
 ### Graph Algorithm
 
