@@ -320,7 +320,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ### Two pointers and binary search  
 - [two pointer and binary search](https://medium.com/@jim.morris.shen/binary-search-and-two-pointer-4c9e2043f55c?sk=6481ddfcdc873617310fd223844abebb)
 - [Two pointer and binary search Leetcode 76 Minimum Window Substring](https://medium.com/@jim.morris.shen/binary-search-and-two-pointers-ec3ca697744?sk=b49f268e1f83da6bcbb5876b9c0f53d6)
-
+-[Binary search and two pointers: LeetCode 76. Minimum Window Substring ](https://jimmy-shen.medium.com/binary-search-and-two-pointer-c534d7b81206)
 ### Union Find and two pointer  
 - [union find and two pointers LC 1697. Checking Existence of Edge Length Limited Paths](https://jimmy-shen.medium.com/union-find-and-two-pointer-d78e0c081cc2)
 
