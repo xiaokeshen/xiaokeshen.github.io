@@ -291,7 +291,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 ### Topological sort and DP  
 - [Topological sort and DP](https://jimmy-shen.medium.com/topological-sort-and-dp-14a9290280ef)
-
+- [Topological sort and DP 2](https://jimmy-shen.medium.com/topological-sort-and-dp-7fb86f7076ee)
 ### Backtracking and Math
 - [Backtracking and graph Leetcode 1766. Tree of Coprimes](https://jimmy-shen.medium.com/backtracking-and-graph-1318aef64f62)
 
