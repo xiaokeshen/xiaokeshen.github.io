@@ -347,8 +347,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ## Stack and binary tree  
 -[stack and binary tree: LC 150 Evaluate Reverse Polish Notation](https://jimmy-shen.medium.com/stack-and-binary-tree-190ffa28f51f)
 
-## sub rectangle area
+## rectangle area
 - [2D range sum, Kadane's algorithm and maximum subarray sum no more than k](https://jimmy-shen.medium.com/2d-range-sum-kadanes-algorithm-and-maximum-subarray-sum-no-more-than-k-68e72ac65cad)
+- [Rectangle Areas: Coordinate Compression](https://jimmy-shen.medium.com/rectangle-areas-coordinate-compression-299e8f7a1da4)
 
 ## Geometric Problems  
 - [Geometric problems](https://medium.com/@jim.morris.shen/geometric-problems-3139398b6b5b?source=friends_link&sk=9f58e8e296a1dc3bc6f5adb846dcea66)
