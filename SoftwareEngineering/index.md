@@ -312,6 +312,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 ### DP and binary seach and monotonic queue  
 - [DP, binary seach and monotonic queue ](https://medium.com/@jim.morris.shen/dp-binary-search-and-monotonic-queue-fc176f7b21c7?source=friends_link&sk=ff461c1950c896faf5183017f7236a79)
+- [DP an dbinary search](https://jimmy-shen.medium.com/dp-and-binary-search-1ae6f4adf606)
 
 ### DFS and DP  
 - [DFS and DP](https://medium.com/@jim.morris.shen/binary-seardfs-and-dp-e7fa99a8742d?source=friends_link&sk=85922ce20cfa65bfe684b7bf048d1c07)
