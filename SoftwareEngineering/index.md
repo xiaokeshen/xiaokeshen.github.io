@@ -45,7 +45,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 #### Dijkstra algorithm 
 - [Correctness of Dijkstra algorithm](https://jimmy-shen.medium.com/correctness-of-dijkstras-algorithm-e49ff040277c)
-
+- [An interesting problem solved by dijkstra algorithm: LC 882. Reachable Nodes In Subdivided Graph](https://jimmy-shen.medium.com/an-interesting-problem-solved-by-dijkstra-db5da63be615)
 #### BFS and Dijkstra 
 - [BFS + Dijkstra](https://medium.com/@jim.morris.shen/bfs-dijkstra-c46de5cb1f0b?source=friends_link&sk=f9cc2b3f457dc7f8731d99d5881994db) 
 
