@@ -41,7 +41,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [C++ DFS Leetcode 490. The Maze](https://medium.com/@jim.morris.shen/c-dfs-b0276250c3eb?sk=fc0bbee203030ea80da1b55fe43cf362)
 - [Jump Game IV](https://jimmy-shen.medium.com/bfs-jump-game-iv-4c443840e8c9)
 - [Word Ladder II: BFS](https://jimmy-shen.medium.com/word-ladder-ii-bfs-7ec9f2b0a29b)
-
+- [Using BFS to solve a hard problem](https://jimmy-shen.medium.com/using-bfs-to-solve-a-hard-problem-5dc8e68a7530)
 
 #### Dijkstra algorithm 
 - [Correctness of Dijkstra algorithm](https://jimmy-shen.medium.com/correctness-of-dijkstras-algorithm-e49ff040277c)
