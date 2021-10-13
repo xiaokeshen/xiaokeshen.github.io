@@ -466,6 +466,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ## Prefix sum or prefix frequency sum 
 - [1+1/2+1/3+1/4…1/n = log n LC 1862. Sum of Floored Pairs](https://jimmy-shen.medium.com/1-1-2-1-3-1-4-1-n-log-n-5cad6485adff)
 
+## Meet in middle
+- [C++ meet in middle](https://jimmy-shen.medium.com/c-meet-in-middle-b6e02ede4e6d)
+
 ## Math
 - [MUSTSEE three formulas for algorithm complexity analysis](https://jimmy-shen.medium.com/three-formulas-for-algorithm-complexity-analysis-7c092ecc3db)
 
