@@ -174,6 +174,8 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [LeetCode 137 single number ii](https://medium.com/@jim.morris.shen/bit-manipulation-625e7a6382c1?source=friends_link&sk=8c8c157763b6a9f1cffa4a7e70189b5c)
 - [LeetCode 260 single number iii](https://medium.com/@jim.morris.shen/bit-manipulation-94d53cbd8d42?source=friends_link&sk=4e2bf99ca67a9c159aab29e5efa276cd)
 - [XOR: LC 1734. Decode XORed Permutation](https://jimmy-shen.medium.com/xor-608ddf279f5f)
+- [Using bit manipulation to speed up the computation LC 1178 Number of Valid Words for Each Puzzle](https://jimmy-shen.medium.com/using-bit-manipulation-to-speed-up-the-computation-64dd099f0e26)
+
 ## Sting and bit manipulation  
 - [String and bit manipulation](https://medium.com/@jim.morris.shen/string-and-bit-manipulation-c5feb00bfd91?sk=a25750e9cd669e54f74c0ecc21e4b7bd)
 
@@ -250,7 +252,8 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Backtracking 3 40. Combination Sum II](https://jimmy-shen.medium.com/backtracking-3cc831c35063)
 - [Using backtrack to solve the Word Search problem](https://jimmy-shen.medium.com/using-backtrack-to-solve-the-word-search-problem-b50b23226749)
 - [word search, trie and backtrack](https://jimmy-shen.medium.com/word-search-trie-and-backtrack-1f7032a78b5c)
-
+## Backtrack and bitmask  
+- [Backtrack by using bit mask to record visited node](https://jimmy-shen.medium.com/backtrack-by-using-bit-mask-to-record-visited-nodes-72ddc8e29b4d)
 
 ## Process simulation  
 - [process simulation](https://medium.com/@jim.morris.shen/process-simulation-ed6e726efa9?source=friends_link&sk=3b45a1f1226312c165bf658619f7e2c3)
