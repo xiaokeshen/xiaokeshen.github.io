@@ -103,6 +103,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [LIS ACwing] (https://jimmy-shen.medium.com/lis-4de7641509a0)
 - [Longest common subsequence](coding/dp/classical/lcs.md)
 - [LCS and LIS: LC 1713 Minimum Operations to Make a Subsequence](https://jimmy-shen.medium.com/lcs-and-lis-lc-1713-minimum-operations-to-make-a-a-2b774d63e943)
+- [LIS: minimum operations to make the array K-increasing](https://jimmy-shen.medium.com/lis-minimum-operations-to-make-the-array-k-increasing-50136ff2d48e)
 - [Longest Palindromic Subsequence](https://jimmy-shen.medium.com/longest-palindromic-subsequence-6b229f67795)
 - [Combination sum or Coin Change](https://medium.com/@jim.morris.shen/combination-sum-or-coin-change-cd9264a02903?source=friends_link&sk=f071a05acbedc48a1ce9b1f61b5f49ab)
 - [Jump Games](https://jimmy-shen.medium.com/jump-games-91dab95482b1)
