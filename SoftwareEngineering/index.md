@@ -257,6 +257,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [word search, trie and backtrack](https://jimmy-shen.medium.com/word-search-trie-and-backtrack-1f7032a78b5c)
 ## Backtrack and bitmask  
 - [Backtrack by using bit mask to record visited node](https://jimmy-shen.medium.com/backtrack-by-using-bit-mask-to-record-visited-nodes-72ddc8e29b4d)
+- [Backtrack and bit manipulation](https://jimmy-shen.medium.com/backtrack-and-bit-manipulation-ce25b55d3a6f)
 
 ## Process simulation  
 - [process simulation](https://medium.com/@jim.morris.shen/process-simulation-ed6e726efa9?source=friends_link&sk=3b45a1f1226312c165bf658619f7e2c3)
