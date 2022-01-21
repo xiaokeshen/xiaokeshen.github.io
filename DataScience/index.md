@@ -34,7 +34,10 @@ image:
 ### Data Visualization
 - [Tableau and TabPy](https://jimmy-shen.medium.com/tableau-and-tabpy-3f9264755430)
 
-### Paper summary
+### Paper Reading 
+#### 2022 paper reading 
+-[data2vec from meta AI](https://jimmy-shen.medium.com/finally-we-have-a-more-general-modality-unspecific-representation-method-data2vec-5dcba6c853ef)
+#### 2020 paper reading
 - [Summary of the paper “Understanding Deep Learning Requires Rethinking Generalization"](https://medium.com/@jim.morris.shen/summary-of-the-paper-understanding-deep-learning-requires-rethinking-generalization-aced06f31b51)
 
 ### Coding
