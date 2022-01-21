@@ -20,6 +20,13 @@ image:
 ---
 
 ## Machine Learning
+
+### Paper Reading 
+#### 2022 paper reading 
+- [data2vec from meta AI](https://jimmy-shen.medium.com/finally-we-have-a-more-general-modality-unspecific-representation-method-data2vec-5dcba6c853ef)
+#### 2020 paper reading
+- [Summary of the paper “Understanding Deep Learning Requires Rethinking Generalization"](https://medium.com/@jim.morris.shen/summary-of-the-paper-understanding-deep-learning-requires-rethinking-generalization-aced06f31b51)
+
 ### Key concepts
 - [KL divergence](https://medium.com/@jim.morris.shen/why-we-dont-say-kl-divergence-is-a-distance-b0b25a8e6004?sk=59a0479988eb850a0b0b5c2a4e5937a1)
 - [Bias and variance, underfitting and overfitting](https://medium.com/@jim.morris.shen/bias-and-variance-underfitting-and-overfitting-35189069d919?source=friends_link&sk=a481fef6d4e8552c6580a37c8ed0b92c)
@@ -31,14 +38,10 @@ image:
 - [ROC and EER](https://medium.com/@jim.morris.shen/roc-receiver-operating-characteristic-and-eer-equal-error-rate-ac5a576fae38?sk=d6a21f9b39e3dd5d420474fb1b6a8dc0)
 - [Softmax and LogSoftmax](https://jimmy-shen.medium.com/softmax-or-logsoftmax-97784cd43b35)
 - [Why harmonic mean in F1 score?](https://jimmy-shen.medium.com/why-harmonic-mean-in-f1-score-9ab0d01a6b35)
+
 ### Data Visualization
 - [Tableau and TabPy](https://jimmy-shen.medium.com/tableau-and-tabpy-3f9264755430)
 
-### Paper Reading 
-#### 2022 paper reading 
--[data2vec from meta AI](https://jimmy-shen.medium.com/finally-we-have-a-more-general-modality-unspecific-representation-method-data2vec-5dcba6c853ef)
-#### 2020 paper reading
-- [Summary of the paper “Understanding Deep Learning Requires Rethinking Generalization"](https://medium.com/@jim.morris.shen/summary-of-the-paper-understanding-deep-learning-requires-rethinking-generalization-aced06f31b51)
 
 ### Coding
 - [Implement K means by using Numpy](https://medium.com/@jim.morris.shen/simple-implement-k-means-by-using-numpy-8a0b16883da5?source=friends_link&sk=c2d6b4046ad83fc2b73578922b29bb85)
