@@ -23,9 +23,14 @@ image:
 
 ### Paper Reading 
 #### 2022 paper reading 
-- [data2vec from meta AI](https://jimmy-shen.medium.com/finally-we-have-a-more-general-modality-unspecific-representation-method-data2vec-5dcba6c853ef)
-#### 2020 paper reading
+- [data2vec from meta AI 2022](https://jimmy-shen.medium.com/finally-we-have-a-more-general-modality-unspecific-representation-method-data2vec-5dcba6c853ef)
+
+#### 2020 paper reading  
 - [Summary of the paper “Understanding Deep Learning Requires Rethinking Generalization"](https://medium.com/@jim.morris.shen/summary-of-the-paper-understanding-deep-learning-requires-rethinking-generalization-aced06f31b51)
+
+## CV tutorials  
+### Image classification  
+- [Using Paddlepaddle to recognize flowers](https://jimmy-shen.medium.com/using-paddlepaddle-to-recognize-flowers-e8eb0cf5acbc)
 
 ### Key concepts
 - [KL divergence](https://medium.com/@jim.morris.shen/why-we-dont-say-kl-divergence-is-a-distance-b0b25a8e6004?sk=59a0479988eb850a0b0b5c2a4e5937a1)
