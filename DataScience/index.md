@@ -39,6 +39,7 @@ image:
 - [Why SGD is better than GD](https://medium.com/@jim.morris.shen/why-sgd-is-better-than-gd-f1046e7b7b9c)
 - [Curse of dimensionality](https://medium.com/@jim.morris.shen/curse-of-dimensionality-bdc3fd5ac3c1)
 - [How to prepare Machine Learning Interview](https://medium.com/@jim.morris.shen/how-to-prepare-machine-learning-interview-806c21317c6c)
+- [Cracking your DL interviewing](https://jimmy-shen.medium.com/cool-cracking-your-dl-interviewing-f57f9691a18d)
 - [batch normalization](https://medium.com/@jim.morris.shen/batch-normalization-7845ac308083?sk=9aa7b90f8f716f25366089aa2963e295)
 - [ROC and EER](https://medium.com/@jim.morris.shen/roc-receiver-operating-characteristic-and-eer-equal-error-rate-ac5a576fae38?sk=d6a21f9b39e3dd5d420474fb1b6a8dc0)
 - [Softmax and LogSoftmax](https://jimmy-shen.medium.com/softmax-or-logsoftmax-97784cd43b35)
@@ -67,6 +68,7 @@ image:
 - [Pytorch Model transfer](https://medium.com/@jim.morris.shen/pytorch-model-transfer-b0657879791d?source=friends_link&sk=8faae22b738d72c38bcb1dc0613f55c0)
 - [Pytorch freeze part of the layers](https://medium.com/@jim.morris.shen/pytorch-freeze-part-of-the-layers-4554105e03a6?source=friends_link&sk=20df07ebc5848050e68efe27b03ad37f)
 - [Ptorch dataset and dataloader](https://jimmy-shen.medium.com/dataloader-and-dataset-in-pytorch-6ccc1ebfcb70)
+
 ## Tensorflow
 - [Tensorflow 1.x vs 2,x](https://medium.com/@jim.morris.shen/tensorflow-1-x-vs-2-x-4acaf509f2ef?sk=b33531141128d8c437445b98710e12ae)
 - [Tensorflow Docker on mac](https://medium.com/@jim.morris.shen/tensorflow-docker-on-mac-5fcc0603f68e?sk=4816d7f9839f4ff9999c861151483024)
@@ -83,13 +85,7 @@ image:
 
 
 ## Visualization by using Tableau
-### [Number of years lived in each city]
-- [raw data](https://docs.google.com/spreadsheets/d/11l3uZB3ATSsXhd91y_47pd2u9U0ZSZVEA1MJeAqJ6RM/edit?usp=sharing)
-- vis
-
-<div class='tableauPlaceholder' id='viz1611617742948' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;TT&#47;TTTP75H2Q&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;TTTP75H2Q' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;TT&#47;TTTP75H2Q&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1611617742948');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
 - [Titanic and Tablea](https://jimmy-shen.medium.com/titanic-and-tableau-e450b70e9e16)
 
 
-[attendance](https://docs.google.com/forms/u/1/d/e/1FAIpQLSeExPfCV7ZbEfh7oVM4XRORhLbmiSgwYX7--UzPJ6uxyjFWmw/formResponse)
