@@ -19,8 +19,6 @@ image:
 
 ---
 
-## Machine Learning
-
 ### Paper Reading 
 #### 2022 paper reading 
 - [data2vec from meta AI 2022](https://jimmy-shen.medium.com/finally-we-have-a-more-general-modality-unspecific-representation-method-data2vec-5dcba6c853ef)
@@ -28,11 +26,14 @@ image:
 #### 2020 paper reading  
 - [Summary of the paper “Understanding Deep Learning Requires Rethinking Generalization"](https://medium.com/@jim.morris.shen/summary-of-the-paper-understanding-deep-learning-requires-rethinking-generalization-aced06f31b51)
 
-## CV tutorials  
+## CV tutorials ## 
 ### Image classification  
 - [Using Paddlepaddle to recognize flowers](https://jimmy-shen.medium.com/using-paddlepaddle-to-recognize-flowers-e8eb0cf5acbc)
 
-### Key concepts
+## NLP toturials ###
+- [Awesome Transformer Tutorial and blogs](https://jimmy-shen.medium.com/awesome-transformer-tutorial-and-blogs-5d33f1e91546)
+
+## ML Key concepts ##
 - [KL divergence](https://medium.com/@jim.morris.shen/why-we-dont-say-kl-divergence-is-a-distance-b0b25a8e6004?sk=59a0479988eb850a0b0b5c2a4e5937a1)
 - [Bias and variance, underfitting and overfitting](https://medium.com/@jim.morris.shen/bias-and-variance-underfitting-and-overfitting-35189069d919?source=friends_link&sk=a481fef6d4e8552c6580a37c8ed0b92c)
 - [Occam’s razor description from literature](https://medium.com/@jim.morris.shen/occams-razor-description-from-literature-86d457cf42d7?source=friends_link&sk=f2e91c1f7a7ac2a493abbcdda7a2b4be)
