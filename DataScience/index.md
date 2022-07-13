@@ -69,6 +69,7 @@ image:
 - [Pytorch Model transfer](https://medium.com/@jim.morris.shen/pytorch-model-transfer-b0657879791d?source=friends_link&sk=8faae22b738d72c38bcb1dc0613f55c0)
 - [Pytorch freeze part of the layers](https://medium.com/@jim.morris.shen/pytorch-freeze-part-of-the-layers-4554105e03a6?source=friends_link&sk=20df07ebc5848050e68efe27b03ad37f)
 - [Ptorch dataset and dataloader](https://jimmy-shen.medium.com/dataloader-and-dataset-in-pytorch-6ccc1ebfcb70)
+- [map style dataset and iterable style dataset](https://jimmy-shen.medium.com/map-style-dataset-and-iterable-style-dataset-91b392f40c67)
 
 ## Tensorflow
 - [Tensorflow 1.x vs 2,x](https://medium.com/@jim.morris.shen/tensorflow-1-x-vs-2-x-4acaf509f2ef?sk=b33531141128d8c437445b98710e12ae)
