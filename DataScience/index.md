@@ -26,6 +26,9 @@ image:
 #### 2020 paper reading  
 - [Summary of the paper “Understanding Deep Learning Requires Rethinking Generalization"](https://medium.com/@jim.morris.shen/summary-of-the-paper-understanding-deep-learning-requires-rethinking-generalization-aced06f31b51)
 
+### Paper writting ###
+- [How to write paper abstract](https://jimmy-shen.medium.com/how-to-write-paper-abstract-c8b37eba895b)
+
 ## CV tutorials ## 
 ### Image classification  
 - [Using Paddlepaddle to recognize flowers](https://jimmy-shen.medium.com/using-paddlepaddle-to-recognize-flowers-e8eb0cf5acbc)
