@@ -41,7 +41,8 @@ image:
 ## LLM ## 
 - [Large Language Model: GPT3](https://medium.com/@jimmy-shen/large-language-model-gpt3-b62dfe0e0693)
 - [Technologies behind ChatGPT](https://medium.com/datadriveninvestor/technologies-behind-chatgpt-a9a7701e176b)
-
+- [Multimodal Large Language Model (MLLM)](https://medium.com/@jimmy-shen/multimodal-large-language-model-mllm-b000543f5bc1)
+- [GPT-4 is coming!](https://medium.com/@jimmy-shen/gpt-4-is-coming-45c61eb95e6e)
 
 ## AIGC ## 
 - [Stable Diffusion](https://medium.com/datadriveninvestor/stable-diffusion-f60a254c4ea)
@@ -90,6 +91,11 @@ image:
 ## Pandas ##  
 - [Python dictionary pass by value or by reference? What about pandas data frame?](https://medium.com/@jimmy-shen/python-dictionary-pass-by-value-or-by-reference-what-about-pandas-data-frame-3364d4d9cdad)
 - [How to check whether two pandas dataframe is equal?](https://medium.com/@jimmy-shen/how-to-check-whether-two-pandas-dataframe-is-equal-c98169fdbc8e)
+- [Pandas Fast or Slow?](https://medium.com/@jimmy-shen/pandas-fast-or-slow-9fb58be10860)
+- [Pandas axis=0 and axis=1](https://medium.com/@jimmy-shen/pandas-axis-0-and-axis-1-74ee292af2ab)
+- [Pandas internal](https://medium.com/@jimmy-shen/pandas-internal-dcbc4b091562)
+- [pd datetime](https://medium.com/@jimmy-shen/pd-datetime-949c31d92936)
+
 
 ## Pytorch Coding Tips
 - [Pytorch Model transfer](https://medium.com/@jim.morris.shen/pytorch-model-transfer-b0657879791d?source=friends_link&sk=8faae22b738d72c38bcb1dc0613f55c0)

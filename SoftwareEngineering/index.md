@@ -22,7 +22,7 @@ image:
 My 'Serious' coding got started since I became a student as a Computer Science Major at the CUNY. Thanks for [Dr. Siyu Liao](https://liaocs2008.github.io/)'s help during my earlier programming life. Thanks for [Professor Liang Huang](http://web.engr.oregonstate.edu/~huanlian/) to guide me to the Python world. I am actively participate in the Leetcode weekly contest and you can find my profile [here](https://leetcode.com/liketheflower/).
 
 ## Algorithm ## 
-## Complexity ## 
+### Complexity ### 
 - [Nice visualization for computation complexity](https://jimmy-shen.medium.com/nice-visualization-for-computation-complexity-b4f2bd6926d6)
 
 ### Sorting ### 
@@ -208,6 +208,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [A nice two pointer problem](https://jimmy-shen.medium.com/a-nice-two-pointer-problem-9a0ea6150e60)
 - [A nice two pointer problem LC 151. Reverse Words in a String](https://jimmy-shen.medium.com/a-nice-two-pointer-problem-31d1e1d2bcd8)
 - [Two slow and one fast pointer: LC 142 Linked list cycle II](https://jimmy-shen.medium.com/two-slow-and-one-fast-pointer-96e7a9daba64)
+
 ## Two Pointer and Monotonic Queue and Greedy
 - [Two Pointer and Monotonic Queue and Greedy](https://jimmy-shen.medium.com/monotonic-queue-two-pointer-and-greedy-algorithm-e0c466d49bb1)
 - [MUSTSEE Two Pointer and Deque](https://jimmy-shen.medium.com/two-pointer-and-deque-f8f1aa45112)
@@ -219,11 +220,11 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ## Binary Search  
 - [binary search](https://medium.com/@jim.morris.shen/binary-search-30f3d0d7225?source=friends_link&sk=585409d25eeb3e41daea53f3a16c4b5d)
 - [How to set the middle value in a binary search](https://medium.com/@jim.morris.shen/how-to-set-the-middle-value-in-a-binary-search-f8efb67f8b97?sk=cecb96a37ed2fdda576fca8a4adc6a39)
--[Why binary search is not working in this problem](https://medium.com/@jim.morris.shen/why-binary-search-is-not-working-in-this-problem-5aa315a8647c)
--[A hard binary search problem find median of two sorted array](https://jimmy-shen.medium.com/a-hard-binary-search-problem-3238ea1a43a5)
--[1760. Minimum Limit of Balls in a Bag](https://jimmy-shen.medium.com/binary-search-88c842af7e9b)
--[A harder bianry search problem 658. Find K Closest Elements](https://jimmy-shen.medium.com/a-hard-binary-search-problem-d1224f78205c)
--[Two layer binary search](https://jimmy-shen.medium.com/6fe4319d370e)
+- [Why binary search is not working in this problem](https://medium.com/@jim.morris.shen/why-binary-search-is-not-working-in-this-problem-5aa315a8647c)
+- [A hard binary search problem find median of two sorted array](https://jimmy-shen.medium.com/a-hard-binary-search-problem-3238ea1a43a5)
+- [1760. Minimum Limit of Balls in a Bag](https://jimmy-shen.medium.com/binary-search-88c842af7e9b)
+- [A harder bianry search problem 658. Find K Closest Elements](https://jimmy-shen.medium.com/a-hard-binary-search-problem-d1224f78205c)
+- [Two layer binary search](https://jimmy-shen.medium.com/6fe4319d370e)
 
 ## String problems  
 - [KMP](https://medium.com/@jim.morris.shen/kmp-674b29c95411?source=friends_link&sk=444bcadb1100bddb78d3108e216de273)
@@ -266,7 +267,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ## Process simulation  ## 
 - [process simulation](https://medium.com/@jim.morris.shen/process-simulation-ed6e726efa9?source=friends_link&sk=3b45a1f1226312c165bf658619f7e2c3)
 - [Solve the problem by simulating the whole process](https://medium.com/@jimmy-shen/solve-the-problem-by-simulating-the-whole-process-49a4193ab98c)
-
+- [Hack a LC hard problem step by step](https://jimmy-shen.medium.com/hack-a-lc-hard-problem-step-by-step-ffb06daaab8c)
 
 ## Discuss by cases 
 - [LCP 29 band locations](coding/others/LCP29_band_location.md)
@@ -341,6 +342,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [two pointer and binary search](https://medium.com/@jim.morris.shen/binary-search-and-two-pointer-4c9e2043f55c?sk=6481ddfcdc873617310fd223844abebb)
 - [Two pointer and binary search Leetcode 76 Minimum Window Substring](https://medium.com/@jim.morris.shen/binary-search-and-two-pointers-ec3ca697744?sk=b49f268e1f83da6bcbb5876b9c0f53d6)
 -[Binary search and two pointers: LeetCode 76. Minimum Window Substring ](https://jimmy-shen.medium.com/binary-search-and-two-pointer-c534d7b81206)
+
 ### Union Find and two pointer  
 - [union find and two pointers LC 1697. Checking Existence of Edge Length Limited Paths](https://jimmy-shen.medium.com/union-find-and-two-pointer-d78e0c081cc2)
 
@@ -409,6 +411,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ### Heap    
 - [Implement a heap](https://medium.com/@jim.morris.shen/implement-a-heap-b36ee24ea0cf?source=friends_link&sk=7253e64b1021a3b0bd351a396876a177)
 - [Implement a binary heap by C++](https://medium.com/@jim.morris.shen/implement-a-binary-heap-by-c-d02a9499f61e?sk=74fdb51e0ea1d04eff394dc29cfa37bf) 
+- [Dynamically building the heap](https://jimmy-shen.medium.com/dynamically-building-the-heap-f36093d39a4c)
 
 ### Multiset  
 - [using 3 multiset MUSTSEE](https://jimmy-shen.medium.com/using-three-multisets-74cd5da0d01)
@@ -446,7 +449,6 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Trie](https://jimmy-shen.medium.com/trie-cca88ba7620c)
 - [Trie and XOR](https://jimmy-shen.medium.com/xor-and-trie-6e858533dd5b)
 - [Trie and DFS](https://jimmy-shen.medium.com/trie-and-dfs-d4c1924d72f6)
-
 
 ### Trie and Fast Walsh-Hadamard transform algorithm  
 - [Trie and Fast Walsh–Hadamard transform algorithm](https://jimmy-shen.medium.com/trie-and-fast-walsh-hadamard-transform-algorithm-6f32645d4ad1)
@@ -515,6 +517,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Python testing](https://medium.com/@jimmy-shen/python-testing-56c7ed913346)
 - [What is the current path when python import module?](https://medium.com/@jimmy-shen/what-is-the-current-path-when-python-import-module-c69fee22aed4)
 - [All you need to know about Python Type Hints](https://medium.com/@jimmy-shen/all-you-need-to-know-about-python-type-hints-d0901e24904)
+- [Python floating number sum give different result](https://medium.com/@jimmy-shen/python-floating-number-sum-give-different-result-ac6f60f52a1f)
+- [Exploration of the blog “Why Python is Slow: Looking Under the Hood”](https://medium.com/@jimmy-shen/exploration-of-the-blog-why-python-is-slow-looking-under-the-hood-65e1050a4bcc)
+
 
 ## C++ STL 
 -[STL Containers](https://jimmy-shen.medium.com/stl-containers-47b1fd21f4f7)
@@ -542,6 +547,11 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Have a set of structs](https://jimmy-shen.medium.com/how-to-have-a-set-of-structs-in-c-60b301edea94)
 - [Why does priority queue (max heap) in C++ use less<T> instead of greater<T>?](https://jimmy-shen.medium.com/why-does-priority-queue-max-heap-in-c-use-less-t-instead-of-greater-t-f1b78c3a04b2)
 
+
+## Haskell ##  
+- [Why Haskell and How to Learn?](https://medium.com/@jimmy-shen/why-haskell-and-how-to-learn-200ed7148c0e)
+
+
 ## Rust ##  
 - [Rust on MAC from beginning](https://medium.com/@jimmy-shen/rust-on-mac-from-beginning-f4a164acb89)
 
@@ -549,10 +559,14 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ## Git tips ##   
 - [Git tips](https://medium.com/@jim.morris.shen/git-tips-a8902c528177?sk=fbfbf5011334f17cbd964634cde000a8)
 - [git merge VS git rebase](https://medium.com/@jim.morris.shen/git-rebase-vs-git-merge-aef5a505daf0?source=friends_link&sk=a25bd38f315039d1fd914fb48cbebcf8)
+- [Tutorials of Git and Git internal](https://medium.com/@jimmy-shen/tutorials-of-git-and-git-internal-9228c48d9983)
+
 
 ## Docker  
 - [Docker](https://medium.com/@jim.morris.shen/docker-feefb774a36a?source=friends_link&sk=b08587a800a22256b80e1488031eb699)
 - [How to use Docker](https://medium.com/@jim.morris.shen/how-to-use-docker-7d189dc3dea5?sk=5424a40df1635ef041bea6b214e7d97e)
+- [Update docker containers’ default storage location on Ubuntu](https://medium.com/@jimmy-shen/update-docker-containers-default-storage-location-on-ubuntu-4bc94f427ee9)
+
 ## Imporant times 
 - [Solve a thousand problems](https://medium.com/@jim.morris.shen/solve-a-thousand-problems-1386b183120?source=friends_link&sk=e7178967a1b40c62ba8179eff91a0b20)
 
@@ -579,8 +593,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Golang nested struct](https://medium.com/@jim.morris.shen/golang-nested-struct-6f217544db0b?source=friends_link&sk=256b682bc5b1cbe392aba3f4da8b54d4)
 - [Golang and protocol buffer](https://medium.com/@jim.morris.shen/golang-fdc8b59cb722?source=friends_link&sk=b42a21021d84b006bf1813eefc703ab7)
 
-## Top Coders   
+## Top Coders and cool blogs ##   
 - [top coders](https://medium.com/@jim.morris.shen/top-coders-c4aa2ffd5544?source=friends_link&sk=64ee99ca78b5b93ab464abd2b6cf87cd)
+- [Cool blogs](https://medium.com/@jimmy-shen/cool-blogs-e515cd02f017)
 
 ## SWE related ##  
 - [Programmer’s hardest tasks](https://medium.com/@jimmy-shen/programmers-hardest-tasks-73cf2d379e55)
