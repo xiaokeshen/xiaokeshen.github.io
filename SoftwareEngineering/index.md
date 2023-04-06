@@ -234,6 +234,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Leetcode 1562. Find Latest Group of Size M](https://medium.com/@jim.morris.shen/union-find-3e2dba89e8d3?source=friends_link&sk=cf0f17232b4c53a410ea72c657245d78) 
 - [Use union find to solve a hard problem: LC:2076. Process Restricted Friend Requests](https://jimmy-shen.medium.com/use-union-find-to-solve-a-hard-problem-f854f4ba9342)
 - [Union Find and Prime Factorization 952. Largest Component Size by Common Factor](https://jimmy-shen.medium.com/union-find-and-prime-factorization-265eb7aef8e4)
+- [The hardest union find problem ever](https://medium.com/@jimmy-shen/the-hardest-union-find-problem-ever-1385e695ebe9)
 
 ## Segment Tree  
 - [segment tree and RMQ](https://medium.com/@jim.morris.shen/segment-tree-or-rmq-442de4517c65?sk=c91fa0c5eb9bc99c68a6850101557a99)
@@ -370,10 +371,13 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ## Geometric Problems  
 - [Geometric problems](https://medium.com/@jim.morris.shen/geometric-problems-3139398b6b5b?source=friends_link&sk=9f58e8e296a1dc3bc6f5adb846dcea66)
 - [Polygon collision](https://medium.com/@jim.morris.shen/polygon-collision-4aa4f67c1d9?sk=35e7cf57f6953fd6da696fda6b7e6f24)
--[The intersection of Convex Polygons Algorithm](https://medium.com/@jim.morris.shen/the-intersection-of-convex-polygons-algorithm-b8e67bc18c36?sk=bde72f4daa748b2c47b60726d90cfcb8)
+- [The intersection of Convex Polygons Algorithm](https://medium.com/@jim.morris.shen/the-intersection-of-convex-polygons-algorithm-b8e67bc18c36?sk=bde72f4daa748b2c47b60726d90cfcb8)
+- [Max Points on a Line](https://jimmy-shen.medium.com/max-points-on-a-line-d7e4a7297583)
+
 ## Interval Problems  
 - [Interval problems](https://medium.com/@jim.morris.shen/interval-problems-b1d99bc43aef?sk=d1d5c01f91f4402c698da1bed0bd5c56) 
 - [LeetCode: 1288. Remove Covered Intervals](https://medium.com/@jim.morris.shen/leetcode-1288-remove-covered-intervals-e34b5e5d4b3e?source=friends_link&sk=8e66ee84bb4baadf07a9e0a3d3f8407a)
+
 
 ## Word search problems  
 - [Backtracking for words related problems](https://medium.com/@jim.morris.shen/backtracking-for-words-related-problems-4a2f09d15b73?source=friends_link&sk=a34fdb9b4e76d5cf0709c7c3cf9e1209)
@@ -505,6 +509,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 
 ## Python tips 
 - [Format python code](https://jimmy-shen.medium.com/format-python-code-in-an-efficient-way-43502d4afad4)
+- [Python testing](https://medium.com/@jimmy-shen/python-testing-56c7ed913346)
+- [What is the current path when python import module?](https://medium.com/@jimmy-shen/what-is-the-current-path-when-python-import-module-c69fee22aed4)
+- [All you need to know about Python Type Hints](https://medium.com/@jimmy-shen/all-you-need-to-know-about-python-type-hints-d0901e24904)
 
 ## C++ STL 
 -[STL Containers](https://jimmy-shen.medium.com/stl-containers-47b1fd21f4f7)
@@ -531,6 +538,11 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Difference between vector and stack in C++](https://jimmy-shen.medium.com/difference-between-a-vector-and-a-stack-500de88f8b31)
 - [Have a set of structs](https://jimmy-shen.medium.com/how-to-have-a-set-of-structs-in-c-60b301edea94)
 - [Why does priority queue (max heap) in C++ use less<T> instead of greater<T>?](https://jimmy-shen.medium.com/why-does-priority-queue-max-heap-in-c-use-less-t-instead-of-greater-t-f1b78c3a04b2)
+
+## Rust ##  
+- [Rust on MAC from beginning](https://medium.com/@jimmy-shen/rust-on-mac-from-beginning-f4a164acb89)
+
+
 ## Git tips  
 - [Git tips](https://medium.com/@jim.morris.shen/git-tips-a8902c528177?sk=fbfbf5011334f17cbd964634cde000a8)
 - [git merge VS git rebase](https://medium.com/@jim.morris.shen/git-rebase-vs-git-merge-aef5a505daf0?source=friends_link&sk=a25bd38f315039d1fd914fb48cbebcf8)
@@ -567,6 +579,18 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ## Top Coders   
 - [top coders](https://medium.com/@jim.morris.shen/top-coders-c4aa2ffd5544?source=friends_link&sk=64ee99ca78b5b93ab464abd2b6cf87cd)
 
+## SWE related ##  
+- [Programmer’s hardest tasks](https://medium.com/@jimmy-shen/programmers-hardest-tasks-73cf2d379e55)
+
+
 ## Hardwares   
 ### Edge devices  
 - [Raspberry Pi 4](https://medium.com/@jim.morris.shen/raspberry-pi-4-98cc82b6edac?source=friends_link&sk=cdf5bc97906891b085d1656dec9c1fe4)
+
+## Tools ## 
+### Vim ###  
+- [Vim and Python](https://medium.com/@jimmy-shen/vim-and-python-31c519359dd0)
+
+
+## Real life problems ##  
+- [iPhone Storage Full, Stuck on home screen](https://medium.com/@jimmy-shen/iphone-storage-full-stuck-on-home-screen-1ceb15897c84)

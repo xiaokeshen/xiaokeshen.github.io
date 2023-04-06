@@ -29,12 +29,31 @@ image:
 ### Paper writting ###
 - [How to write paper abstract](https://jimmy-shen.medium.com/how-to-write-paper-abstract-c8b37eba895b)
 
-## CV tutorials ## 
+## CV  ## 
 ### Image classification  
 - [Using Paddlepaddle to recognize flowers](https://jimmy-shen.medium.com/using-paddlepaddle-to-recognize-flowers-e8eb0cf5acbc)
 
-## NLP toturials ###
+## NLP  ##
 - [Awesome Transformer Tutorial and blogs](https://jimmy-shen.medium.com/awesome-transformer-tutorial-and-blogs-5d33f1e91546)
+- [Transformer number of parameters estimation](https://medium.com/@jimmy-shen/transformer-number-of-parameters-estimation-92a80021bba9)
+
+
+## LLM ## 
+- [Large Language Model: GPT3](https://medium.com/@jimmy-shen/large-language-model-gpt3-b62dfe0e0693)
+- [Technologies behind ChatGPT](https://medium.com/datadriveninvestor/technologies-behind-chatgpt-a9a7701e176b)
+
+
+## AIGC ## 
+- [Stable Diffusion](https://medium.com/datadriveninvestor/stable-diffusion-f60a254c4ea)
+
+
+## RL ##  
+- [Reinforcement learning](https://medium.com/@jimmy-shen/reinforcement-learning-9c3a936c7325)
+- [Proximal Policy Optimization in Reinforcement learning](https://medium.com/@jimmy-shen/proximal-policy-optimization-in-reinforcement-learning-629430d9c988)
+- [PPO based on stable_baselines3](https://medium.com/@jimmy-shen/ppo-based-on-stable-baselines3-b8cb1e2db5d3)
+- [OpenAI Gym](https://medium.com/@jimmy-shen/openai-gym-f8f3ffcc08)
+
+
 
 ## ML Key concepts ##
 - [KL divergence](https://medium.com/@jim.morris.shen/why-we-dont-say-kl-divergence-is-a-distance-b0b25a8e6004?sk=59a0479988eb850a0b0b5c2a4e5937a1)
@@ -65,8 +84,11 @@ image:
 ## Top Researchers
 - [Top researchers](https://jimmy-shen.medium.com/top-researchers-8cf9b3696a3a)
 
-## NumPy tips 
+## NumPy ##  
 - [Numpy Broadcasting](https://jimmy-shen.medium.com/numpy-broadcasting-33eebbb9ee21)
+
+## Pandas ##  
+- [Python dictionary pass by value or by reference? What about pandas data frame?](https://medium.com/@jimmy-shen/python-dictionary-pass-by-value-or-by-reference-what-about-pandas-data-frame-3364d4d9cdad)
 
 ## Pytorch Coding Tips
 - [Pytorch Model transfer](https://medium.com/@jim.morris.shen/pytorch-model-transfer-b0657879791d?source=friends_link&sk=8faae22b738d72c38bcb1dc0613f55c0)
@@ -87,13 +109,18 @@ image:
 ## PyTorch ##
 - [Why PyTorch Lightning?](https://jimmy-shen.medium.com/why-pytorch-lightning-1c41af4bd618)
 
+## JAX ## 
+- [Install JAX on linux based on CUDA 10.1](https://medium.com/@jimmy-shen/install-jax-on-linux-based-on-cuda-10-1-a136526df8f7)
+
 ## Source Code understanding
 ### Pytorch Source Code
 - [How to understand Pytorch Source Code](https://medium.com/@jim.morris.shen/how-to-understand-pytorch-source-code-1fdbdbbf007e?source=friends_link&sk=435606c5255887776c92cb738e3f6694)
 
 
 ## Visualization by using Tableau
-
 - [Titanic and Tablea](https://jimmy-shen.medium.com/titanic-and-tableau-e450b70e9e16)
 
+
+## Random ## 
+- [Interesting artificial intelligence and machine learning websites](https://medium.com/@jimmy-shen/some-helpful-artificial-intelligence-and-machine-learning-websites-abea6783d470)
 
