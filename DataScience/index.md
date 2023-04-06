@@ -89,6 +89,7 @@ image:
 
 ## Pandas ##  
 - [Python dictionary pass by value or by reference? What about pandas data frame?](https://medium.com/@jimmy-shen/python-dictionary-pass-by-value-or-by-reference-what-about-pandas-data-frame-3364d4d9cdad)
+- [How to check whether two pandas dataframe is equal?](https://medium.com/@jimmy-shen/how-to-check-whether-two-pandas-dataframe-is-equal-c98169fdbc8e)
 
 ## Pytorch Coding Tips
 - [Pytorch Model transfer](https://medium.com/@jim.morris.shen/pytorch-model-transfer-b0657879791d?source=friends_link&sk=8faae22b738d72c38bcb1dc0613f55c0)

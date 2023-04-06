@@ -18,13 +18,14 @@ image:
 
 
 
-## Coding
+## Coding ## 
 My 'Serious' coding got started since I became a student as a Computer Science Major at the CUNY. Thanks for [Dr. Siyu Liao](https://liaocs2008.github.io/)'s help during my earlier programming life. Thanks for [Professor Liang Huang](http://web.engr.oregonstate.edu/~huanlian/) to guide me to the Python world. I am actively participate in the Leetcode weekly contest and you can find my profile [here](https://leetcode.com/liketheflower/).
 
-## Algorithm
-## Complexity 
+## Algorithm ## 
+## Complexity ## 
 - [Nice visualization for computation complexity](https://jimmy-shen.medium.com/nice-visualization-for-computation-complexity-b4f2bd6926d6)
-### Sorting  
+
+### Sorting ### 
 - [Sorting algorithms](https://medium.com/@jim.morris.shen/sorting-algorithms-fa9bf8b4e859?source=friends_link&sk=43bc5d87e56ad8bea30ef1cb75ef5aa9)
 - [quicksort](https://medium.com/@jim.morris.shen/quick-sort-3c34238d320e?sk=504825ee1bfd5ede24f7592804ac2387)
 - [Leetcode 274 H index](https://medium.com/@jim.morris.shen/leetcode-274-h-index-8c6e6802b385?source=friends_link&sk=8908c9aa0b0611b97f258c612f999a89)
@@ -32,9 +33,9 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [merge sort on a linked list](https://jimmy-shen.medium.com/merge-sort-on-a-linked-list-d15052fc8724)
 
 
-### Graph Algorithm
+### Graph Algorithm ###  
 
-#### BFS/DFS
+#### BFS/DFS ####  
 - [LeetCode 1462 Course Schedule IV](https://medium.com/@jim.morris.shen/leetcode-1462-course-schedule-iv-8aa257304788?sk=c363cf043e0dc6dde1d41920ec64fbd8)
 - [Leetcode 797. All Paths From Source to Target](https://medium.com/@jim.morris.shen/leetcode-797-all-paths-from-source-to-target-ce64d0e78b50?source=friends_link&sk=a0203922419a241a22c837a2fdfb64e4)
 - [A standard BFS Leetcode 773 Sliding Puzzle](https://medium.com/@jim.morris.shen/a-standard-bfs-leetcode-773-sliding-pu-6df4626e6cd4?sk=d1b80a07bf61b88149e3ba2bb6607b0b)
@@ -258,12 +259,14 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Backtracking 3 40. Combination Sum II](https://jimmy-shen.medium.com/backtracking-3cc831c35063)
 - [Using backtrack to solve the Word Search problem](https://jimmy-shen.medium.com/using-backtrack-to-solve-the-word-search-problem-b50b23226749)
 - [word search, trie and backtrack](https://jimmy-shen.medium.com/word-search-trie-and-backtrack-1f7032a78b5c)
-## Backtrack and bitmask  
+## Backtrack and bitmask  ## 
 - [Backtrack by using bit mask to record visited node](https://jimmy-shen.medium.com/backtrack-by-using-bit-mask-to-record-visited-nodes-72ddc8e29b4d)
 - [Backtrack and bit manipulation](https://jimmy-shen.medium.com/backtrack-and-bit-manipulation-ce25b55d3a6f)
 
-## Process simulation  
+## Process simulation  ## 
 - [process simulation](https://medium.com/@jim.morris.shen/process-simulation-ed6e726efa9?source=friends_link&sk=3b45a1f1226312c165bf658619f7e2c3)
+- [Solve the problem by simulating the whole process](https://medium.com/@jimmy-shen/solve-the-problem-by-simulating-the-whole-process-49a4193ab98c)
+
 
 ## Discuss by cases 
 - [LCP 29 band locations](coding/others/LCP29_band_location.md)
@@ -410,10 +413,10 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 ### Multiset  
 - [using 3 multiset MUSTSEE](https://jimmy-shen.medium.com/using-three-multisets-74cd5da0d01)
 
-### Linked List     
+### Linked List ###      
 - [Singly Linked List](coding/data_structure/linked_list/single_linked_list.md)
 - [List](https://medium.com/@jim.morris.shen/list-cb6d530d064f?source=friends_link&sk=c12b8542e4b8729358a34dfedf78a7d5)
-- [linked List: Leetcode 24. Swap Nodes in Pairs] (https://jimmy-shen.medium.com/linked-list-1d4f2983e1bc)
+- [linked List: Leetcode 24. Swap Nodes in Pairs](https://jimmy-shen.medium.com/linked-list-1d4f2983e1bc)
 - [Linked List Problems](https://jimmy-shen.medium.com/linked-list-problems-9daa7e21b317)
 
 ### Binary Tree   
@@ -487,8 +490,8 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [MUSTSEE three formulas for algorithm complexity analysis](https://jimmy-shen.medium.com/three-formulas-for-algorithm-complexity-analysis-7c092ecc3db)
 
 
-## Random topics  
-###My Mistakes 
+## Random topics ##  
+### My Mistakes ###  
 - [My Mistakes](https://medium.com/@jim.morris.shen/my-mistakes-1ee9d0839eb9?sk=20bfe95e1428a9e7a986713a99104720)
 
 ### Garbage Collection   
@@ -543,7 +546,7 @@ My 'Serious' coding got started since I became a student as a Computer Science M
 - [Rust on MAC from beginning](https://medium.com/@jimmy-shen/rust-on-mac-from-beginning-f4a164acb89)
 
 
-## Git tips  
+## Git tips ##   
 - [Git tips](https://medium.com/@jim.morris.shen/git-tips-a8902c528177?sk=fbfbf5011334f17cbd964634cde000a8)
 - [git merge VS git rebase](https://medium.com/@jim.morris.shen/git-rebase-vs-git-merge-aef5a505daf0?source=friends_link&sk=a25bd38f315039d1fd914fb48cbebcf8)
 
