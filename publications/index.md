@@ -18,8 +18,16 @@ image:
 
 ---
 
+
+## 2023   
+- Xiaoke Shen, Ioannis Stamos, Unified Object Detector for Different Modalities based on Vision Transformers, (under review) [pdf](https://arxiv.org/pdf/2207.01071.pdf) [code](https://github.com/liketheflower/UODDM) [demo](https://youtu.be/PuRQCLLSUDI)
+
+## 2022   
+- Xiaoke Shen, Ioannis Stamos, Cross-Modality Transfer Learning for Object Detection with ConvNets or Vision Transformers, (under review) [pdf](https://arxiv.org/pdf/2203.10456.pdf) [code](https://github.com/liketheflower/CrossTrans) [demo](https://youtu.be/qQ0w-GpPzjI)
+
 ## 2021
-- Xiaoke Shen, Ioannis Stamos, 3D Object Detection and Instance Segmentation from 3D Range and 2D Color Images, Sensors 2021, 21(4), 1213 [link](https://www.mdpi.com/992748)
+- Xiaoke Shen, Ioannis Stamos, 3D Object Detection and Instance Segmentation from 3D Range and 2D Color Images, Special Issue Sensors and Computer Vision Techniques for 3D Object Modeling, 2021 [pdf](https://www.mdpi.com/992748)
+- Yang Liu, You Wu, Xiaoke Shen, Lei Xie, COVID-19 multi-targeted drug repurposing using few-shot learning, Frontiers in Bioinformatics, 2021, [link](https://www.frontiersin.org/articles/10.3389/fbinf.2021.693177/full)
 
 ## 2020
 - Xiaoke Shen, Yang Liu, You Wu, Lei Xie, MoLGNN: Self-Supervised Motif Learning Graph Neural Network for Drug Discovery, Machine Learning for Molecules Workshop @ NeurIPS 2020 [pdf](https://ml4molecules.github.io/papers2020/ML4Molecules_2020_paper_4.pdf)  
